@@ -1,0 +1,2001 @@
+public_reference,mileage,reg_code,standard_colour,standard_make,standard_model,vehicle_condition,year_of_registration,price,body_type,crossover_car_and_van,fuel_type
+2.02E+14,0,,Grey,Volvo,XC90,NEW,,73970,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,108230,61,Blue,Jaguar,XF,USED,2011,7000,Saloon,FALSE,Diesel
+2.02E+14,7800,17,Grey,SKODA,Yeti,USED,2017,14000,SUV,FALSE,Petrol
+2.02E+14,45000,16,Brown,Vauxhall,Mokka,USED,2016,7995,Hatchback,FALSE,Diesel
+2.02E+14,64000,64,Grey,Land Rover,Range Rover Sport,USED,2015,26995,SUV,FALSE,Diesel
+2.02E+14,16000,17,Blue,Audi,S5,USED,2017,29000,Convertible,FALSE,Petrol
+2.02E+14,24075,17,Red,Vauxhall,Viva,USED,2017,5861,Hatchback,FALSE,Petrol
+2.02E+14,99000,13,Bronze,Land Rover,Range Rover,USED,2013,24475,SUV,FALSE,Diesel
+2.02E+14,111236,8,Black,Mercedes-Benz,S Class,USED,2008,6995,Limousine,FALSE,Diesel
+2.02E+14,9500,19,White,Land Rover,Range Rover,USED,2019,79995,SUV,FALSE,Diesel
+2.02E+14,77000,60,Grey,Volkswagen,Passat,USED,2010,4499,Saloon,FALSE,Diesel
+2.02E+14,24487,17,Black,Peugeot,208,USED,2017,8795,Hatchback,FALSE,Petrol
+2.02E+14,4765,69,White,SKODA,Octavia,USED,2019,16990,Estate,FALSE,Petrol
+2.02E+14,18214,19,Silver,SEAT,Leon,USED,2019,14290,Hatchback,FALSE,Petrol
+2.02E+14,31534,17,Grey,MINI,Hatch,USED,2017,19000,Hatchback,FALSE,Petrol
+2.02E+14,38603,16,Blue,BMW,2 Series Gran Tourer,USED,2016,16000,MPV,FALSE,Diesel
+2.02E+14,52023,66,Blue,Volkswagen,Golf,USED,2016,13500,Estate,FALSE,Diesel
+2.02E+14,5,,,Nissan,X-Trail,NEW,,27595,SUV,FALSE,Diesel
+2.02E+14,29500,12,Grey,Mercedes-Benz,C Class,USED,2012,9495,Saloon,FALSE,Petrol
+2.02E+14,0,,White,Volkswagen,T-Cross,NEW,,25000,SUV,FALSE,Petrol
+2.02E+14,35300,18,Grey,Vauxhall,Corsa,USED,2018,7293,Hatchback,FALSE,Petrol
+2.02E+14,47299,65,Black,Nissan,Qashqai,USED,2016,11500,SUV,FALSE,Diesel
+2.02E+14,3354,19,Blue,SKODA,Citigo,USED,2019,7999,Hatchback,FALSE,Petrol
+2.02E+14,90000,9,Silver,Mitsubishi,Colt,USED,2009,1795,Hatchback,FALSE,Petrol
+2.02E+14,98000,12,Black,Vauxhall,Astra GTC,USED,2012,3795,Coupe,FALSE,Diesel
+2.02E+14,49585,,,Ferrari,308,USED,1984,54475,Convertible,FALSE,Petrol
+2.02E+14,2802,19,Grey,Citroen,Grand C4 SpaceTourer,USED,2019,16995,MPV,FALSE,Petrol
+2.02E+14,7990,19,Black,Toyota,Yaris,USED,2019,11147,Hatchback,FALSE,Petrol
+2.02E+14,11961,19,Red,Volvo,XC60,USED,2019,32995,SUV,FALSE,Diesel Hybrid
+2.02E+14,73000,61,Grey,Toyota,Verso,USED,2011,4290,MPV,FALSE,Diesel
+2.02E+14,17020,17,Grey,Vauxhall,Corsa,USED,2017,6795,Hatchback,FALSE,Petrol
+2.02E+14,7989,18,Blue,Kia,Sorento,USED,2018,30000,SUV,FALSE,Diesel
+2.02E+14,180000,64,White,SKODA,Octavia,USED,2014,3989,Hatchback,FALSE,Diesel
+2.02E+14,4445,69,White,Volvo,V40,USED,2019,16980,Hatchback,FALSE,Diesel
+2.02E+14,12999,69,White,Peugeot,208,USED,2019,9995,Hatchback,FALSE,Petrol
+2.02E+14,5000,69,Blue,SKODA,Octavia,USED,2019,12490,Hatchback,FALSE,Diesel
+2.02E+14,3699,69,White,Renault,Koleos,USED,2019,24899,SUV,FALSE,Diesel
+2.02E+14,0,,White,Fiat,Panda,NEW,,13999,Hatchback,FALSE,Petrol
+2.02E+14,10900,19,Blue,Volvo,V60,USED,2019,28500,Estate,FALSE,Petrol
+2.02E+14,35000,64,Black,Volkswagen,Golf,USED,2014,14500,Hatchback,FALSE,Diesel
+2.02E+14,79485,10,White,BMW,5 Series Gran Turismo,USED,2010,11995,Hatchback,FALSE,Petrol
+2.02E+14,40490,14,Red,Audi,A3,USED,2014,12870,Hatchback,FALSE,Petrol
+2.02E+14,4189,18,Black,Peugeot,108,USED,2018,8495,Hatchback,FALSE,Petrol
+2.02E+14,2000,69,Red,Honda,Jazz,USED,2019,14640,Hatchback,FALSE,Petrol
+2.02E+14,0,,,Honda,Civic,NEW,,19495,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Volvo,S60,NEW,,40264,Saloon,FALSE,Petrol
+2.02E+14,19000,18,Black,Mercedes-Benz,E Class,USED,2018,32980,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,67440,3,Blue,Jaguar,XK8,USED,2003,12500,Convertible,FALSE,Petrol
+2.02E+14,61760,9,Silver,Vauxhall,Corsa,USED,2009,2295,Hatchback,FALSE,Petrol
+2.02E+14,37000,66,Grey,BMW,7 Series,USED,2016,30995,Saloon,FALSE,Diesel
+2.02E+14,0,,Grey,Fiat,500,NEW,,11700,Hatchback,FALSE,Petrol
+2.02E+14,64785,61,Silver,Volkswagen,Polo,USED,2011,4995,Hatchback,FALSE,Diesel
+2.02E+14,117420,61,Silver,Vauxhall,Astra,USED,2011,2295,Estate,FALSE,Diesel
+2.02E+14,7066,67,Purple,Volkswagen,Caddy Life,USED,2017,17975,MPV,TRUE,Petrol
+2.02E+14,30000,18,Red,Vauxhall,Insignia,USED,,11990,Hatchback,FALSE,Petrol
+2.02E+14,27000,63,Silver,Land Rover,Range Rover,USED,2013,38995,SUV,FALSE,Diesel Hybrid
+2.02E+14,47000,16,Black,Audi,A1,USED,2016,9800,Hatchback,FALSE,Petrol
+2.02E+14,10,,White,BMW,3 Series,NEW,,38905,Estate,FALSE,Diesel
+2.02E+14,29000,65,Grey,Citroen,C1,USED,2015,5495,Hatchback,FALSE,Petrol
+2.02E+14,58000,61,White,Bentley,Continental,USED,2011,39990,Coupe,FALSE,Petrol
+2.02E+14,38000,65,Black,Vauxhall,Mokka,USED,2015,8495,Hatchback,FALSE,Diesel
+2.02E+14,43395,63,Black,Audi,Q3,USED,2013,11699,SUV,FALSE,Diesel
+2.02E+14,85608,15,Red,Audi,S4,USED,2015,16000,Saloon,FALSE,Petrol
+2.02E+14,117000,9,Blue,BMW,X5,USED,2009,9495,SUV,FALSE,Diesel
+2.02E+14,62000,64,Silver,Nissan,Note,USED,2014,5195,Hatchback,FALSE,Diesel
+2.02E+14,5827,68,Red,Vauxhall,Corsa,USED,2018,10000,Hatchback,FALSE,Petrol
+2.02E+14,20853,18,Green,DS AUTOMOBILES,DS 3,USED,2018,8997,Hatchback,FALSE,Petrol
+2.02E+14,21474,67,Grey,Volvo,XC90,USED,2018,34950,SUV,FALSE,Diesel
+2.02E+14,10763,17,Green,MINI,Hatch,USED,2017,15490,Hatchback,FALSE,Petrol
+2.02E+14,28270,64,Red,Kia,Soul,USED,2014,6999,SUV,FALSE,Diesel
+2.02E+14,41632,64,White,Vauxhall,Mokka,USED,2014,7895,Hatchback,FALSE,Diesel
+2.02E+14,46062,9,Silver,Volvo,V50,USED,2009,6990,Estate,FALSE,Petrol
+2.02E+14,17499,18,White,Vauxhall,Corsa,USED,2018,8499,Hatchback,FALSE,Petrol
+2.02E+14,16423,15,Red,MINI,Convertible,USED,2015,12710,Convertible,FALSE,Petrol
+2.02E+14,52289,56,Blue,Citroen,C3,USED,2006,999,Hatchback,FALSE,Petrol
+2.02E+14,0,,White,Volkswagen,Polo,NEW,,16461,Hatchback,FALSE,Petrol
+2.02E+14,4290,20,Blue,Volkswagen,Golf,USED,2020,28190,Hatchback,FALSE,Petrol
+2.02E+14,72411,14,White,SEAT,Ibiza,USED,2014,5493,Hatchback,FALSE,Diesel
+2.02E+14,21000,12,Blue,Hyundai,ix20,USED,2012,6300,Hatchback,FALSE,Petrol
+2.02E+14,115000,8,Blue,MINI,Clubman,USED,2008,2795,Estate,FALSE,Diesel
+2.02E+14,121000,10,Black,Volkswagen,Golf,USED,2010,3995,Hatchback,FALSE,Diesel
+2.02E+14,30909,16,Blue,Citroen,C1,USED,2016,5695,Hatchback,FALSE,Petrol
+2.02E+14,7664,69,Blue,SKODA,Fabia,USED,2019,11000,Hatchback,FALSE,Petrol
+2.02E+14,42847,61,Red,Honda,Jazz,USED,,5695,Hatchback,FALSE,Petrol
+2.02E+14,3000,20,Red,Volvo,XC40,USED,2020,29895,SUV,FALSE,Petrol
+2.02E+14,54000,15,White,Mercedes-Benz,E Class,USED,2015,13450,Saloon,FALSE,Diesel
+2.02E+14,158900,3,Grey,Honda,Accord,USED,2003,1395,Estate,FALSE,Petrol
+2.02E+14,33000,66,Silver,Audi,A1,USED,2016,14995,Hatchback,FALSE,Diesel
+2.02E+14,30228,16,White,Renault,Clio,USED,2016,11999,Hatchback,FALSE,Petrol
+2.02E+14,1983,20,Grey,Volkswagen,T-Roc,USED,2020,23000,SUV,FALSE,Diesel
+2.02E+14,22369,17,White,Volkswagen,Tiguan,USED,2017,24000,SUV,FALSE,Diesel
+2.02E+14,9900,8,Black,Aston Martin,Vantage,USED,2008,39995,Convertible,FALSE,Petrol
+2.02E+14,3992,67,Blue,SKODA,Fabia,USED,2017,8999,Hatchback,FALSE,Petrol
+2.02E+14,60350,15,Black,Vauxhall,Insignia,USED,2015,6295,Hatchback,FALSE,Diesel
+2.02E+14,20000,65,Green,Fiat,500C,USED,2015,7690,Convertible,FALSE,Petrol
+2.02E+14,29062,66,Grey,Mercedes-Benz,A Class,USED,2016,15877,Hatchback,FALSE,Petrol
+2.02E+14,17375,67,White,Peugeot,108,USED,2018,7000,Hatchback,FALSE,Petrol
+2.02E+14,32000,67,Orange,Vauxhall,Mokka X,USED,2017,11695,SUV,FALSE,Petrol
+2.02E+14,5659,67,Blue,Nissan,Micra,USED,2017,10495,Hatchback,FALSE,Petrol
+2.02E+14,36308,12,Grey,Peugeot,107,USED,2012,3995,Hatchback,FALSE,Petrol
+2.02E+14,22225,66,Blue,Toyota,Auris,USED,2016,12995,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,4000,70,Black,Mercedes-Benz,GLB Class,USED,2020,42980,SUV,FALSE,Diesel
+2.02E+14,14000,18,Black,BMW,5 Series,USED,2018,27990,Saloon,FALSE,Diesel
+2.02E+14,108534,62,Red,SEAT,Ibiza,USED,2012,2695,Estate,FALSE,Petrol
+2.02E+14,25000,16,White,SEAT,Ibiza,USED,2016,8995,Hatchback,FALSE,Petrol
+2.02E+14,12854,67,Blue,Peugeot,108,USED,2017,6399,Hatchback,FALSE,Petrol
+2.02E+14,30678,67,Black,Nissan,Qashqai,USED,2018,13550,SUV,FALSE,Diesel
+2.02E+14,27261,67,Red,Audi,S5,USED,2017,32000,Coupe,FALSE,Petrol
+2.02E+14,57000,12,Blue,Volkswagen,Scirocco,USED,2012,9995,Coupe,FALSE,Petrol
+2.02E+14,25287,67,Silver,BMW,5 Series,USED,2017,20000,Saloon,FALSE,Diesel
+2.02E+14,663,70,White,SEAT,Tarraco,USED,2020,27490,SUV,FALSE,Petrol
+2.02E+14,13000,17,Black,Volkswagen,Golf SV,USED,2017,13000,MPV,FALSE,Petrol
+2.02E+14,10,,Blue,Volkswagen,Polo,NEW,,16500,Hatchback,FALSE,Petrol
+2.02E+14,1568,19,Black,McLaren,Senna,USED,2019,585000,Coupe,FALSE,Petrol
+2.02E+14,102498,15,Black,BMW,1 Series,USED,2015,6990,Hatchback,FALSE,Diesel
+2.02E+14,12640,19,Silver,Citroen,C3 Aircross,USED,2019,9992,SUV,FALSE,Petrol
+2.02E+14,52618,67,Grey,MINI,Hatch,USED,2017,10250,Hatchback,FALSE,Petrol
+2.02E+14,4,,Black,Volkswagen,Golf,NEW,,26292,Hatchback,FALSE,Petrol
+2.02E+14,12000,17,Silver,Toyota,C-HR,USED,2017,16390,SUV,FALSE,Petrol Hybrid
+2.02E+14,42290,16,Black,Volkswagen,Polo,USED,2016,7790,Hatchback,FALSE,Petrol
+2.02E+14,33000,11,Yellow,Fiat,500C,USED,2011,3950,Convertible,FALSE,Petrol
+2.02E+14,2500,69,Blue,SKODA,Kamiq,USED,2020,16995,SUV,FALSE,Petrol
+2.02E+14,34749,16,Purple,DS AUTOMOBILES,DS 3 CABRIO,USED,2016,9300,Convertible,FALSE,Petrol
+2.02E+14,20900,18,White,SEAT,Leon,USED,2018,13495,Estate,FALSE,Petrol
+2.02E+14,27939,16,Black,Smart,forfour,USED,2016,7440,Hatchback,FALSE,Petrol
+2.02E+14,96000,13,Grey,SEAT,Leon,USED,2013,4975,Hatchback,FALSE,Diesel
+2.02E+14,9400,69,Black,Hyundai,i800,USED,2019,21495,MPV,FALSE,Diesel
+2.02E+14,32479,66,Blue,Fiat,500,USED,2016,6750,Hatchback,FALSE,Petrol
+2.02E+14,40773,16,Black,Peugeot,208,USED,2016,6800,Hatchback,FALSE,Petrol
+2.02E+14,4208,19,Silver,Vauxhall,Corsa,USED,2019,10500,Hatchback,FALSE,Petrol
+2.02E+14,20729,17,Silver,Mercedes-Benz,A Class,USED,2017,14685,Hatchback,FALSE,Diesel
+2.02E+14,26000,66,Black,BMW,X1,USED,2016,18989,SUV,FALSE,Diesel
+2.02E+14,10,70,White,Vauxhall,Crossland X,USED,2020,17700,SUV,FALSE,Petrol
+2.02E+14,28595,66,White,Renault,Zoe,USED,2016,8990,Hatchback,FALSE,Electric
+2.02E+14,43217,66,White,Audi,A4,USED,2016,11750,Saloon,FALSE,Petrol
+2.02E+14,16000,67,Blue,Land Rover,Range Rover Evoque,USED,2018,24750,SUV,FALSE,Diesel
+2.02E+14,62000,66,Blue,BMW,5 Series,USED,2016,17850,Saloon,FALSE,Diesel
+2.02E+14,3206,20,White,Volkswagen,Passat,USED,2020,21850,Estate,FALSE,Petrol
+2.02E+14,80000,14,Grey,Vauxhall,Insignia,USED,2014,4995,Hatchback,FALSE,Diesel
+2.02E+14,14400,18,Grey,Alfa Romeo,Giulia,USED,2018,45950,Saloon,FALSE,Petrol
+2.02E+14,70000,5,Black,Porsche,Boxster,USED,2005,9950,Convertible,FALSE,Petrol
+2.02E+14,14198,66,Yellow,Toyota,AYGO,USED,2016,7395,Hatchback,FALSE,Petrol
+2.02E+14,49323,64,Silver,Toyota,RAV4,USED,2014,11999,SUV,FALSE,Diesel
+2.02E+14,74000,67,Black,Mitsubishi,Outlander,USED,2017,16000,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,60000,59,Black,Citroen,C1,USED,2009,1995,Hatchback,FALSE,Petrol
+2.02E+14,84000,58,Black,Renault,Clio,USED,2008,1499,Hatchback,FALSE,Petrol
+2.02E+14,50411,67,Blue,Toyota,RAV4,USED,2017,13490,SUV,FALSE,Diesel
+2.02E+14,50146,15,Grey,Audi,Q3,USED,2015,16000,SUV,FALSE,Diesel
+2.02E+14,43000,64,White,Abarth,595C,USED,2014,10490,Convertible,FALSE,Petrol
+2.02E+14,41338,61,Silver,Volkswagen,Polo,USED,2011,7000,Hatchback,FALSE,Petrol
+2.02E+14,27375,67,Grey,Mercedes-Benz,S Class,USED,2018,52000,Coupe,FALSE,Petrol
+2.02E+14,22764,17,Blue,Nissan,Qashqai,USED,2017,11069,Hatchback,FALSE,Diesel
+2.02E+14,71994,61,Black,Vauxhall,Astra,USED,2011,2395,Hatchback,FALSE,Petrol
+2.02E+14,19119,19,Grey,Hyundai,Santa Fe,USED,2019,28392,SUV,FALSE,Diesel
+2.02E+14,40000,14,Red,Fiat,500,USED,2014,4999,Hatchback,FALSE,Petrol
+2.02E+14,50179,16,Blue,Porsche,Boxster,USED,2016,33992,Convertible,FALSE,Petrol
+2.02E+14,20422,18,Orange,Honda,Jazz,USED,2018,12991,Hatchback,FALSE,Petrol
+2.02E+14,5000,19,Red,SKODA,Fabia,USED,2019,14288,Estate,FALSE,Petrol
+2.02E+14,15264,17,White,Jaguar,XF,USED,2017,18725,Saloon,FALSE,Diesel
+2.02E+14,33446,18,White,Land Rover,Discovery Sport,USED,2018,24250,SUV,FALSE,Diesel
+2.02E+14,58000,11,Yellow,Vauxhall,Corsa,USED,2011,3495,Hatchback,FALSE,Petrol
+2.02E+14,28411,19,Black,Mercedes-Benz,E Class,USED,2019,26455,Saloon,FALSE,Diesel
+2.02E+14,22000,66,White,Mazda,CX-5,USED,2017,13995,SUV,FALSE,Petrol
+2.02E+14,2000,20,Turquoise,Volkswagen,T-Cross,USED,2020,18795,SUV,FALSE,Petrol
+2.02E+14,52000,16,Gold,Volvo,XC60,USED,2016,13490,SUV,FALSE,Diesel
+2.02E+14,143000,58,Red,Land Rover,Freelander 2,USED,2008,3390,SUV,FALSE,Diesel
+2.02E+14,42819,16,Silver,BMW,4 Series,USED,2016,17499,Convertible,FALSE,Petrol
+2.02E+14,35000,16,Black,Hyundai,i30,USED,2016,8282,Hatchback,FALSE,Petrol
+2.02E+14,76640,13,Grey,Vauxhall,Mokka,USED,2013,5511,Hatchback,FALSE,Petrol
+2.02E+14,4792,67,Grey,Vauxhall,Mokka X,USED,2017,12795,SUV,FALSE,Petrol
+2.02E+14,49755,16,Blue,Mercedes-Benz,GLA Class,USED,2016,16795,SUV,FALSE,Diesel
+2.02E+14,28066,17,Grey,Honda,CR-V,USED,2017,15999,SUV,FALSE,Diesel
+2.02E+14,22000,18,White,Volkswagen,Golf,USED,2018,22779,Hatchback,FALSE,Petrol
+2.02E+14,11606,17,Orange,Vauxhall,Mokka X,USED,2017,12000,SUV,FALSE,Petrol
+2.02E+14,90600,61,Silver,Mercedes-Benz,GL Class,USED,2011,13985,SUV,FALSE,Diesel
+2.02E+14,102929,59,Blue,Toyota,Avensis,USED,2009,3795,Saloon,FALSE,Petrol
+2.02E+14,5162,69,Blue,BMW,4 Series,USED,2019,29000,Coupe,FALSE,Diesel
+2.02E+14,9066,69,Blue,BMW,5 Series,USED,2019,24495,Saloon,FALSE,Petrol
+2.02E+14,6642,20,Grey,Volkswagen,Golf,USED,2020,19495,Hatchback,FALSE,Petrol
+2.02E+14,30503,68,Grey,Land Rover,Range Rover Evoque,USED,2018,27990,SUV,FALSE,Diesel
+2.02E+14,3083,20,Red,Mazda,Mazda3,USED,2020,20780,Hatchback,FALSE,Petrol
+2.02E+14,1250,70,Blue,Mercedes-Benz,GLE Class,USED,2020,60995,SUV,FALSE,Diesel
+2.02E+14,90000,62,Silver,Kia,Venga,USED,2012,2600,Hatchback,FALSE,Diesel
+2.02E+14,84638,13,Black,Mercedes-Benz,C Class,USED,2013,11698,Estate,FALSE,Diesel
+2.02E+14,8000,19,White,Audi,A5,USED,2019,27944,Hatchback,FALSE,Petrol
+2.02E+14,59000,14,Black,Toyota,Prius+,USED,2014,10495,MPV,FALSE,Petrol Hybrid
+2.02E+14,60000,64,Blue,Peugeot,3008,USED,2014,6995,SUV,FALSE,Diesel
+2.02E+14,151580,8,Black,Audi,TT,USED,2008,3490,Coupe,FALSE,Petrol
+2.02E+14,16439,19,Black,Mercedes-Benz,A Class,USED,2019,15989,Hatchback,FALSE,Diesel
+2.02E+14,10,,White,Mitsubishi,Mirage,NEW,,14615,Hatchback,FALSE,Petrol
+2.02E+14,10000,68,Silver,Nissan,Qashqai,USED,2018,18495,SUV,FALSE,Diesel
+2.02E+14,8316,19,Blue,Renault,Kadjar,USED,2019,15690,SUV,FALSE,Petrol
+2.02E+14,48000,64,Blue,Citroen,C1,USED,2014,4495,Hatchback,FALSE,Petrol
+2.02E+14,80584,62,Green,BMW,5 Series,USED,2012,9999,Saloon,FALSE,Petrol
+2.02E+14,25000,67,Black,Mitsubishi,Outlander,USED,2017,19995,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,50,70,Blue,Suzuki,Swift,USED,2020,10950,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,9003,67,White,Renault,Clio,USED,2017,8595,Hatchback,FALSE,Petrol
+2.02E+14,10,70,Silver,Nissan,X-Trail,USED,2020,26795,SUV,FALSE,Diesel
+2.02E+14,60000,64,Brown,Land Rover,Range Rover,USED,2015,31990,SUV,FALSE,Diesel
+2.02E+14,15000,19,Purple,Citroen,C4 Cactus,USED,2019,11995,Hatchback,FALSE,Petrol
+2.02E+14,45000,65,Brown,Land Rover,Range Rover Sport,USED,2016,30994,SUV,FALSE,Diesel
+2.02E+14,27000,18,White,Volkswagen,Golf,USED,2018,23995,Estate,FALSE,Petrol
+2.02E+14,18000,18,Black,Land Rover,Range Rover Sport,USED,2018,97500,SUV,FALSE,Petrol
+2.02E+14,25712,65,White,DS AUTOMOBILES,DS 3,USED,2015,6250,Hatchback,FALSE,Petrol
+2.02E+14,872,19,Blue,Audi,TTS,USED,2019,37980,Coupe,FALSE,Petrol
+2.02E+14,48504,67,Grey,Mercedes-Benz,E Class,USED,2017,17208,Saloon,FALSE,Diesel
+2.02E+14,5937,17,Silver,MINI,Hatch,USED,2017,11980,Hatchback,FALSE,Diesel
+2.02E+14,65058,66,Black,Mitsubishi,Outlander,USED,2016,15990,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,24841,18,White,Kia,Sorento,USED,2018,24371,SUV,FALSE,Diesel
+2.02E+14,13739,69,Silver,Mercedes-Benz,S Class,USED,2019,89995,Saloon,FALSE,Petrol
+2.02E+14,124000,16,Red,Land Rover,Discovery Sport,USED,2016,13989,SUV,FALSE,Diesel
+2.02E+14,1,,White,BMW,X3,NEW,,41980,SUV,FALSE,Diesel Hybrid
+2.02E+14,10,70,White,Nissan,Qashqai,USED,2020,24995,SUV,FALSE,Diesel
+2.02E+14,11538,19,Grey,Vauxhall,Corsa,USED,2019,9075,Hatchback,FALSE,Petrol
+2.02E+14,135000,11,Black,Volkswagen,Golf,USED,2011,3599,Estate,FALSE,Diesel
+2.02E+14,150000,56,Silver,Audi,A4,USED,2006,1100,Saloon,FALSE,Diesel
+2.02E+14,50,70,Silver,Porsche,Cayenne,USED,2020,69795,SUV,FALSE,Petrol
+2.02E+14,31131,66,Grey,Volvo,XC90,USED,2016,32995,SUV,FALSE,Diesel
+2.02E+14,15806,68,White,Volkswagen,Golf,USED,2018,18700,Hatchback,FALSE,Petrol
+2.02E+14,46430,14,Blue,Volkswagen,Polo,USED,2014,6695,Hatchback,FALSE,Petrol
+2.02E+14,1810,69,White,Kia,Ceed,USED,2019,15499,Hatchback,FALSE,Diesel
+2.02E+14,12700,67,Blue,Renault,Captur,USED,2017,11495,SUV,FALSE,Petrol
+2.02E+14,10,,White,Audi,A3,NEW,,28255,Saloon,FALSE,Petrol
+2.02E+14,25000,65,Black,Peugeot,208,USED,2016,6995,Hatchback,FALSE,Petrol
+2.02E+14,10,70,White,Mazda,Mazda3,USED,2020,23290,Hatchback,FALSE,Petrol
+2.02E+14,33847,18,Black,Audi,A3,USED,2018,18075,Saloon,FALSE,Petrol
+2.02E+14,26000,15,Grey,Hyundai,ix35,USED,2015,8499,SUV,FALSE,Petrol
+2.02E+14,5000,20,Red,Jaguar,E-PACE,USED,2020,31900,SUV,FALSE,Diesel
+2.02E+14,55520,64,White,Kia,Sportage,USED,2014,9900,SUV,FALSE,Petrol
+2.02E+14,15992,67,Red,Citroen,C1,USED,2017,7495,Hatchback,FALSE,Petrol
+2.02E+14,50000,16,Red,Kia,Sportage,USED,2016,13485,SUV,FALSE,Diesel
+2.02E+14,4598,69,Silver,BMW,X3,USED,2019,33980,SUV,FALSE,Diesel
+2.02E+14,34741,17,Red,Nissan,Juke,USED,2017,9275,SUV,FALSE,Diesel
+2.02E+14,39406,17,Black,Land Rover,Range Rover Evoque,USED,2017,20000,SUV,FALSE,Diesel
+2.02E+14,40551,16,Silver,Land Rover,Discovery Sport,USED,2016,22499,SUV,FALSE,Diesel
+2.02E+14,80000,67,Black,Mercedes-Benz,E Class,USED,2017,23489,Coupe,FALSE,Diesel
+2.02E+14,28786,16,Grey,Mercedes-Benz,C Class,USED,2016,19451,Saloon,FALSE,Diesel
+2.02E+14,34100,17,Silver,Toyota,C-HR,USED,2017,12879,SUV,FALSE,Petrol
+2.02E+14,99000,9,Silver,Toyota,Corolla Verso,USED,2009,3250,MPV,FALSE,Petrol
+2.02E+14,32608,16,Grey,Audi,A6 Allroad,USED,2016,21800,Estate,FALSE,Diesel
+2.02E+14,47079,63,Grey,BMW,5 Series,USED,2013,13500,Saloon,FALSE,Diesel
+2.02E+14,37721,16,Blue,Toyota,Yaris,USED,2016,10795,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,10,,Grey,Audi,A5 Cabriolet,NEW,,39845,Convertible,FALSE,Petrol
+2.02E+14,58000,62,White,Land Rover,Range Rover Evoque,USED,2012,14995,SUV,FALSE,Diesel
+2.02E+14,85850,8,Blue,Vauxhall,Corsa,USED,2008,1899,Hatchback,FALSE,Petrol
+2.02E+14,41227,15,Blue,Audi,A1,USED,2015,11799,Hatchback,FALSE,Petrol
+2.02E+14,5,,White,Suzuki,Ignis,NEW,,15964,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,38976,63,Red,MINI,Countryman,USED,2013,7995,SUV,FALSE,Petrol
+2.02E+14,15382,18,Blue,Hyundai,Santa Fe,USED,2018,20000,SUV,FALSE,Diesel
+2.02E+14,52044,63,Black,Mercedes-Benz,E Class,USED,2013,13450,Estate,FALSE,Diesel Hybrid
+2.02E+14,23000,68,White,Mercedes-Benz,GLA Class,USED,2018,19295,SUV,FALSE,Petrol
+2.02E+14,41000,62,Black,Mercedes-Benz,C Class,USED,2012,9999,Estate,FALSE,Diesel
+2.02E+14,33410,18,Black,SEAT,Leon,USED,2018,12039,Hatchback,FALSE,Petrol
+2.02E+14,58472,63,Blue,Renault,Clio,USED,2013,5495,Hatchback,FALSE,Petrol
+2.02E+14,45000,14,White,Toyota,AYGO,USED,2014,4485,Hatchback,FALSE,Petrol
+2.02E+14,0,,Silver,Audi,Q3,NEW,,41101,SUV,FALSE,Diesel
+2.02E+14,196000,66,Black,Toyota,Avensis,USED,2016,4989,Estate,FALSE,Diesel
+2.02E+14,26890,67,Black,Jaguar,XF,USED,2017,16330,Saloon,FALSE,Diesel
+2.02E+14,34080,66,Black,Mercedes-Benz,GLA Class,USED,2016,18500,SUV,FALSE,Diesel
+2.02E+14,44000,14,Black,Hyundai,ix35,USED,2014,7995,SUV,FALSE,Diesel
+2.02E+14,18660,16,Blue,Honda,Jazz,USED,2016,9250,Hatchback,FALSE,Petrol
+2.02E+14,28739,18,Black,Peugeot,208,USED,2018,9296,Hatchback,FALSE,Petrol
+2.02E+14,12490,19,Red,Mazda,CX-5,USED,2019,22075,SUV,FALSE,Petrol
+2.02E+14,33670,66,White,Kia,Sportage,USED,2016,10495,SUV,FALSE,Diesel
+2.02E+14,4385,20,Grey,BMW,3 Series,USED,2020,28000,Saloon,FALSE,Petrol
+2.02E+14,63262,13,White,Audi,A1,USED,2013,9000,Hatchback,FALSE,Diesel
+2.02E+14,24000,66,Blue,Mercedes-Benz,A Class,USED,2017,16647,Hatchback,FALSE,Petrol
+2.02E+14,20319,17,White,BMW,3 Series,USED,2017,17974,Saloon,FALSE,Diesel
+2.02E+14,1008,20,White,MG,MG ZS,USED,2020,20000,SUV,FALSE,Electric
+2.02E+14,80000,3,Green,Vauxhall,Zafira,USED,2003,1980,MPV,FALSE,Petrol
+2.02E+14,56756,17,Black,BMW,3 Series,USED,2017,14750,Saloon,FALSE,Diesel
+2.02E+14,83500,64,Brown,BMW,5 Series,USED,2014,11500,Estate,FALSE,Diesel
+2.02E+14,46000,66,Blue,Land Rover,Range Rover Sport,USED,2016,56948,SUV,FALSE,Petrol
+2.02E+14,53037,62,Blue,Suzuki,Swift,USED,2012,4295,Hatchback,FALSE,Petrol
+2.02E+14,45418,17,Silver,Nissan,Qashqai,USED,2017,11239,SUV,FALSE,Diesel
+2.02E+14,11303,68,Black,Audi,A1,USED,2018,16500,Hatchback,FALSE,Petrol
+2.02E+14,50,,Blue,Toyota,Yaris,NEW,,22275,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,142000,60,White,BMW,1 Series,USED,2011,2795,Hatchback,FALSE,Diesel
+2.02E+14,75000,14,Black,Porsche,911,USED,2014,51950,Convertible,FALSE,Petrol
+2.02E+14,42784,59,Grey,Hyundai,i10,USED,2009,2595,Hatchback,FALSE,Petrol
+2.02E+14,171000,,Red,Toyota,Yaris Verso,USED,2000,495,Hatchback,FALSE,Petrol
+2.02E+14,8230,68,Black,Toyota,C-HR,USED,2018,21000,SUV,FALSE,Petrol Hybrid
+2.02E+14,35000,17,Black,Land Rover,Range Rover Sport,USED,2017,44060,SUV,FALSE,Diesel
+2.02E+14,31573,64,White,Porsche,Panamera,USED,2014,31789,Hatchback,FALSE,Diesel
+2.02E+14,21465,15,Red,Kia,Rio,USED,2015,6990,Hatchback,FALSE,Petrol
+2.02E+14,855,20,Red,Vauxhall,Crossland X,USED,2020,17995,SUV,FALSE,Petrol
+2.02E+14,35885,17,Black,Nissan,Qashqai,USED,2017,12449,SUV,FALSE,Diesel
+2.02E+14,76000,9,Black,Peugeot,207 CC,USED,2009,1995,Convertible,FALSE,Petrol
+2.02E+14,66000,2,Grey,Porsche,Boxster,USED,2002,6495,Convertible,FALSE,Petrol
+2.02E+14,43738,14,White,Fiat,500L,USED,2014,6750,MPV,FALSE,Diesel
+2.02E+14,36000,60,White,MINI,Countryman,USED,2010,6850,SUV,FALSE,Diesel
+2.02E+14,24743,65,Green,Fiat,500,USED,2015,6345,Hatchback,FALSE,Petrol
+2.02E+14,94400,16,Red,Land Rover,Discovery Sport,USED,2016,17749,SUV,FALSE,Diesel
+2.02E+14,6535,69,Grey,Land Rover,Discovery Sport,USED,2019,38750,SUV,FALSE,Diesel
+2.02E+14,90000,62,White,SKODA,Octavia,USED,2012,4687,Estate,FALSE,Diesel
+2.02E+14,33279,66,Black,Audi,A4 Avant,USED,2017,15500,Estate,FALSE,Diesel
+2.02E+14,73029,15,Silver,Volvo,V40,USED,2015,9000,Hatchback,FALSE,Diesel
+2.02E+14,10,,Silver,Hyundai,i30,NEW,,23990,Estate,FALSE,Petrol
+2.02E+14,58300,14,Black,Dacia,Sandero Stepway,USED,2014,4500,Hatchback,FALSE,Diesel
+2.02E+14,10,,Multicolour,Volkswagen,ID.3,NEW,,35880,Hatchback,FALSE,Electric
+2.02E+14,60000,10,Silver,Volvo,XC60,USED,2010,8911,SUV,FALSE,Diesel
+2.02E+14,29119,66,White,Hyundai,i20,USED,2016,7800,Hatchback,FALSE,Petrol
+2.02E+14,30000,64,Blue,Volvo,V40,USED,2015,7990,Hatchback,FALSE,Diesel
+2.02E+14,59758,66,Silver,Volkswagen,Passat,USED,2017,11000,Saloon,FALSE,Diesel
+2.02E+14,6442,69,Blue,Volvo,XC40,USED,2019,28950,SUV,FALSE,Petrol
+2.02E+14,31846,67,Red,Honda,CR-V,USED,2017,13437,SUV,FALSE,Diesel
+2.02E+14,58000,15,Blue,Subaru,WRX STI,USED,2015,15000,Saloon,FALSE,Petrol
+2.02E+14,33287,63,Red,Volkswagen,Caddy,USED,2013,10990,,FALSE,Diesel
+2.02E+14,33653,14,Red,Mercedes-Benz,A Class,USED,2014,11975,Hatchback,FALSE,Petrol
+2.02E+14,2727,19,White,Peugeot,208,USED,2019,11250,Hatchback,FALSE,Petrol
+2.02E+14,86500,8,Black,Renault,Clio,USED,2008,1390,Hatchback,FALSE,Petrol
+2.02E+14,54000,60,Black,Kia,Picanto,USED,2010,2150,Hatchback,FALSE,Petrol
+2.02E+14,44163,,Silver,Volkswagen,Beetle,USED,2000,1100,Hatchback,FALSE,Petrol
+2.02E+14,31549,63,Grey,Toyota,Verso,USED,2013,9983,MPV,FALSE,Petrol
+2.02E+14,21458,17,Blue,Peugeot,308,USED,2017,11500,Hatchback,FALSE,Petrol
+2.02E+14,58693,15,Red,Mercedes-Benz,A Class,USED,2015,11490,Hatchback,FALSE,Diesel
+2.02E+14,20,70,Grey,Renault,Captur,USED,2020,19000,SUV,FALSE,Petrol
+2.02E+14,99852,57,Blue,Kia,Picanto,USED,2007,650,Hatchback,FALSE,Petrol
+2.02E+14,30586,65,,Land Rover,Range Rover Sport,USED,2016,37950,SUV,FALSE,Diesel
+2.02E+14,23660,67,Black,SKODA,Octavia,USED,2017,14111,Estate,FALSE,Petrol
+2.02E+14,42000,61,White,Mercedes-Benz,C Class,USED,2011,23950,Coupe,FALSE,Petrol
+2.02E+14,22088,67,Blue,Volkswagen,Touran,USED,2017,19675,MPV,FALSE,Petrol
+2.02E+14,4128,20,Grey,Volvo,XC40,USED,2020,33995,SUV,FALSE,Petrol
+2.02E+14,46286,17,Blue,Vauxhall,Astra,USED,2017,9995,Hatchback,FALSE,Petrol
+2.02E+14,51484,64,White,Mercedes-Benz,C Class,USED,2014,10000,Coupe,FALSE,Diesel
+2.02E+14,6506,68,Blue,Toyota,Yaris,USED,2018,9845,Hatchback,FALSE,Petrol
+2.02E+14,10,,Red,Peugeot,2008,NEW,,30215,SUV,FALSE,Petrol
+2.02E+14,101340,6,Silver,Honda,Civic,USED,2006,2095,Hatchback,FALSE,Petrol
+2.02E+14,13168,68,Black,Volkswagen,Golf,USED,2018,24250,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Volvo,XC90,NEW,,63346,SUV,FALSE,Diesel Hybrid
+2.02E+14,54039,14,Red,Vauxhall,Corsa,USED,2014,5300,Hatchback,FALSE,Petrol
+2.02E+14,10672,69,Red,Vauxhall,Astra,USED,2019,13300,Hatchback,FALSE,Petrol
+2.02E+14,108000,12,Blue,Audi,A4,USED,2012,7299,Saloon,FALSE,Diesel
+2.02E+14,15626,67,Blue,Toyota,Yaris,USED,2017,12995,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,79921,15,Grey,Audi,A6 Saloon,USED,2015,13984,Saloon,FALSE,Diesel
+2.02E+14,35000,66,Blue,Audi,S4,USED,2017,26295,Saloon,FALSE,Petrol
+2.02E+14,88000,10,Silver,Peugeot,207,USED,2010,1795,Hatchback,FALSE,Petrol
+2.02E+14,68000,8,White,Volkswagen,Golf,USED,2008,8000,Hatchback,FALSE,Petrol
+2.02E+14,71800,52,Silver,Volkswagen,Polo,USED,2002,1500,Hatchback,FALSE,Petrol
+2.02E+14,14651,68,White,Citroen,C3 Aircross,USED,2019,12791,SUV,FALSE,Petrol
+2.02E+14,30707,64,Grey,Citroen,C1,USED,2014,5289,Hatchback,FALSE,Petrol
+2.02E+14,49610,15,White,Volkswagen,Golf,USED,2015,9000,Hatchback,FALSE,Diesel
+2.02E+14,145000,53,Silver,Nissan,X-Trail,USED,2003,1500,SUV,FALSE,Diesel
+2.02E+14,49532,66,Grey,Mercedes-Benz,CLA Class,USED,2016,15990,Estate,FALSE,Diesel
+2.02E+14,26000,17,Blue,Mercedes-Benz,A Class,USED,2017,17000,Hatchback,FALSE,Petrol
+2.02E+14,5,,Yellow,Volkswagen,Golf,NEW,,29062,Hatchback,FALSE,Diesel
+2.02E+14,10,,Grey,Audi,A4,NEW,,38245,Saloon,FALSE,Diesel
+2.02E+14,0,,Blue,Vauxhall,Astra,NEW,,18894,Hatchback,FALSE,Petrol
+2.02E+14,5743,69,Black,Mercedes-Benz,C Class,USED,2019,27980,Saloon,FALSE,Diesel
+2.02E+14,4441,69,Orange,Audi,Q2,USED,2019,23950,SUV,FALSE,Diesel
+2.02E+14,12000,68,Black,Land Rover,Range Rover Velar,USED,2018,46990,SUV,FALSE,Diesel
+2.02E+14,10,,Beige,Citroen,C1,NEW,,11890,Hatchback,FALSE,Petrol
+2.02E+14,5690,19,Silver,Mercedes-Benz,B Class,USED,2019,23299,MPV,FALSE,Diesel
+2.02E+14,2500,69,Blue,Dacia,Sandero,USED,2019,11995,Hatchback,FALSE,Diesel
+2.02E+14,6000,69,White,SsangYong,Korando,USED,2019,21990,SUV,FALSE,Diesel
+2.02E+14,4715,20,Grey,Volvo,V60,USED,2020,29000,Estate,FALSE,Diesel
+2.02E+14,1192,69,Silver,Honda,Jazz,USED,2019,10970,Hatchback,FALSE,Petrol
+2.02E+14,7234,20,White,Audi,TTS,USED,2020,41000,Coupe,FALSE,Petrol
+2.02E+14,3694,20,White,Volvo,XC40,USED,2020,31390,SUV,FALSE,Diesel
+2.02E+14,19000,67,White,Toyota,AYGO,USED,2018,7695,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Volvo,S60,NEW,,42217,Saloon,FALSE,Petrol
+2.02E+14,2500,70,Grey,Volkswagen,T-Cross,USED,2020,20590,SUV,FALSE,Petrol
+2.02E+14,10,,Blue,Land Rover,Range Rover,NEW,,102473,SUV,FALSE,Diesel
+2.02E+14,0,,Blue,SKODA,Kodiaq,NEW,,36320,SUV,FALSE,Petrol
+2.02E+14,75000,15,Blue,BMW,4 Series Gran Coupe,USED,2015,18500,Saloon,FALSE,Diesel
+2.02E+14,4068,20,White,SKODA,Scala,USED,2020,16990,Hatchback,FALSE,Petrol
+2.02E+14,76000,65,White,Volkswagen,Golf,USED,2016,12995,Hatchback,FALSE,Diesel
+2.02E+14,4800,68,Bronze,Fiat,500L,USED,2018,11740,MPV,FALSE,Petrol
+2.02E+14,60000,10,Black,Volkswagen,Fox,USED,2010,2450,Hatchback,FALSE,Petrol
+2.02E+14,29089,16,Red,SKODA,Fabia,USED,2016,7000,Hatchback,FALSE,Petrol
+2.02E+14,3700,20,Blue,Maserati,Levante,USED,2020,59950,SUV,FALSE,Petrol
+2.02E+14,33675,65,Blue,BMW,3 Series Gran Turismo,USED,2015,15657,Hatchback,FALSE,Diesel
+2.02E+14,87923,65,Blue,Alfa Romeo,Giulietta,USED,2015,5100,Hatchback,FALSE,Diesel
+2.02E+14,500,20,Grey,Volvo,V90 Cross Country,USED,2020,32990,Estate,FALSE,Petrol
+2.02E+14,38555,17,White,BMW,3 Series,USED,2017,17550,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,15,,Red,Jaguar,E-PACE,NEW,,35767,SUV,FALSE,Petrol
+2.02E+14,48292,14,White,Mercedes-Benz,CLS,USED,2014,16999,Coupe,FALSE,Diesel
+2.02E+14,37073,66,White,Vauxhall,Zafira Tourer,USED,2016,9500,MPV,FALSE,Petrol
+2.02E+14,11035,65,Black,MINI,Hatch,USED,2016,11995,Hatchback,FALSE,Petrol
+2.02E+14,60000,66,Blue,Vauxhall,Zafira Tourer,USED,2016,7999,MPV,FALSE,Diesel
+2.02E+14,65672,60,Grey,Vauxhall,Astra,USED,2010,3600,Hatchback,FALSE,Petrol
+2.02E+14,42000,66,Red,Vauxhall,Corsa,USED,2016,3995,Hatchback,FALSE,Petrol
+2.02E+14,87388,11,Silver,Vauxhall,Corsa,USED,2011,2695,Hatchback,FALSE,Petrol
+2.02E+14,1,,Black,BMW,X6M,NEW,,107490,SUV,FALSE,Petrol
+2.02E+14,70000,16,Silver,Audi,A6 Avant,USED,2016,15995,Estate,FALSE,Diesel
+2.02E+14,3118,20,Black,Mercedes-Benz,A Class,USED,2020,30419,Hatchback,FALSE,Petrol Plug-in Hybrid
+2.02E+14,44111,14,White,Honda,CR-V,USED,2014,13000,SUV,FALSE,Petrol
+2.02E+14,113256,56,Black,Mitsubishi,Grandis,USED,2007,1995,MPV,FALSE,Diesel
+2.02E+14,74000,13,Black,Vauxhall,Corsa,USED,2013,3490,Hatchback,FALSE,Petrol
+2.02E+14,21904,67,Blue,Volvo,XC90,USED,2017,30750,SUV,FALSE,Diesel
+2.02E+14,5702,17,White,Hyundai,ix20,USED,2017,10000,MPV,FALSE,Petrol
+2.02E+14,67000,57,Silver,Mercedes-Benz,C Class,USED,2007,5995,Saloon,FALSE,Petrol
+2.02E+14,22941,18,Black,Peugeot,208,USED,2018,8852,Hatchback,FALSE,Petrol
+2.02E+14,10,20,Black,Land Rover,Range Rover Evoque,USED,2020,37490,SUV,FALSE,Diesel
+2.02E+14,75123,10,Silver,Kia,Picanto,USED,2010,1295,Hatchback,FALSE,Petrol
+2.02E+14,16050,14,Black,Ferrari,458,USED,2014,139990,Coupe,FALSE,Petrol
+2.02E+14,17000,17,Black,DS AUTOMOBILES,DS 3,USED,2017,9499,Hatchback,FALSE,Petrol
+2.02E+14,6851,69,Silver,Hyundai,Ioniq,USED,2019,25999,Hatchback,FALSE,Electric
+2.02E+14,31000,18,White,Hyundai,i10,USED,2018,7000,Hatchback,FALSE,Petrol
+2.02E+14,15129,17,Black,Porsche,718 Cayman,USED,2017,38000,Coupe,FALSE,Petrol
+2.02E+14,114000,4,Silver,Vauxhall,Astra,USED,2004,894,Hatchback,FALSE,Petrol
+2.02E+14,17700,67,White,Mercedes-Benz,A Class,USED,2018,17995,Hatchback,FALSE,Petrol
+2.02E+14,66405,59,Silver,Honda,Civic,USED,2009,3795,Hatchback,FALSE,Petrol
+2.02E+14,42333,64,Red,Volkswagen,Golf,USED,2014,11495,Hatchback,FALSE,Petrol
+2.02E+14,39950,67,Black,Mercedes-Benz,GLS Class,USED,2017,42950,SUV,FALSE,Diesel
+2.02E+14,31000,17,White,Land Rover,Range Rover Evoque,USED,2017,27990,Convertible,FALSE,Diesel
+2.02E+14,72400,13,Silver,Hyundai,i10,USED,2013,4999,Hatchback,FALSE,Petrol
+2.02E+14,41397,17,Grey,Vauxhall,Corsa,USED,2017,9299,Hatchback,FALSE,Petrol
+2.02E+14,17649,67,White,SKODA,Fabia,USED,2017,8990,Hatchback,FALSE,Petrol
+2.02E+14,12085,19,Silver,Mercedes-Benz,C Class,USED,2019,27397,Convertible,FALSE,Diesel
+2.02E+14,74000,11,,Smart,fortwo,USED,2011,3000,Coupe,FALSE,Petrol
+2.02E+14,10,,Black,Volvo,XC40,NEW,,37138,SUV,FALSE,Diesel
+2.02E+14,15824,67,Silver,Citroen,C4 Cactus,USED,2018,9325,Hatchback,FALSE,Diesel
+2.02E+14,15600,68,Black,Audi,A7,USED,2018,36995,Hatchback,FALSE,Petrol
+2.02E+14,27445,66,White,Land Rover,Discovery Sport,USED,2017,22200,SUV,FALSE,Diesel
+2.02E+14,10907,20,White,BMW,3 Series,USED,2020,29950,Saloon,FALSE,Petrol
+2.02E+14,5036,69,Grey,Volvo,XC40,USED,2019,30995,SUV,FALSE,Diesel
+2.02E+14,2000,20,Blue,BMW,X2,USED,2020,34840,SUV,FALSE,Petrol
+2.02E+14,14302,68,Grey,SEAT,Leon,USED,2018,14795,Estate,FALSE,Petrol
+2.02E+14,7820,19,Black,SEAT,Leon,USED,2019,13995,Hatchback,FALSE,Petrol
+2.02E+14,31371,65,Black,Audi,RS7,USED,2015,40000,Hatchback,FALSE,Petrol
+2.02E+14,128200,11,Silver,Vauxhall,Insignia,USED,2011,299,Hatchback,FALSE,Diesel
+2.02E+14,31001,65,Black,Citroen,C4 Picasso,USED,2015,8991,MPV,FALSE,Diesel
+2.02E+14,93000,15,Silver,Vauxhall,Corsa,USED,2015,3990,Hatchback,FALSE,Petrol
+2.02E+14,34179,66,Red,Volkswagen,up!,USED,2016,7073,Hatchback,FALSE,Petrol
+2.02E+14,74488,64,White,Toyota,Auris,USED,2014,5385,Hatchback,FALSE,Diesel
+2.02E+14,175000,,Blue,Mercedes-Benz,SEC Series,USED,1991,19990,Coupe,FALSE,Petrol
+2.02E+14,24566,17,Blue,Nissan,Juke,USED,2017,11599,SUV,FALSE,Petrol
+2.02E+14,24600,67,White,Dacia,Sandero Stepway,USED,2017,7480,Hatchback,FALSE,Petrol
+2.02E+14,6052,69,Black,BMW,1 Series,USED,2019,24995,Hatchback,FALSE,Petrol
+2.02E+14,60000,16,Grey,Audi,A3,USED,2016,13450,Hatchback,FALSE,Diesel
+2.02E+14,29575,17,Grey,Hyundai,Tucson,USED,2017,13295,SUV,FALSE,Diesel
+2.02E+14,52280,65,Red,Vauxhall,Corsa,USED,2015,5995,Hatchback,FALSE,Petrol
+2.02E+14,43557,17,Black,Honda,Civic,USED,2017,10800,Hatchback,FALSE,Petrol
+2.02E+14,1499,70,Blue,Mercedes-Benz,A Class,USED,2020,32990,Hatchback,FALSE,Petrol
+2.02E+14,21486,67,Grey,Mitsubishi,Outlander,USED,2017,20995,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,6926,69,Black,Nissan,Qashqai,USED,2020,16995,SUV,FALSE,Petrol
+2.02E+14,60000,13,Red,Fiat,500L,USED,2013,4995,MPV,FALSE,Petrol
+2.02E+14,12369,19,Black,Vauxhall,Corsa,USED,2019,9500,Hatchback,FALSE,Petrol
+2.02E+14,15356,18,White,Suzuki,Celerio,USED,2018,5795,Hatchback,FALSE,Petrol
+2.02E+14,25039,66,Black,Hyundai,i20,USED,2016,7995,Hatchback,FALSE,Petrol
+2.02E+14,5,,Silver,Toyota,Camry,NEW,,28479,Saloon,FALSE,Petrol Hybrid
+2.02E+14,11698,19,White,BMW,3 Series,USED,2019,23297,Estate,FALSE,Petrol
+2.02E+14,4999,70,Black,Audi,A3,USED,2020,29500,Saloon,FALSE,Petrol
+2.02E+14,9582,19,Silver,Kia,Sportage,USED,2019,17995,SUV,FALSE,Petrol
+2.02E+14,15090,18,Grey,Nissan,Leaf,USED,2018,20995,Hatchback,FALSE,Electric
+2.02E+14,2000,70,Black,Mercedes-Benz,GLB Class,USED,2020,38900,SUV,FALSE,Diesel
+2.02E+14,21665,66,Grey,Vauxhall,Astra,USED,2016,8995,Hatchback,FALSE,Petrol
+2.02E+14,28915,67,Black,MINI,Clubman,USED,2017,22250,Estate,FALSE,Petrol
+2.02E+14,17267,17,Silver,Toyota,C-HR,USED,2017,19795,SUV,FALSE,Petrol Hybrid
+2.02E+14,35010,15,Red,Toyota,Prius,USED,2015,8690,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,39718,66,Black,Vauxhall,Insignia,USED,2016,9699,Estate,FALSE,Diesel
+2.02E+14,36200,14,White,Volkswagen,Golf,USED,2014,14200,Hatchback,FALSE,Diesel
+2.02E+14,109543,7,Blue,Saab,3-Sep,USED,2007,2000,Convertible,FALSE,Diesel
+2.02E+14,24908,17,Blue,Peugeot,3008,USED,2017,21195,SUV,FALSE,Diesel
+2.02E+14,22148,17,Bronze,Nissan,Qashqai,USED,2017,11295,SUV,FALSE,Diesel
+2.02E+14,52000,65,Blue,Land Rover,Discovery 4,USED,2016,28495,SUV,FALSE,Diesel
+2.02E+14,43000,66,Black,Vauxhall,Insignia,USED,2016,8299,Hatchback,FALSE,Diesel
+2.02E+14,120000,7,Black,Audi,A8,USED,2007,3995,Saloon,FALSE,Diesel
+2.02E+14,118538,63,White,Mercedes-Benz,CLA Class,USED,2014,12995,Coupe,FALSE,Diesel
+2.02E+14,8420,18,Blue,Vauxhall,Grandland X,USED,2018,14997,SUV,FALSE,Diesel
+2.02E+14,10600,64,Silver,Rolls-Royce,Wraith,USED,2014,117500,Coupe,FALSE,Petrol
+2.02E+14,10,,Green,Audi,A5,NEW,,42435,Coupe,FALSE,Petrol
+2.02E+14,2500,20,Red,Volkswagen,Polo,USED,2020,14790,Hatchback,FALSE,Petrol
+2.02E+14,62000,62,Grey,SKODA,Fabia,USED,2013,4200,Estate,FALSE,Petrol
+2.02E+14,22532,17,Grey,Vauxhall,Zafira Tourer,USED,2017,10385,MPV,FALSE,Petrol
+2.02E+14,23150,67,Blue,SEAT,Leon,USED,2017,10790,Hatchback,FALSE,Diesel
+2.02E+14,40000,56,Black,MINI,Hatch,USED,2006,4800,Hatchback,FALSE,Petrol
+2.02E+14,19928,19,Red,Honda,CR-V,USED,2019,23000,SUV,FALSE,Petrol Hybrid
+2.02E+14,16663,67,Red,Kia,Venga,USED,2017,11000,MPV,FALSE,Petrol
+2.02E+14,11269,67,White,SKODA,Citigo,USED,2017,8995,Hatchback,FALSE,Petrol
+2.02E+14,54000,16,Blue,Toyota,AYGO,USED,2016,5395,Hatchback,FALSE,Petrol
+2.02E+14,17184,17,White,BMW,3 Series,USED,2017,15300,Saloon,FALSE,Diesel
+2.02E+14,62000,10,Grey,Hyundai,i10,USED,2010,2390,Hatchback,FALSE,Petrol
+2.02E+14,88849,5,Yellow,MINI,Hatch,USED,2005,2995,Hatchback,FALSE,Petrol
+2.02E+14,16790,18,Red,SKODA,Octavia,USED,2018,18000,Hatchback,FALSE,Petrol
+2.02E+14,5000,68,Silver,Nissan,Leaf,USED,2018,20495,Hatchback,FALSE,Electric
+2.02E+14,38573,18,Black,Hyundai,Ioniq,USED,2018,13270,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,67313,64,Grey,Volkswagen,Touareg,USED,2015,17980,SUV,FALSE,Diesel
+2.02E+14,11982,68,Silver,Vauxhall,Corsa,USED,2019,8600,Hatchback,FALSE,Petrol
+2.02E+14,17000,17,Black,Mercedes-Benz,C Class,USED,2017,22750,Convertible,FALSE,Petrol
+2.02E+14,10226,67,Silver,Kia,Picanto,USED,2017,9700,Hatchback,FALSE,Petrol
+2.02E+14,34837,17,Black,Kia,Sportage,USED,2017,11200,SUV,FALSE,Petrol
+2.02E+14,18127,19,Silver,Mercedes-Benz,E Class,USED,2019,25890,Saloon,FALSE,Diesel
+2.02E+14,52000,13,Red,Kia,Picanto,USED,2013,3690,Hatchback,FALSE,Petrol
+2.02E+14,89990,59,Red,Vauxhall,Insignia,USED,2009,3489,Hatchback,FALSE,Diesel
+2.02E+14,32000,17,Blue,Citroen,Grand C4 Picasso,USED,2017,11490,MPV,FALSE,Diesel
+2.02E+14,14207,67,Blue,Citroen,C4 Picasso,USED,2017,13750,MPV,FALSE,Diesel
+2.02E+14,23856,16,Blue,Hyundai,Tucson,USED,2016,13000,SUV,FALSE,Diesel
+2.02E+14,45300,65,Black,Land Rover,Discovery 4,USED,2015,27250,SUV,FALSE,Diesel
+2.02E+14,12000,18,Black,MINI,Countryman,USED,2018,18995,SUV,FALSE,Diesel
+2.02E+14,24675,17,White,Volkswagen,Polo,USED,2017,9255,Hatchback,FALSE,Petrol
+2.02E+14,10234,68,Blue,Mercedes-Benz,C Class,USED,2018,27990,Convertible,FALSE,Petrol
+2.02E+14,14,70,Grey,Mercedes-Benz,GLB Class,USED,2020,37990,SUV,FALSE,Diesel
+2.02E+14,12450,19,Red,Toyota,AYGO,USED,2019,8341,Hatchback,FALSE,Petrol
+2.02E+14,4890,70,Red,BMW,2 Series Gran Tourer,USED,2020,29990,MPV,FALSE,Diesel
+2.02E+14,110526,55,Blue,Citroen,Xsara Picasso,USED,2005,990,MPV,FALSE,Diesel
+2.02E+14,51750,63,Black,Volvo,V60,USED,2013,8650,Estate,FALSE,Diesel
+2.02E+14,110033,14,Black,Vauxhall,Insignia,USED,2014,5975,Hatchback,FALSE,Diesel
+2.02E+14,5903,69,Silver,Toyota,Land Cruiser,USED,2019,47495,SUV,FALSE,Diesel
+2.02E+14,63987,64,Black,Audi,A3,USED,2014,12000,Hatchback,FALSE,Diesel
+2.02E+14,79500,61,Red,Volkswagen,Polo,USED,2011,7699,Hatchback,FALSE,Petrol
+2.02E+14,77987,15,Black,BMW,4 Series Gran Coupe,USED,2015,13500,Saloon,FALSE,Diesel
+2.02E+14,29909,67,Red,Kia,Sportage,USED,2017,16495,SUV,FALSE,Diesel
+2.02E+14,98000,62,Red,Audi,A3,USED,2012,7770,Hatchback,FALSE,Diesel
+2.02E+14,40000,17,Black,SKODA,Octavia,USED,2017,10000,Hatchback,FALSE,Diesel
+2.02E+14,0,,Grey,Fiat,500,NEW,,14750,Hatchback,FALSE,Petrol
+2.02E+14,0,,White,Fiat,500,NEW,,16600,Hatchback,FALSE,Petrol
+2.02E+14,4361,69,Silver,Lexus,RX 450h,USED,2019,47295,SUV,FALSE,Petrol Hybrid
+2.02E+14,35508,15,White,MINI,Hatch,USED,2015,9395,Hatchback,FALSE,Diesel
+2.02E+14,124825,7,Black,Vauxhall,Zafira,USED,2007,1390,MPV,FALSE,Diesel
+2.02E+14,45091,13,Grey,Land Rover,Range Rover Evoque,USED,2013,16599,SUV,FALSE,Diesel
+2.02E+14,22824,18,Blue,Lexus,RX 450h,USED,2018,37990,SUV,FALSE,Petrol Hybrid
+2.02E+14,75878,64,Black,Audi,R8,USED,2015,46500,Coupe,FALSE,Petrol
+2.02E+14,1001,70,White,Vauxhall,Grandland X,USED,2020,32900,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,10,70,Red,Renault,Captur,USED,2020,19000,SUV,FALSE,Petrol
+2.02E+14,58605,16,Grey,Citroen,C4 Cactus,USED,2016,7500,Hatchback,FALSE,Diesel
+2.02E+14,37716,65,Red,Toyota,AYGO,USED,2015,5000,Hatchback,FALSE,Petrol
+2.02E+14,67000,64,Silver,Kia,Sportage,USED,2014,8495,SUV,FALSE,Diesel
+2.02E+14,100,70,White,Volkswagen,Touareg,USED,2020,41290,SUV,FALSE,Diesel
+2.02E+14,10,,Black,Kia,XCeed,NEW,,25925,SUV,FALSE,Petrol
+2.02E+14,18000,65,Black,Citroen,C1,USED,2015,5675,Convertible,FALSE,Petrol
+2.02E+14,1000,70,Grey,Volkswagen,Golf,USED,2020,22000,Hatchback,FALSE,Petrol
+2.02E+14,3791,69,White,Volkswagen,Golf,USED,2019,23422,Hatchback,FALSE,Electric
+2.02E+14,10,,Black,Volvo,XC90,NEW,,72242,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,86773,11,Blue,Lexus,CT 200h,USED,2011,7380,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,59000,13,Grey,Vauxhall,Astra,USED,2013,4695,Hatchback,FALSE,Petrol
+2.02E+14,29283,66,Blue,Toyota,Auris,USED,2016,13897,Estate,FALSE,Petrol Hybrid
+2.02E+14,18084,17,White,MINI,Countryman,USED,2017,26622,SUV,FALSE,Petrol
+2.02E+14,28453,13,Blue,BMW,M3,USED,2013,25490,Convertible,FALSE,Petrol
+2.02E+14,42281,66,Black,Mercedes-Benz,E Class,USED,2016,18250,Saloon,FALSE,Diesel
+2.02E+14,34562,17,Blue,Toyota,RAV4,USED,2017,15995,SUV,FALSE,Diesel
+2.02E+14,97413,16,Black,BMW,X5,USED,2016,19980,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,55505,14,Red,Nissan,Qashqai,USED,2014,7500,SUV,FALSE,Petrol
+2.02E+14,92300,60,White,Vauxhall,Corsa,USED,2010,2195,Hatchback,FALSE,Petrol
+2.02E+14,10000,68,Black,BMW,1 Series,USED,2018,14995,Hatchback,FALSE,Petrol
+2.02E+14,35951,65,Blue,Honda,HR-V,USED,2015,11995,SUV,FALSE,Petrol
+2.02E+14,83310,65,Silver,Vauxhall,Insignia,USED,2015,6490,Estate,FALSE,Diesel
+2.02E+14,13752,18,Black,Audi,A4,USED,2018,14999,Saloon,FALSE,Petrol
+2.02E+14,457,20,Grey,Volvo,XC90,USED,2020,43985,SUV,FALSE,Diesel Hybrid
+2.02E+14,21153,17,Blue,Nissan,Juke,USED,2017,11500,SUV,FALSE,Petrol
+2.02E+14,19000,67,Blue,Audi,A3,USED,2017,18499,Hatchback,FALSE,Petrol
+2.02E+14,2584,69,White,Hyundai,i10,USED,2019,11250,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,Kia,Sorento,NEW,,38750,SUV,FALSE,Petrol Hybrid
+2.02E+14,66848,60,White,Audi,Q5,USED,2010,11399,SUV,FALSE,Diesel
+2.02E+14,2811,69,Grey,SKODA,Superb,USED,2019,19790,Hatchback,FALSE,Diesel
+2.02E+14,48000,59,Grey,Smart,fortwo,USED,2009,3200,Coupe,FALSE,Petrol
+2.02E+14,8110,67,Blue,Nissan,Qashqai,USED,2017,12800,SUV,FALSE,Petrol
+2.02E+14,39801,16,Grey,Vauxhall,Corsa,USED,2016,6700,Hatchback,FALSE,Petrol
+2.02E+14,9845,18,Grey,Honda,Jazz,USED,2018,15000,Hatchback,FALSE,Petrol
+2.02E+14,63718,65,White,BMW,1 Series,USED,2015,9500,Hatchback,FALSE,Diesel
+2.02E+14,34177,66,Blue,BMW,1 Series,USED,2016,20995,Hatchback,FALSE,Petrol
+2.02E+14,8758,19,Blue,Peugeot,308 SW,USED,2019,14990,Estate,FALSE,Diesel
+2.02E+14,104000,59,Grey,SEAT,Leon,USED,2010,2195,Hatchback,FALSE,Petrol
+2.02E+14,1932,20,Black,Land Rover,Defender 110,USED,2020,54780,SUV,FALSE,Diesel
+2.02E+14,73000,13,Green,Honda,Civic,USED,2013,5495,Hatchback,FALSE,Diesel
+2.02E+14,54344,66,White,Jaguar,F-PACE,USED,2016,25850,SUV,FALSE,Diesel
+2.02E+14,51835,13,Silver,SKODA,Fabia,USED,2013,5499,Estate,FALSE,Petrol
+2.02E+14,25000,10,Silver,MINI,Hatch,USED,2010,7999,Hatchback,FALSE,Petrol
+2.02E+14,55612,55,Black,Peugeot,107,USED,2006,1750,Hatchback,FALSE,Petrol
+2.02E+14,8,70,Blue,Suzuki,Ignis,USED,2020,10890,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,22810,17,White,SKODA,Superb,USED,2017,15999,Estate,FALSE,Diesel
+2.02E+14,32000,67,Black,Mercedes-Benz,A Class,USED,2017,12200,Hatchback,FALSE,Diesel
+2.02E+14,52516,12,Red,Alfa Romeo,Giulietta,USED,2012,6575,Hatchback,FALSE,Petrol
+2.02E+14,98512,51,Black,Audi,TT,USED,2002,1999,Coupe,FALSE,Petrol
+2.02E+14,54276,62,Black,BMW,1 Series,USED,2012,7000,Coupe,FALSE,Diesel
+2.02E+14,25710,18,Black,Mercedes-Benz,C Class,USED,2018,29990,Saloon,FALSE,Petrol
+2.02E+14,21428,18,Black,Audi,Q5,USED,2018,29825,SUV,FALSE,Petrol
+2.02E+14,10,70,Grey,Citroen,C4 Cactus,USED,2020,17000,Hatchback,FALSE,Petrol
+2.02E+14,19866,15,Black,Vauxhall,Corsa,USED,2015,7250,Hatchback,FALSE,Petrol
+2.02E+14,48000,55,Green,Maserati,Quattroporte,USED,2005,11995,Saloon,FALSE,Petrol
+2.02E+14,54523,67,Black,Jaguar,F-PACE,USED,2017,25000,SUV,FALSE,Diesel
+2.02E+14,57633,64,Black,Land Rover,Range Rover Sport,USED,2014,29950,SUV,FALSE,Diesel
+2.02E+14,22755,17,Grey,Nissan,Note,USED,2017,7290,Hatchback,FALSE,Petrol
+2.02E+14,24000,17,Grey,Vauxhall,Astra,USED,2017,9995,Hatchback,FALSE,Petrol
+2.02E+14,3808,68,Black,Jaguar,XF,USED,2019,28995,Saloon,FALSE,Petrol
+2.02E+14,13469,18,Blue,DS AUTOMOBILES,DS 7 CROSSBACK,USED,2018,22490,SUV,FALSE,Diesel
+2.02E+14,25123,65,Green,Peugeot,2008,USED,2015,8500,SUV,FALSE,Petrol
+2.02E+14,39655,13,,Nissan,Juke,USED,2013,6145,SUV,FALSE,Petrol
+2.02E+14,14,20,Grey,Mazda,CX-30,USED,2020,23989,SUV,FALSE,Petrol
+2.02E+14,71000,58,Blue,Nissan,Note,USED,2008,1950,Hatchback,FALSE,Petrol
+2.02E+14,15271,17,Silver,Mercedes-Benz,E Class,USED,2017,26000,Estate,FALSE,Diesel
+2.02E+14,12549,66,Silver,Audi,A1,USED,2016,12763,Hatchback,FALSE,Petrol
+2.02E+14,39929,66,Grey,Kia,Sportage,USED,2016,12225,SUV,FALSE,Diesel
+2.02E+14,7957,67,Red,Peugeot,208,USED,2017,9995,Hatchback,FALSE,Petrol
+2.02E+14,4230,69,White,Renault,Koleos,USED,2019,23495,SUV,FALSE,Diesel
+2.02E+14,22320,16,Grey,Mercedes-Benz,A Class,USED,2016,16999,Hatchback,FALSE,Diesel
+2.02E+14,59230,7,Grey,BMW,3 Series,USED,2007,6195,Convertible,FALSE,Petrol
+2.02E+14,63294,14,White,Nissan,Qashqai,USED,2014,10000,SUV,FALSE,Petrol
+2.02E+14,52700,64,Blue,Mazda,Mazda5,USED,2015,8995,MPV,FALSE,Petrol
+2.02E+14,54381,67,White,Kia,Sportage,USED,2017,14800,SUV,FALSE,Diesel
+2.02E+14,2056,69,Grey,Kia,Sportage,USED,2019,23300,SUV,FALSE,Petrol
+2.02E+14,110000,8,Blue,Toyota,AYGO,USED,2008,1500,Hatchback,FALSE,Petrol
+2.02E+14,8021,18,Blue,SKODA,Karoq,USED,2018,16490,SUV,FALSE,Diesel
+2.02E+14,10,,White,Jaguar,XF,NEW,,29999,Saloon,FALSE,Diesel
+2.02E+14,200,70,Black,Mercedes-Benz,GLE Class,USED,2020,75990,SUV,FALSE,Petrol
+2.02E+14,71000,61,Red,Vauxhall,Astra,USED,2012,3290,Hatchback,FALSE,Petrol
+2.02E+14,42355,17,Gold,Volvo,XC60,USED,2017,18500,SUV,FALSE,Diesel
+2.02E+14,82934,60,Silver,Kia,Venga,USED,2011,1795,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Nissan,Juke,NEW,,20017,SUV,FALSE,Petrol
+2.02E+14,66848,64,White,Vauxhall,Mokka,USED,2014,6027,Hatchback,FALSE,Petrol
+2.02E+14,54799,16,Silver,Mercedes-Benz,C Class,USED,2016,15764,Saloon,FALSE,Diesel
+2.02E+14,11953,17,Red,Suzuki,Ignis,USED,2017,7490,Hatchback,FALSE,Petrol
+2.02E+14,77438,11,White,SKODA,Fabia,USED,2011,2750,Hatchback,FALSE,Diesel
+2.02E+14,95422,15,Grey,Audi,A3,USED,2015,8000,Hatchback,FALSE,Diesel
+2.02E+14,23000,17,Grey,BMW,3 Series,USED,2017,21990,Saloon,FALSE,Diesel
+2.02E+14,58569,65,Grey,Land Rover,Discovery Sport,USED,2015,17995,SUV,FALSE,Diesel
+2.02E+14,49996,62,Black,Land Rover,Freelander 2,USED,2012,15199,SUV,FALSE,Diesel
+2.02E+14,26390,67,Red,Mercedes-Benz,A Class,USED,2017,17450,Hatchback,FALSE,Diesel
+2.02E+14,83000,14,Blue,Kia,Sportage,USED,2014,7500,SUV,FALSE,Diesel
+2.02E+14,58000,7,Grey,Volkswagen,Golf,USED,2007,4350,Hatchback,FALSE,Petrol
+2.02E+14,7206,69,Silver,Mercedes-Benz,C Class,USED,2019,21499,Saloon,FALSE,Petrol
+2.02E+14,4000,69,Grey,Jaguar,I-PACE,USED,2019,53980,SUV,FALSE,Electric
+2.02E+14,81145,14,Black,Renault,Clio,USED,2014,5470,Hatchback,FALSE,Diesel
+2.02E+14,77000,62,Black,Peugeot,3008,USED,2012,4495,SUV,FALSE,Diesel
+2.02E+14,56287,64,Blue,Dacia,Sandero,USED,2014,3995,Hatchback,FALSE,Petrol
+2.02E+14,95000,61,Silver,Mercedes-Benz,E Class,USED,2011,8190,Saloon,FALSE,Diesel
+2.02E+14,73000,65,Black,BMW,4 Series,USED,2015,15295,Coupe,FALSE,Diesel
+2.02E+14,11724,19,Grey,Jeep,Renegade,USED,2019,17495,SUV,FALSE,Diesel
+2.02E+14,96432,10,Black,Honda,Civic,USED,2010,2480,Hatchback,FALSE,Petrol
+2.02E+14,37431,67,Black,Volkswagen,Tiguan,USED,2017,20499,SUV,FALSE,Diesel
+2.02E+14,6257,19,Grey,SEAT,Ibiza,USED,2019,12295,Hatchback,FALSE,Petrol
+2.02E+14,59510,16,Black,MINI,Hatch,USED,2016,7742,Hatchback,FALSE,Diesel
+2.02E+14,13800,66,Grey,Volkswagen,Golf,USED,2016,12790,Hatchback,FALSE,Diesel
+2.02E+14,50569,15,Red,Land Rover,Discovery Sport,USED,2015,19350,SUV,FALSE,Diesel
+2.02E+14,55000,65,Grey,Vauxhall,Vivaro,USED,2015,10995,,FALSE,Diesel
+2.02E+14,37150,15,White,Alfa Romeo,Giulietta,USED,2015,8900,Hatchback,FALSE,Petrol
+2.02E+14,3825,19,White,Mercedes-Benz,E Class,USED,2019,34990,Saloon,FALSE,Diesel
+2.02E+14,41000,16,Red,Mazda,CX-3,USED,2016,10990,SUV,FALSE,Diesel
+2.02E+14,10,,Grey,Mercedes-Benz,C Class,NEW,,44684,Estate,FALSE,Diesel
+2.02E+14,54000,,White,Toyota,Prius+,USED,2019,10900,MPV,FALSE,Petrol Hybrid
+2.02E+14,54000,67,Blue,Mercedes-Benz,A Class,USED,2018,16490,Hatchback,FALSE,Diesel
+2.02E+14,105000,4,Grey,Volkswagen,Polo,USED,2004,995,Hatchback,FALSE,Petrol
+2.02E+14,30144,67,Black,Audi,Q3,USED,2017,18775,SUV,FALSE,Petrol
+2.02E+14,36326,67,Black,Audi,A3,USED,2017,12400,Hatchback,FALSE,Diesel
+2.02E+14,12332,17,Silver,Mercedes-Benz,A Class,USED,2017,15700,Hatchback,FALSE,Diesel
+2.02E+14,4560,69,Grey,Land Rover,Discovery Sport,USED,2019,40990,SUV,FALSE,Diesel
+2.02E+14,35490,17,Black,Audi,A1,USED,2017,11000,Hatchback,FALSE,Petrol
+2.02E+14,46656,65,White,Peugeot,2008,USED,2016,7995,SUV,FALSE,Diesel
+2.02E+14,2927,69,Blue,BMW,3 Series,USED,2020,26495,Saloon,FALSE,Diesel
+2.02E+14,6530,18,White,Peugeot,3008,USED,2018,23499,SUV,FALSE,Petrol
+2.02E+14,96000,13,Blue,Toyota,Auris,USED,2013,7150,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,43000,13,White,Fiat,500,USED,2013,4990,Hatchback,FALSE,Petrol
+2.02E+14,19102,62,Red,Nissan,Note,USED,2012,5795,Hatchback,FALSE,Petrol
+2.02E+14,15250,67,Black,Mercedes-Benz,E Class,USED,2017,28495,Convertible,FALSE,Diesel
+2.02E+14,100000,57,Black,Land Rover,Defender 90,USED,2007,18995,SUV,FALSE,Diesel
+2.02E+14,5601,69,Red,Suzuki,Swift,USED,2020,9950,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,14653,17,Blue,BMW,4 Series,USED,2017,25998,Coupe,FALSE,Diesel
+2.02E+14,66098,16,Gold,Volkswagen,Passat,USED,2016,14999,Estate,FALSE,Diesel
+2.02E+14,126000,11,White,Alfa Romeo,Giulietta,USED,2011,2500,Hatchback,FALSE,Diesel
+2.02E+14,14500,68,Red,Mazda,Mazda3,USED,2018,14000,Hatchback,FALSE,Petrol
+2.02E+14,20163,68,Red,Suzuki,Ignis,USED,2018,10999,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,29459,67,White,Volkswagen,Scirocco,USED,2017,14490,Coupe,FALSE,Petrol
+2.02E+14,86000,4,Blue,Citroen,C3,USED,2004,895,Hatchback,FALSE,Petrol
+2.02E+14,29400,18,Blue,Volvo,XC60,USED,2018,37895,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,40262,16,Grey,Audi,A3,USED,2016,15000,Hatchback,FALSE,Diesel
+2.02E+14,13900,69,Red,Vauxhall,Grandland X,USED,2019,18980,SUV,FALSE,Petrol
+2.02E+14,39519,17,White,Mercedes-Benz,GLA Class,USED,2017,21480,SUV,FALSE,Diesel
+2.02E+14,82345,14,Silver,Vauxhall,Astra,USED,2014,3649,Hatchback,FALSE,Diesel
+2.02E+14,174000,53,Black,Volkswagen,Golf,USED,2003,1100,Hatchback,FALSE,Diesel
+2.02E+14,73909,10,Grey,Renault,Clio,USED,2010,2195,Hatchback,FALSE,Petrol
+2.02E+14,46701,15,Grey,SEAT,Ibiza,USED,2015,6000,Hatchback,FALSE,Petrol
+2.02E+14,187000,4,Blue,Toyota,Avensis,USED,2004,895,Estate,FALSE,Diesel
+2.02E+14,10,,Black,BMW,Z4,NEW,,39309,Convertible,FALSE,Petrol
+2.02E+14,23000,55,Red,Ferrari,F430,USED,2005,89995,Convertible,FALSE,Petrol
+2.02E+14,37000,14,Grey,Porsche,Macan,USED,2014,35000,SUV,FALSE,Petrol
+2.02E+14,2768,20,White,SEAT,Ateca,USED,2020,24000,SUV,FALSE,Petrol
+2.02E+14,99000,,Blue,Volvo,V40,USED,2000,1295,Estate,FALSE,Petrol
+2.02E+14,15917,18,White,Vauxhall,Grandland X,USED,2018,15995,SUV,FALSE,Petrol
+2.02E+14,1000,69,Silver,Mercedes-Benz,E Class,USED,2019,36299,Saloon,FALSE,Diesel Plug-in Hybrid
+2.02E+14,24610,18,Silver,BMW,3 Series,USED,2018,17698,Saloon,FALSE,Diesel
+2.02E+14,22000,67,White,Land Rover,Range Rover Evoque,USED,2017,23995,SUV,FALSE,Diesel
+2.02E+14,9060,68,Yellow,Volkswagen,Golf,USED,2019,15267,Hatchback,FALSE,Petrol
+2.02E+14,21050,14,White,Toyota,Yaris,USED,2014,8995,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,20,,Black,Mercedes-Benz,GLE Class,NEW,,58110,SUV,FALSE,Diesel
+2.02E+14,154000,9,Grey,Volkswagen,Golf,USED,2009,3550,Hatchback,FALSE,Diesel
+2.02E+14,110314,6,Silver,Volkswagen,Fox,USED,2006,1275,Hatchback,FALSE,Petrol
+2.02E+14,30144,13,White,Fiat,500,USED,2013,4195,Hatchback,FALSE,Petrol
+2.02E+14,61500,64,White,MINI,Hatch,USED,2014,6995,Hatchback,FALSE,Petrol
+2.02E+14,4000,70,Grey,Audi,SQ5,USED,2020,56999,SUV,FALSE,Diesel
+2.02E+14,10,,Grey,Mercedes-Benz,C Class,NEW,,39194,Estate,FALSE,Petrol
+2.02E+14,8919,19,Grey,Mercedes-Benz,E Class,USED,2019,32999,Saloon,FALSE,Diesel
+2.02E+14,103450,,Bronze,BMW,3 Series,USED,2006,6000,Convertible,FALSE,Petrol
+2.02E+14,27658,15,Blue,Audi,A5,USED,2015,16790,Coupe,FALSE,Diesel
+2.02E+14,27369,17,White,Audi,Q7,USED,2017,30990,SUV,FALSE,Diesel
+2.02E+14,6000,66,Grey,Hyundai,i10,USED,2016,7750,Hatchback,FALSE,Petrol
+2.02E+14,14513,69,Grey,Renault,Kadjar,USED,2019,15484,SUV,FALSE,Petrol
+2.02E+14,92000,15,Red,Land Rover,Range Rover Sport,USED,2015,43990,SUV,FALSE,Diesel
+2.02E+14,27500,62,Silver,Vauxhall,Agila,USED,2012,4495,Hatchback,FALSE,Petrol
+2.02E+14,45802,15,Grey,Mercedes-Benz,C Class,USED,2015,15500,Saloon,FALSE,Diesel
+2.02E+14,54000,61,Blue,Vauxhall,Meriva,USED,2011,3500,MPV,FALSE,Petrol
+2.02E+14,9864,19,White,Volkswagen,Sharan,USED,2019,22500,MPV,FALSE,Diesel
+2.02E+14,48380,65,Black,Volvo,V70,USED,2015,11990,Estate,FALSE,Diesel
+2.02E+14,4000,20,Black,Volkswagen,Tiguan,USED,2020,29950,SUV,FALSE,Diesel
+2.02E+14,8723,69,Grey,Vauxhall,Mokka X,USED,2019,14995,SUV,FALSE,Petrol
+2.02E+14,40813,18,Silver,Kia,Sportage,USED,2018,15199,SUV,FALSE,Diesel
+2.02E+14,26571,17,Black,Citroen,Grand C4 Picasso,USED,2017,14933,MPV,FALSE,Diesel
+2.02E+14,5375,69,White,Subaru,XV,USED,2019,21995,SUV,FALSE,Petrol
+2.02E+14,38661,16,Blue,Audi,Q3,USED,2016,15990,SUV,FALSE,Diesel
+2.02E+14,19521,66,Silver,Suzuki,Vitara,USED,2016,9824,SUV,FALSE,Petrol
+2.02E+14,16160,18,Blue,Nissan,Qashqai,USED,2018,15390,SUV,FALSE,Petrol
+2.02E+14,3460,69,Black,Volkswagen,Polo,USED,2020,14255,Hatchback,FALSE,Petrol
+2.02E+14,1693,20,White,Volkswagen,Polo,USED,2020,14498,Hatchback,FALSE,Petrol
+2.02E+14,64000,3,Silver,Bentley,Arnage,USED,2003,26000,Saloon,FALSE,Petrol
+2.02E+14,9373,18,Blue,SEAT,Arona,USED,2018,15000,SUV,FALSE,Diesel
+2.02E+14,24663,17,Black,Lexus,NX 300h,USED,2017,23965,SUV,FALSE,Petrol Hybrid
+2.02E+14,11118,18,Black,Peugeot,208,USED,2018,9491,Hatchback,FALSE,Petrol
+2.02E+14,21849,66,White,Citroen,Grand C4 Picasso,USED,2016,12700,MPV,FALSE,Diesel
+2.02E+14,82454,15,Red,Kia,Picanto,USED,2015,5281,Hatchback,FALSE,Petrol
+2.02E+14,13958,17,Grey,Volkswagen,Golf SV,USED,2017,14690,MPV,FALSE,Petrol
+2.02E+14,18031,17,Blue,Audi,Q3,USED,2017,20995,SUV,FALSE,Petrol
+2.02E+14,25000,17,White,SEAT,Ibiza,USED,2017,8500,Hatchback,FALSE,Petrol
+2.02E+14,91000,59,Grey,Volvo,S40,USED,2009,2995,Saloon,FALSE,Petrol
+2.02E+14,15934,17,Green,MINI,Clubman,USED,2017,16497,Estate,FALSE,Diesel
+2.02E+14,21000,67,Black,Audi,A4 Avant,USED,2017,17000,Estate,FALSE,Petrol
+2.02E+14,14800,66,White,Suzuki,Swift,USED,2016,9340,Hatchback,FALSE,Petrol
+2.02E+14,69974,60,Beige,Renault,Clio,USED,2010,2280,Hatchback,FALSE,Petrol
+2.02E+14,18887,18,Silver,Land Rover,Range Rover,USED,2018,59995,SUV,FALSE,Diesel
+2.02E+14,36484,66,Red,Vauxhall,Corsa,USED,2016,5699,Hatchback,FALSE,Petrol
+2.02E+14,5170,69,Blue,BMW,2 Series,USED,2019,22980,Coupe,FALSE,Diesel
+2.02E+14,57269,15,Blue,Volkswagen,Tiguan,USED,2015,11380,SUV,FALSE,Diesel
+2.02E+14,32000,61,Black,Volvo,S40,USED,2011,6480,Saloon,FALSE,Petrol
+2.02E+14,68829,15,Black,Volkswagen,Golf,USED,2015,14600,Hatchback,FALSE,Petrol
+2.02E+14,63220,10,Silver,Vauxhall,Astra,USED,2010,3250,Hatchback,FALSE,Petrol
+2.02E+14,18624,67,White,Peugeot,108,USED,2017,6795,Hatchback,FALSE,Petrol
+2.02E+14,10939,67,Grey,Peugeot,2008,USED,2017,12200,SUV,FALSE,Petrol
+2.02E+14,20889,67,Black,Citroen,C3 Aircross,USED,2018,11495,SUV,FALSE,Petrol
+2.02E+14,47831,62,White,Suzuki,Swift,USED,2012,5650,Hatchback,FALSE,Petrol
+2.02E+14,4824,19,White,Vauxhall,Astra,USED,2019,13150,Hatchback,FALSE,Petrol
+2.02E+14,5431,69,Black,Audi,A3,USED,2019,17000,Hatchback,FALSE,Petrol
+2.02E+14,1500,20,Grey,Honda,Civic,USED,2020,18995,Hatchback,FALSE,Petrol
+2.02E+14,41196,65,White,Citroen,C1,USED,2016,6500,Hatchback,FALSE,Petrol
+2.02E+14,47967,15,Blue,BMW,3 Series Gran Turismo,USED,2015,14250,Hatchback,FALSE,Petrol
+2.02E+14,32561,16,Purple,DS AUTOMOBILES,DS 3 CABRIO,USED,2016,8495,Convertible,FALSE,Petrol
+2.02E+14,42,16,,Ferrari,California,USED,2016,114900,Convertible,FALSE,Petrol
+2.02E+14,73606,9,Black,Vauxhall,Vectra,USED,2009,2495,Hatchback,FALSE,Petrol
+2.02E+14,58985,65,Grey,Toyota,Auris,USED,2015,7650,Hatchback,FALSE,Diesel
+2.02E+14,20358,18,White,Volkswagen,up!,USED,2018,7000,Hatchback,FALSE,Petrol
+2.02E+14,15907,18,White,SEAT,Leon,USED,2018,10907,Hatchback,FALSE,Petrol
+2.02E+14,52142,16,Grey,Audi,S3,USED,2016,19995,Hatchback,FALSE,Petrol
+2.02E+14,32000,18,Black,Suzuki,Ignis,USED,2018,9290,Hatchback,FALSE,Petrol
+2.02E+14,12206,67,Black,Volkswagen,Golf,USED,2017,19999,Hatchback,FALSE,Petrol Plug-in Hybrid
+2.02E+14,65417,62,Red,Audi,A1,USED,2012,6990,Hatchback,FALSE,Diesel
+2.02E+14,24278,64,Red,Mercedes-Benz,A Class,USED,2015,13737,Hatchback,FALSE,Diesel
+2.02E+14,38329,14,Silver,Mercedes-Benz,E Class,USED,2014,12999,Saloon,FALSE,Diesel
+2.02E+14,37000,13,Red,Fiat,Panda,USED,2013,4495,Hatchback,FALSE,Petrol
+2.02E+14,32900,65,Red,Vauxhall,ADAM,USED,2015,7270,Hatchback,FALSE,Petrol
+2.02E+14,87000,61,Black,Volkswagen,Golf,USED,2011,6995,Hatchback,FALSE,Diesel
+2.02E+14,3000,69,Grey,Peugeot,208,USED,2019,13795,Hatchback,FALSE,Petrol
+2.02E+14,13490,18,Black,MINI,Hatch,USED,2018,11975,Hatchback,FALSE,Petrol
+2.02E+14,30438,68,Silver,Hyundai,Ioniq,USED,2018,12799,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,25189,19,Silver,Hyundai,Tucson,USED,2019,16750,SUV,FALSE,Petrol
+2.02E+14,9000,69,Blue,Volvo,V60,USED,2019,28250,Estate,FALSE,Diesel
+2.02E+14,31700,14,Grey,Toyota,Auris,USED,2014,10290,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,42493,65,Blue,Mercedes-Benz,GLA Class,USED,2015,16750,SUV,FALSE,Diesel
+2.02E+14,21027,66,White,MINI,Hatch,USED,2016,12595,Hatchback,FALSE,Petrol
+2.02E+14,46000,65,Red,Vauxhall,ADAM,USED,2015,6995,Hatchback,FALSE,Petrol
+2.02E+14,4539,19,Black,Suzuki,Ignis,USED,2019,9499,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,0,,Grey,Toyota,C-HR,NEW,,28888,SUV,FALSE,Petrol Hybrid
+2.02E+14,19880,19,Black,DS AUTOMOBILES,DS 7 CROSSBACK,USED,2019,21495,SUV,FALSE,Petrol
+2.02E+14,29490,67,Black,Audi,A6 Avant,USED,2017,19126,Estate,FALSE,Diesel
+2.02E+14,31203,17,Red,Vauxhall,Corsa,USED,2017,6559,Hatchback,FALSE,Petrol
+2.02E+14,40706,66,Black,Mercedes-Benz,S Class,USED,2016,30000,Saloon,FALSE,Diesel
+2.02E+14,43501,17,Grey,Honda,CR-V,USED,2017,13492,SUV,FALSE,Diesel
+2.02E+14,27004,67,Blue,Volkswagen,Scirocco,USED,2017,16784,Coupe,FALSE,Diesel
+2.02E+14,11838,68,Grey,Volvo,XC60,USED,2018,47990,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,3000,70,Grey,Mercedes-Benz,GLC Class,USED,2020,46900,SUV,FALSE,Diesel
+2.02E+14,50902,66,Black,Mercedes-Benz,C Class,USED,2016,13200,Estate,FALSE,Diesel
+2.02E+14,74000,66,Grey,Vauxhall,Insignia,USED,2016,6579,Hatchback,FALSE,Diesel
+2.02E+14,3978,69,Black,Volvo,V60,USED,2020,26000,Estate,FALSE,Diesel
+2.02E+14,43820,68,Black,Audi,A3,USED,2018,14500,Hatchback,FALSE,Petrol
+2.02E+14,60690,12,White,Kia,Rio,USED,2012,3495,Hatchback,FALSE,Petrol
+2.02E+14,28765,16,Black,SEAT,Leon,USED,2016,10995,Hatchback,FALSE,Diesel
+2.02E+14,22634,17,Black,Kia,Optima,USED,2017,16780,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,25265,68,Black,Mercedes-Benz,CLA Class,USED,2018,31000,Coupe,FALSE,Petrol
+2.02E+14,15998,65,Grey,Vauxhall,Insignia,USED,2015,8495,Hatchback,FALSE,Petrol
+2.02E+14,8193,69,Blue,Honda,CR-V,USED,2019,26999,SUV,FALSE,Petrol
+2.02E+14,24720,67,White,Nissan,Micra,USED,2017,10000,Hatchback,FALSE,Petrol
+2.02E+14,10,70,Grey,Kia,Ceed,USED,2020,19999,Hatchback,FALSE,Petrol
+2.02E+14,28377,18,Red,Toyota,RAV4,USED,2018,20995,SUV,FALSE,Petrol Hybrid
+2.02E+14,3288,69,White,MINI,Clubman,USED,2019,16990,Estate,FALSE,Petrol
+2.02E+14,10,,Black,Hyundai,Tucson,NEW,,22815,SUV,FALSE,Petrol
+2.02E+14,17837,19,White,Jeep,Compass,USED,2019,18895,SUV,FALSE,Petrol
+2.02E+14,31602,67,Grey,MINI,Hatch,USED,2017,11300,Hatchback,FALSE,Petrol
+2.02E+14,141500,59,Black,Land Rover,Freelander 2,USED,2009,4950,SUV,FALSE,Diesel
+2.02E+14,38000,17,Grey,Land Rover,Discovery Sport,USED,2017,18490,SUV,FALSE,Diesel
+2.02E+14,15250,68,Grey,Toyota,Yaris,USED,2018,9490,Hatchback,FALSE,Petrol
+2.02E+14,29646,66,Black,Volkswagen,Polo,USED,2016,9290,Hatchback,FALSE,Petrol
+2.02E+14,68682,13,White,Audi,A5,USED,2013,12480,Coupe,FALSE,Petrol
+2.02E+14,50,70,Black,Volvo,XC90,USED,2020,48750,SUV,FALSE,Petrol Hybrid
+2.02E+14,83270,11,Silver,BMW,3 Series,USED,2011,7795,Estate,FALSE,Diesel
+2.02E+14,21701,18,Blue,Hyundai,i10,USED,2018,7790,Hatchback,FALSE,Petrol
+2.02E+14,92000,13,White,Mercedes-Benz,C Class,USED,2013,10989,Coupe,FALSE,Petrol
+2.02E+14,117000,63,Black,BMW,5 Series,USED,2013,9990,Saloon,FALSE,Diesel
+2.02E+14,47377,66,White,Renault,Captur,USED,2016,7990,SUV,FALSE,Diesel
+2.02E+14,1500,70,Grey,Mercedes-Benz,A Class,USED,2020,26995,Saloon,FALSE,Petrol
+2.02E+14,100000,51,Red,Audi,TT,USED,2001,2850,Coupe,FALSE,Petrol
+2.02E+14,39516,18,Black,Volkswagen,Passat,USED,2018,16950,Saloon,FALSE,Diesel
+2.02E+14,27387,18,Grey,Nissan,Juke,USED,2018,11390,SUV,FALSE,Diesel
+2.02E+14,17879,67,Silver,Toyota,Auris,USED,2017,14498,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,38982,67,Silver,Lexus,CT 200h,USED,2017,16195,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,22547,66,Blue,Mercedes-Benz,A Class,USED,2016,15999,Hatchback,FALSE,Diesel
+2.02E+14,50634,66,White,Hyundai,i10,USED,2016,4826,Hatchback,FALSE,Petrol
+2.02E+14,29750,68,Grey,Audi,A6 Saloon,USED,2018,23990,Saloon,FALSE,Diesel
+2.02E+14,36477,17,Grey,Volkswagen,Golf,USED,2017,13990,Hatchback,FALSE,Diesel
+2.02E+14,8068,67,Red,Alfa Romeo,Giulia,USED,2017,23450,Saloon,FALSE,Petrol
+2.02E+14,35848,17,Silver,Audi,A3,USED,2017,18500,Hatchback,FALSE,Petrol
+2.02E+14,0,,Red,SKODA,Kamiq,NEW,,23795,SUV,FALSE,Petrol
+2.02E+14,2180,20,Silver,MINI,Hatch,USED,2020,18990,Hatchback,FALSE,Petrol
+2.02E+14,47200,64,Black,Vauxhall,Zafira Tourer,USED,2014,7795,MPV,FALSE,Diesel
+2.02E+14,0,70,Grey,Land Rover,Range Rover Velar,USED,2020,52995,SUV,FALSE,Diesel
+2.02E+14,18630,18,Blue,Peugeot,108,USED,2018,7495,Hatchback,FALSE,Petrol
+2.02E+14,82000,15,Black,Nissan,Qashqai,USED,2015,10000,SUV,FALSE,Diesel
+2.02E+14,78000,12,Black,Fiat,500C,USED,2012,4990,Convertible,FALSE,Petrol
+2.02E+14,46580,16,Black,Volvo,V40,USED,2016,10143,Hatchback,FALSE,Diesel
+2.02E+14,23943,65,Black,BMW,X5,USED,2015,26499,SUV,FALSE,Diesel
+2.02E+14,5,70,Black,Hyundai,Ioniq,USED,2020,28311,Hatchback,FALSE,Petrol Plug-in Hybrid
+2.02E+14,51511,64,White,Mercedes-Benz,M Class,USED,2014,25650,SUV,FALSE,Petrol
+2.02E+14,27414,62,Red,BMW,Z4,USED,2012,12989,Convertible,FALSE,Petrol
+2.02E+14,23000,17,Black,Nissan,Qashqai,USED,2017,10995,SUV,FALSE,Diesel
+2.02E+14,43977,13,Orange,Kia,Sportage,USED,2013,9000,SUV,FALSE,Diesel
+2.02E+14,29710,67,Red,Peugeot,3008,USED,2017,21491,SUV,FALSE,Diesel
+2.02E+14,9878,20,Grey,BMW,1 Series,USED,2020,30980,Hatchback,FALSE,Petrol
+2.02E+14,66000,63,White,Peugeot,508 SW,USED,2013,9450,Estate,FALSE,Diesel
+2.02E+14,92000,13,Black,Audi,A3,USED,2013,5895,Hatchback,FALSE,Diesel
+2.02E+14,5366,69,Blue,SEAT,Leon,USED,2019,16495,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,Abarth,595,NEW,,20540,Hatchback,FALSE,Petrol
+2.02E+14,16601,16,Grey,Porsche,718 Boxster,USED,2016,43000,Convertible,FALSE,Petrol
+2.02E+14,0,,Red,Renault,Captur,NEW,,21900,SUV,FALSE,Petrol
+2.02E+14,0,,White,Dacia,Duster,NEW,,14295,SUV,FALSE,Petrol
+2.02E+14,42000,67,Red,SKODA,Octavia,USED,2017,16490,Hatchback,FALSE,Diesel
+2.02E+14,38674,66,White,MINI,Clubman,USED,2016,15000,Estate,FALSE,Petrol
+2.02E+14,118000,65,Blue,Audi,A6 Allroad,USED,2015,14989,Estate,FALSE,Diesel
+2.02E+14,0,,Grey,Jeep,Wrangler,NEW,,50450,SUV,FALSE,Petrol
+2.02E+14,31832,18,White,Peugeot,2008,USED,2018,8950,SUV,FALSE,Petrol
+2.02E+14,10072,69,Black,Audi,Q3,USED,2019,30000,SUV,FALSE,Petrol
+2.02E+14,27500,17,Grey,Volkswagen,Polo,USED,2017,11750,Hatchback,FALSE,Petrol
+2.02E+14,130000,15,Silver,Mercedes-Benz,C Class,USED,2015,10995,Estate,FALSE,Diesel Hybrid
+2.02E+14,18541,68,Grey,Vauxhall,Grandland X,USED,2018,13299,SUV,FALSE,Petrol
+2.02E+14,21029,67,Silver,Kia,Sportage,USED,2017,20995,SUV,FALSE,Petrol
+2.02E+14,84233,67,Red,BMW,1 Series,USED,2017,10200,Hatchback,FALSE,Petrol
+2.02E+14,6400,20,Black,Audi,Q5,USED,2020,36683,SUV,FALSE,Diesel
+2.02E+14,27168,67,Red,Peugeot,108,USED,2017,5883,Hatchback,FALSE,Petrol
+2.02E+14,83888,61,Grey,Volkswagen,Golf,USED,2011,6197,Hatchback,FALSE,Diesel
+2.02E+14,54719,66,White,Volkswagen,Golf,USED,2017,11000,Hatchback,FALSE,Petrol
+2.02E+14,10,70,Orange,Vauxhall,Corsa,USED,2020,13600,Hatchback,FALSE,Petrol
+2.02E+14,97462,14,White,Vauxhall,Astra GTC,USED,2014,5995,Coupe,FALSE,Diesel
+2.02E+14,18088,17,White,BMW,1 Series,USED,2017,13995,Hatchback,FALSE,Petrol
+2.02E+14,14000,17,Black,Volkswagen,Golf,USED,2017,9750,Hatchback,FALSE,Diesel
+2.02E+14,8377,65,White,Toyota,AYGO,USED,2015,6495,Hatchback,FALSE,Petrol
+2.02E+14,42333,17,Silver,Land Rover,Discovery,USED,2017,38990,SUV,FALSE,Diesel
+2.02E+14,50211,67,Silver,Vauxhall,Zafira Tourer,USED,2017,9698,MPV,FALSE,Petrol
+2.02E+14,31241,15,Black,Nissan,Qashqai,USED,2015,11290,SUV,FALSE,Diesel
+2.02E+14,5900,19,Black,Volvo,V60,USED,2019,24495,Estate,FALSE,Diesel
+2.02E+14,54600,13,Black,Nissan,Juke,USED,2013,6999,SUV,FALSE,Petrol
+2.02E+14,84000,9,Silver,Porsche,Cayenne,USED,2009,12990,SUV,FALSE,Diesel
+2.02E+14,5,,Grey,Honda,Civic,NEW,,35370,Hatchback,FALSE,Petrol
+2.02E+14,61816,15,White,Vauxhall,Mokka,USED,2015,6999,Hatchback,FALSE,Petrol
+2.02E+14,10275,18,Grey,Citroen,Berlingo,USED,2018,12495,MPV,FALSE,Diesel
+2.02E+14,17689,19,White,Mercedes-Benz,E Class,USED,2019,46950,Convertible,FALSE,Petrol
+2.02E+14,69044,17,Black,Nissan,Qashqai,USED,2017,11000,SUV,FALSE,Diesel
+2.02E+14,17722,68,Red,Mazda,CX-5,USED,2018,18980,SUV,FALSE,Diesel
+2.02E+14,114000,9,White,Jaguar,X-Type,USED,2009,3250,Saloon,FALSE,Diesel
+2.02E+14,68406,56,Grey,BMW,3 Series,USED,2006,7495,Coupe,FALSE,Petrol
+2.02E+14,20263,67,Black,Volkswagen,Polo,USED,2017,10790,Hatchback,FALSE,Petrol
+2.02E+14,43130,66,White,Land Rover,Range Rover Sport,USED,,35990,SUV,FALSE,Diesel
+2.02E+14,37564,68,Grey,Citroen,C3,USED,2018,10000,Hatchback,FALSE,Petrol
+2.02E+14,20000,19,Blue,Audi,A5,USED,2019,28950,Coupe,FALSE,Diesel
+2.02E+14,49851,13,Silver,Volkswagen,Touran,USED,2013,9495,MPV,FALSE,Diesel
+2.02E+14,6470,67,Blue,Toyota,Yaris,USED,2017,12990,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,25345,67,Silver,Land Rover,Range Rover Sport,USED,2017,43995,SUV,FALSE,Diesel
+2.02E+14,9932,69,Grey,Renault,Kadjar,USED,2019,16599,SUV,FALSE,Petrol
+2.02E+14,67450,13,White,Fiat,500,USED,2013,3590,Hatchback,FALSE,Petrol
+2.02E+14,4000,69,Silver,Hyundai,i10,USED,2019,8400,Hatchback,FALSE,Petrol
+2.02E+14,12403,69,White,BMW,1 Series,USED,2020,23790,Hatchback,FALSE,Petrol
+2.02E+14,111150,10,Black,BMW,1 Series,USED,2010,3650,Hatchback,FALSE,Diesel
+2.02E+14,19753,17,Black,Volkswagen,Golf,USED,2017,19999,Hatchback,FALSE,Petrol
+2.02E+14,80000,59,Silver,Peugeot,308 SW,USED,2009,2895,Estate,FALSE,Diesel
+2.02E+14,109450,16,Red,Nissan,Qashqai,USED,2016,6995,SUV,FALSE,Diesel
+2.02E+14,7000,17,Black,Citroen,C3 Picasso,USED,2017,9990,MPV,FALSE,Diesel
+2.02E+14,16000,19,Silver,Citroen,C3 Aircross,USED,2019,11490,SUV,FALSE,Petrol
+2.02E+14,0,,Red,Kia,Sportage,NEW,,25911,SUV,FALSE,Petrol
+2.02E+14,69000,13,Black,Volkswagen,Golf,USED,2013,10995,Hatchback,FALSE,Diesel
+2.02E+14,13142,18,Silver,MINI,Clubman,USED,2018,15533,Estate,FALSE,Diesel
+2.02E+14,75000,14,White,Kia,Sportage,USED,2014,8990,SUV,FALSE,Diesel
+2.02E+14,0,,Grey,Dacia,Duster,NEW,,18055,SUV,FALSE,Petrol
+2.02E+14,16000,18,Blue,Toyota,Yaris,USED,2018,11995,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,68682,63,Grey,Audi,A3,USED,2013,10490,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Audi,RS Q3,NEW,,57480,SUV,FALSE,Petrol
+2.02E+14,10485,68,White,BMW,3 Series,USED,2019,25950,Saloon,FALSE,Diesel
+2.02E+14,27922,65,White,Vauxhall,Zafira Tourer,USED,2016,9290,MPV,FALSE,Diesel
+2.02E+14,139000,8,Grey,Land Rover,Range Rover Sport,USED,2008,5950,SUV,FALSE,Diesel
+2.02E+14,21124,17,White,Hyundai,i30,USED,2017,10295,Hatchback,FALSE,Petrol
+2.02E+14,84000,63,White,MINI,Countryman,USED,2014,6795,SUV,FALSE,Petrol
+2.02E+14,14832,16,White,SKODA,Citigo,USED,2016,7995,Hatchback,FALSE,Petrol
+2.02E+14,20305,67,Red,Peugeot,208,USED,2017,12250,Hatchback,FALSE,Petrol
+2.02E+14,24204,67,Grey,MINI,Clubman,USED,2017,11999,Estate,FALSE,Petrol
+2.02E+14,38000,17,Grey,Toyota,C-HR,USED,2017,14499,SUV,FALSE,Petrol
+2.02E+14,19586,18,Red,Volkswagen,up!,USED,2018,7500,Hatchback,FALSE,Petrol
+2.02E+14,15703,19,Black,Vauxhall,Corsa,USED,2019,7750,Hatchback,FALSE,Petrol
+2.02E+14,804,20,Grey,Volvo,XC90,USED,2020,42990,SUV,FALSE,Petrol Hybrid
+2.02E+14,48497,13,Silver,Audi,A5 Cabriolet,USED,2013,9995,Convertible,FALSE,Diesel
+2.02E+14,10,70,Grey,Dacia,Duster,USED,2020,13690,SUV,FALSE,Petrol
+2.02E+14,39424,65,Grey,Audi,Q3,USED,2015,14995,SUV,FALSE,Diesel
+2.02E+14,20908,65,Silver,Audi,A1,USED,2015,11500,Hatchback,FALSE,Petrol
+2.02E+14,97356,15,Grey,Land Rover,Discovery Sport,USED,2015,17750,SUV,FALSE,Diesel
+2.02E+14,10759,18,Grey,Vauxhall,Corsa,USED,2018,7800,Hatchback,FALSE,Petrol
+2.02E+14,106000,7,Silver,Hyundai,Coupe,USED,2007,1699,Coupe,FALSE,Petrol
+2.02E+14,3000,20,Silver,Volkswagen,Polo,USED,2020,13995,Hatchback,FALSE,Petrol
+2.02E+14,20000,68,White,Renault,Clio,USED,2018,9995,Hatchback,FALSE,Diesel
+2.02E+14,5,70,Black,Honda,CR-V,USED,2020,31795,SUV,FALSE,Petrol
+2.02E+14,36425,16,White,Audi,A3,USED,2016,10995,Hatchback,FALSE,Petrol
+2.02E+14,70007,62,Grey,Land Rover,Freelander 2,USED,2012,10990,SUV,FALSE,Diesel
+2.02E+14,15400,17,White,Volkswagen,Golf,USED,2017,13750,Hatchback,FALSE,Petrol
+2.02E+14,96300,10,Yellow,MINI,Convertible,USED,2010,3295,Convertible,FALSE,Petrol
+2.02E+14,58980,,Burgundy,Panther,Kallista,USED,1986,12950,Convertible,FALSE,Petrol
+2.02E+14,58788,63,Black,BMW,5 Series,USED,2014,16250,Estate,FALSE,Diesel
+2.02E+14,23889,67,Blue,BMW,4 Series,USED,2017,27980,Convertible,FALSE,Petrol
+2.02E+14,60000,10,Black,Vauxhall,Corsa,USED,2010,2600,Hatchback,FALSE,Petrol
+2.02E+14,6679,68,Black,Land Rover,Discovery,USED,2019,54495,SUV,FALSE,Diesel
+2.02E+14,15877,68,White,Hyundai,Tucson,USED,2018,16990,SUV,FALSE,Petrol
+2.02E+14,19000,63,Black,Porsche,911,USED,2014,79975,Coupe,FALSE,Petrol
+2.02E+14,124123,57,Black,BMW,X5,USED,2007,5499,SUV,FALSE,Diesel
+2.02E+14,16680,18,Grey,Peugeot,2008,USED,2018,11995,SUV,FALSE,Petrol
+2.02E+14,53800,5,Blue,Vauxhall,Tigra,USED,2005,1500,Convertible,FALSE,Petrol
+2.02E+14,72805,13,White,Volkswagen,Tiguan,USED,2013,10990,SUV,FALSE,Diesel
+2.02E+14,120258,10,Grey,Volvo,XC90,USED,2010,5400,SUV,FALSE,Diesel
+2.02E+14,51085,18,Grey,Volvo,V90 Cross Country,USED,2018,22880,Estate,FALSE,Diesel
+2.02E+14,9093,69,Green,Jaguar,F-Type,USED,2019,52844,Convertible,FALSE,Petrol
+2.02E+14,11922,68,Red,Nissan,Juke,USED,2018,12000,SUV,FALSE,Petrol
+2.02E+14,15,,Black,Peugeot,208,NEW,,15645,Hatchback,FALSE,Petrol
+2.02E+14,36961,16,Multicolour,Renault,Captur,USED,2016,9558,SUV,FALSE,Diesel
+2.02E+14,10823,69,Grey,Dacia,Duster,USED,2019,15299,SUV,FALSE,Petrol
+2.02E+14,16889,68,Silver,Mercedes-Benz,A Class,USED,2018,19950,Hatchback,FALSE,Petrol
+2.02E+14,75336,64,Silver,Mercedes-Benz,C Class,USED,2014,14000,Saloon,FALSE,Diesel
+2.02E+14,114000,10,Blue,Vauxhall,Insignia,USED,2010,1895,Hatchback,FALSE,Petrol
+2.02E+14,73061,17,Grey,Mercedes-Benz,E Class,USED,2017,15499,Saloon,FALSE,Diesel
+2.02E+14,71111,13,White,Audi,Q5,USED,2013,15000,SUV,FALSE,Diesel
+2.02E+14,34924,59,White,Fiat,500,USED,2009,3700,Hatchback,FALSE,Petrol
+2.02E+14,4100,20,White,Peugeot,3008,USED,2020,26600,SUV,FALSE,Petrol
+2.02E+14,7880,67,White,Hyundai,i10,USED,2017,7500,Hatchback,FALSE,Petrol
+2.02E+14,12845,66,White,Volkswagen,Tiguan,USED,2016,24990,SUV,FALSE,Diesel
+2.02E+14,49925,65,White,Nissan,Juke,USED,2015,7480,SUV,FALSE,Diesel
+2.02E+14,104563,9,Black,BMW,3 Series,USED,2009,6999,Coupe,FALSE,Diesel
+2.02E+14,6539,66,Bronze,Mitsubishi,Mirage,USED,2016,9999,Hatchback,FALSE,Petrol
+2.02E+14,94000,10,Blue,Volvo,XC60,USED,2010,7995,SUV,FALSE,Diesel
+2.02E+14,51000,16,Grey,Mercedes-Benz,C Class,USED,2016,17748,Saloon,FALSE,Diesel
+2.02E+14,115350,57,Grey,SKODA,Fabia,USED,2008,1495,Hatchback,FALSE,Petrol
+2.02E+14,16671,19,Grey,Mercedes-Benz,C Class,USED,2019,22699,Saloon,FALSE,Petrol
+2.02E+14,81000,12,Black,Vauxhall,Astra GTC,USED,2012,3795,Coupe,FALSE,Petrol
+2.02E+14,24760,16,Black,BMW,2 Series Gran Tourer,USED,2016,14399,MPV,FALSE,Petrol
+2.02E+14,82000,,Grey,Renault,Clio,USED,1998,350,Hatchback,FALSE,Petrol
+2.02E+14,12945,19,Red,DS AUTOMOBILES,DS 3 CROSSBACK,USED,2019,17640,SUV,FALSE,Petrol
+2.02E+14,22500,19,Black,BMW,4 Series,USED,2019,26990,Coupe,FALSE,Diesel
+2.02E+14,2879,20,Black,Nissan,Navara,USED,2020,29990,Pickup,TRUE,Diesel
+2.02E+14,150000,4,Green,Vauxhall,Astra,USED,2004,700,Hatchback,FALSE,Petrol
+2.02E+14,30072,68,Black,Vauxhall,Mokka X,USED,2018,10700,SUV,FALSE,Petrol
+2.02E+14,13012,68,Blue,BMW,1 Series,USED,2018,14800,Hatchback,FALSE,Petrol
+2.02E+14,29472,67,Blue,Mercedes-Benz,C Class,USED,2017,15800,Saloon,FALSE,Diesel
+2.02E+14,90715,17,Black,Audi,A4 Avant,USED,2017,11700,Estate,FALSE,Diesel
+2.02E+14,36200,17,White,Vauxhall,Astra,USED,2017,10299,Estate,FALSE,Diesel
+2.02E+14,94700,65,Grey,Mercedes-Benz,C Class,USED,2015,14000,Estate,FALSE,Petrol Plug-in Hybrid
+2.02E+14,10,,White,Volkswagen,Tiguan,NEW,,39505,SUV,FALSE,Diesel
+2.02E+14,13704,67,Blue,Kia,Picanto,USED,2017,9249,Hatchback,FALSE,Petrol
+2.02E+14,83000,59,Black,Audi,A4,USED,2009,5900,Saloon,FALSE,Petrol
+2.02E+14,45480,17,White,Volvo,XC90,USED,2017,29800,SUV,FALSE,Diesel
+2.02E+14,11,70,White,MG,MG3,USED,2020,12690,Hatchback,FALSE,Petrol
+2.02E+14,65000,14,White,Kia,Sportage,USED,2014,9691,SUV,FALSE,Diesel
+2.02E+14,63369,17,Blue,SKODA,Rapid Spaceback,USED,,7490,Hatchback,FALSE,Diesel
+2.02E+14,36500,13,Black,Mercedes-Benz,B Class,USED,2013,8500,Hatchback,FALSE,Diesel
+2.02E+14,10859,69,Silver,SKODA,Octavia,USED,2019,15495,Estate,FALSE,Petrol
+2.02E+14,59998,57,Black,Mercedes-Benz,CLK,USED,2007,4890,Coupe,FALSE,Diesel
+2.02E+14,38550,59,Red,SKODA,Fabia,USED,2009,2995,Hatchback,FALSE,Petrol
+2.02E+14,10300,16,Grey,Ferrari,F12berlinetta,USED,2016,164995,Coupe,FALSE,Petrol
+2.02E+14,41002,66,White,BMW,4 Series Gran Coupe,USED,2016,22850,Saloon,FALSE,Diesel
+2.02E+14,27833,18,Blue,MG,MG ZS,USED,2018,9995,SUV,FALSE,Petrol
+2.02E+14,22350,17,Grey,SEAT,Alhambra,USED,2017,17490,MPV,FALSE,Diesel
+2.02E+14,10000,15,Blue,Hyundai,i20,USED,2015,9250,Hatchback,FALSE,Petrol
+2.02E+14,33738,66,,Toyota,RAV4,USED,2016,13950,SUV,FALSE,Diesel
+2.02E+14,10422,17,Grey,Jeep,Renegade,USED,2017,12595,SUV,FALSE,Petrol
+2.02E+14,35570,17,Black,Vauxhall,Insignia,USED,2017,10500,Hatchback,FALSE,Diesel
+2.02E+14,35000,66,White,Nissan,Qashqai,USED,2016,11000,SUV,FALSE,Diesel
+2.02E+14,77000,10,Silver,Chevrolet,Spark,USED,2010,1390,Hatchback,FALSE,Petrol
+2.02E+14,34009,,Silver,Aston Martin,DB7,USED,2001,28911,Coupe,FALSE,Petrol
+2.02E+14,102600,59,Black,Volvo,S40,USED,2009,2795,Saloon,FALSE,Diesel
+2.02E+14,8790,19,Silver,Volvo,XC60,USED,2019,31990,SUV,FALSE,Petrol
+2.02E+14,0,,Red,Jeep,Compass,NEW,,28430,SUV,FALSE,Petrol
+2.02E+14,11827,19,White,Toyota,AYGO,USED,2019,8044,Hatchback,FALSE,Petrol
+2.02E+14,14462,16,Red,Abarth,595C,USED,2016,11880,Convertible,FALSE,Petrol
+2.02E+14,10,,Silver,Alfa Romeo,Giulietta,NEW,,19645,Hatchback,FALSE,Petrol
+2.02E+14,64643,7,Blue,Renault,Megane,USED,2007,1385,Estate,FALSE,Diesel
+2.02E+14,0,,Grey,Jeep,Renegade,NEW,,25705,SUV,FALSE,Petrol
+2.02E+14,30276,67,Grey,Audi,Q5,USED,2017,26100,SUV,FALSE,Diesel
+2.02E+14,30000,65,White,Vauxhall,Mokka,USED,2015,8995,Hatchback,FALSE,Petrol
+2.02E+14,20486,18,Blue,Toyota,RAV4,USED,2018,20990,SUV,FALSE,Petrol Hybrid
+2.02E+14,2300,69,Grey,SEAT,Leon,USED,2020,19990,Hatchback,FALSE,Petrol
+2.02E+14,4576,69,Blue,Mazda,Mazda6,USED,2019,18495,Saloon,FALSE,Petrol
+2.02E+14,1000,70,Red,Mazda,Mazda6,USED,2020,26250,Saloon,FALSE,Petrol
+2.02E+14,15000,17,Red,Ferrari,California,USED,2017,114000,Convertible,FALSE,Petrol
+2.02E+14,12000,66,Red,Renault,Clio,USED,2016,9995,Hatchback,FALSE,Diesel
+2.02E+14,48000,15,White,Land Rover,Discovery Sport,USED,2015,19750,SUV,FALSE,Diesel
+2.02E+14,5000,20,Grey,Volkswagen,Golf,USED,2020,32000,Hatchback,FALSE,Petrol
+2.02E+14,58795,2,Black,Mercedes-Benz,SLK,USED,2002,6500,Convertible,FALSE,Petrol
+2.02E+14,57000,17,Silver,Nissan,X-Trail,USED,2017,12250,SUV,FALSE,Diesel
+2.02E+14,7253,66,Black,Lamborghini,Aventador,USED,2016,219995,Coupe,FALSE,Petrol
+2.02E+14,6895,20,Blue,Hyundai,Kona,USED,2020,22999,SUV,FALSE,Petrol Hybrid
+2.02E+14,89816,55,Silver,Porsche,911,USED,2005,18500,Coupe,FALSE,Petrol
+2.02E+14,709,19,White,Toyota,Prius,USED,2019,21985,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,10861,18,White,SKODA,Fabia,USED,2018,10495,Hatchback,FALSE,Petrol
+2.02E+14,121800,62,Blue,SKODA,Roomster,USED,2012,3250,MPV,FALSE,Diesel
+2.02E+14,19312,11,Red,Ferrari,458,USED,2011,128900,Coupe,FALSE,Petrol
+2.02E+14,10000,69,Blue,BMW,X6,USED,2019,65000,SUV,FALSE,Diesel
+2.02E+14,6255,19,Blue,Citroen,C5 Aircross,USED,2019,17990,SUV,FALSE,Petrol
+2.02E+14,11987,68,Black,Audi,A4,USED,2018,19495,Saloon,FALSE,Petrol
+2.02E+14,99987,63,Silver,Audi,A8,USED,2013,11999,Saloon,FALSE,Diesel
+2.02E+14,80300,53,Red,Audi,A4 Cabriolet,USED,2003,3299,Convertible,FALSE,Petrol
+2.02E+14,5300,20,Grey,Mercedes-Benz,CLA Class,USED,2020,30400,Coupe,FALSE,Petrol
+2.02E+14,10,,White,BMW,3 Series,NEW,,37880,Estate,FALSE,Diesel
+2.02E+14,92235,51,Gold,Land Rover,Discovery,USED,2001,5495,SUV,FALSE,Diesel
+2.02E+14,39000,15,Black,Citroen,C3,USED,2015,2990,Hatchback,FALSE,Petrol
+2.02E+14,1362,69,Blue,Mercedes-Benz,C Class,USED,2019,28599,Estate,FALSE,Diesel
+2.02E+14,18023,66,Red,Vauxhall,Corsa,USED,2016,7577,Hatchback,FALSE,Petrol
+2.02E+14,22500,17,Silver,Hyundai,Tucson,USED,2017,13195,SUV,FALSE,Diesel
+2.02E+14,75786,11,Black,Volkswagen,Polo,USED,2011,4599,Hatchback,FALSE,Diesel
+2.02E+14,58000,62,White,Mercedes-Benz,C Class,USED,2012,10995,Saloon,FALSE,Diesel
+2.02E+14,13085,18,White,Hyundai,i10,USED,2018,7350,Hatchback,FALSE,Petrol
+2.02E+14,40000,17,Black,Vauxhall,Corsa,USED,2017,4499,Hatchback,FALSE,Petrol
+2.02E+14,10,,Blue,Audi,A6 Saloon,NEW,,49745,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,37985,17,Silver,Hyundai,Tucson,USED,2017,11991,SUV,FALSE,Petrol
+2.02E+14,2000,20,Blue,Volkswagen,T-Cross,USED,2020,20980,SUV,FALSE,Diesel
+2.02E+14,30000,65,Silver,Mercedes-Benz,S Class,USED,2015,24995,Saloon,FALSE,Diesel
+2.02E+14,38043,67,White,Nissan,Leaf,USED,2017,11995,Hatchback,FALSE,Electric
+2.02E+14,28000,17,Blue,BMW,6 Series,USED,2017,27000,Convertible,FALSE,Diesel
+2.02E+14,90000,13,Black,Peugeot,308,USED,2013,2995,Hatchback,FALSE,Diesel
+2.02E+14,26279,17,White,BMW,2 Series Active Tourer,USED,2017,15950,MPV,FALSE,Diesel
+2.02E+14,66200,13,Silver,Kia,Carens,USED,2013,6495,MPV,FALSE,Diesel
+2.02E+14,19727,68,Grey,Vauxhall,Insignia,USED,2018,13500,Hatchback,FALSE,Petrol
+2.02E+14,44129,16,Silver,Vauxhall,Zafira Tourer,USED,2016,7995,MPV,FALSE,Petrol
+2.02E+14,31089,66,White,MINI,Convertible,USED,2016,11999,Convertible,FALSE,Diesel
+2.02E+14,43651,64,Silver,Lexus,NX 300h,USED,2014,23800,SUV,FALSE,Petrol Hybrid
+2.02E+14,0,,Red,Volvo,XC40,NEW,,41000,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,1,,Black,Fiat,500,NEW,,12500,Hatchback,FALSE,Petrol
+2.02E+14,13219,67,Black,Audi,A4 Allroad,USED,2017,23625,Estate,FALSE,Diesel
+2.02E+14,14500,19,Red,Nissan,Qashqai,USED,2019,12390,SUV,FALSE,Diesel
+2.02E+14,110000,3,Black,BMW,M3,USED,2003,15000,Convertible,FALSE,Petrol
+2.02E+14,18,70,Black,Land Rover,Range Rover,USED,2020,88000,SUV,FALSE,Diesel
+2.02E+14,64811,13,Red,Citroen,C4 Picasso,USED,2013,6558,MPV,FALSE,Diesel
+2.02E+14,25707,67,Grey,Volkswagen,Passat,USED,2018,16004,Estate,FALSE,Diesel
+2.02E+14,65000,67,Grey,BMW,3 Series,USED,2017,16495,Saloon,FALSE,Diesel
+2.02E+14,73659,15,White,Renault,Clio,USED,2015,5695,Hatchback,FALSE,Petrol
+2.02E+14,97940,12,Black,Vauxhall,Astra,USED,2012,3100,Hatchback,FALSE,Petrol
+2.02E+14,21593,67,Black,Peugeot,208,USED,2018,8798,Hatchback,FALSE,Petrol
+2.02E+14,83000,17,Silver,Vauxhall,Zafira Tourer,USED,2017,9590,MPV,FALSE,Petrol
+2.02E+14,53948,14,Black,Audi,A1,USED,2014,9200,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,Mercedes-Benz,GLE Class,NEW,,60770,SUV,FALSE,Diesel
+2.02E+14,7019,20,Blue,BMW,1 Series,USED,2020,30980,Hatchback,FALSE,Petrol
+2.02E+14,114000,62,White,BMW,3 Series,USED,2012,6750,Saloon,FALSE,Diesel
+2.02E+14,51208,66,Black,BMW,1 Series,USED,2016,11280,Hatchback,FALSE,Diesel
+2.02E+14,65000,12,Red,BMW,Alpina D3 Bi-Turbo,USED,2012,11585,Saloon,FALSE,Diesel
+2.02E+14,18397,15,White,Volkswagen,Polo,USED,2015,9500,Hatchback,FALSE,Petrol
+2.02E+14,3100,20,Black,Audi,Q2,USED,2020,30999,SUV,FALSE,Diesel
+2.02E+14,73587,16,Blue,Audi,A3,USED,2016,12995,Hatchback,FALSE,Diesel
+2.02E+14,5355,69,Black,Jaguar,I-PACE,USED,2019,49950,SUV,FALSE,Electric
+2.02E+14,39411,17,White,Nissan,Qashqai,USED,2017,12590,SUV,FALSE,Diesel
+2.02E+14,21155,67,Silver,BMW,4 Series Gran Coupe,USED,2017,21170,Saloon,FALSE,Diesel
+2.02E+14,27850,16,Black,BMW,1 Series,USED,2016,12660,Hatchback,FALSE,Petrol
+2.02E+14,22917,17,Black,Nissan,Qashqai,USED,2017,14500,SUV,FALSE,Petrol
+2.02E+14,12950,19,Blue,Peugeot,508 SW,USED,2019,19950,Estate,FALSE,Diesel
+2.02E+14,13588,67,Silver,Mercedes-Benz,G Class,USED,2017,80000,SUV,FALSE,Petrol
+2.02E+14,82950,63,Black,Honda,CR-V,USED,2013,10450,SUV,FALSE,Diesel
+2.02E+14,17163,19,Silver,Volkswagen,Passat,USED,2019,17895,Estate,FALSE,Petrol
+2.02E+14,79069,17,White,BMW,1 Series,USED,2017,10353,Hatchback,FALSE,Petrol
+2.02E+14,64000,8,Blue,Daihatsu,Terios,USED,2008,4295,SUV,FALSE,Petrol
+2.02E+14,150,70,Red,Renault,Zoe,USED,2020,28999,Hatchback,FALSE,Electric
+2.02E+14,18122,19,Black,Audi,S3,USED,2019,27995,Hatchback,FALSE,Petrol
+2.02E+14,104775,12,Black,Audi,A3,USED,2012,5750,Hatchback,FALSE,Diesel
+2.02E+14,43000,64,Silver,Vauxhall,Zafira,USED,2014,5895,MPV,FALSE,Petrol
+2.02E+14,21191,67,Grey,Mazda,CX-5,USED,2018,20750,SUV,FALSE,Diesel
+2.02E+14,112000,9,Blue,BMW,3 Series,USED,2009,2995,Saloon,FALSE,Petrol
+2.02E+14,81779,62,Grey,Audi,A3,USED,2012,3500,Hatchback,FALSE,Diesel
+2.02E+14,38797,14,White,SKODA,Octavia,USED,2014,11985,Hatchback,FALSE,Diesel
+2.02E+14,56530,64,Grey,Mitsubishi,Outlander,USED,2014,12245,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,106500,55,Blue,Audi,A4 Cabriolet,USED,2005,1495,Convertible,FALSE,Petrol
+2.02E+14,2987,70,White,SKODA,Karoq,USED,2020,22985,SUV,FALSE,Diesel
+2.02E+14,18534,68,Blue,Kia,Sportage,USED,2018,16989,SUV,FALSE,Petrol
+2.02E+14,0,,Black,Land Rover,Discovery Sport,NEW,,54756,SUV,FALSE,Diesel
+2.02E+14,21400,,Blue,BMW,Z3,USED,2000,12490,Convertible,FALSE,Petrol
+2.02E+14,1600,19,Black,Jeep,Renegade,USED,2019,17995,SUV,FALSE,Petrol
+2.02E+14,71837,61,Black,Nissan,Juke,USED,2011,4895,SUV,FALSE,Diesel
+2.02E+14,4493,17,Black,Vauxhall,Mokka X,USED,2017,10290,SUV,FALSE,Petrol
+2.02E+14,4771,69,Grey,Mazda,Mazda3,USED,2019,23077,Hatchback,FALSE,Petrol
+2.02E+14,6221,19,White,Volkswagen,Polo,USED,2019,13690,Hatchback,FALSE,Diesel
+2.02E+14,38000,15,Red,Citroen,C1,USED,2015,2990,Hatchback,FALSE,Petrol
+2.02E+14,11651,67,White,MINI,Countryman,USED,2017,19450,SUV,FALSE,Petrol
+2.02E+14,44000,15,White,BMW,3 Series,USED,2015,14295,Saloon,FALSE,Diesel
+2.02E+14,1337,69,Silver,Volvo,XC90,USED,2020,43190,SUV,FALSE,Petrol Hybrid
+2.02E+14,4828,67,Grey,Porsche,911,USED,2018,128995,Coupe,FALSE,Petrol
+2.02E+14,70000,15,Grey,Mercedes-Benz,C Class,USED,2015,14650,Saloon,FALSE,Diesel
+2.02E+14,37774,18,Blue,Kia,Soul,USED,2018,15995,SUV,FALSE,Electric
+2.02E+14,108125,61,White,Volkswagen,Tiguan,USED,2012,7295,SUV,FALSE,Diesel
+2.02E+14,25736,67,White,BMW,5 Series,USED,2017,22700,Saloon,FALSE,Diesel
+2.02E+14,24436,17,Silver,MINI,Clubman,USED,2017,21990,Estate,FALSE,Petrol
+2.02E+14,20396,17,Blue,Volvo,V40,USED,2017,11999,Hatchback,FALSE,Petrol
+2.02E+14,69000,59,Silver,Vauxhall,Astra,USED,2009,670,Hatchback,FALSE,Petrol
+2.02E+14,36000,17,White,Mercedes-Benz,A Class,USED,2017,15695,Hatchback,FALSE,Diesel
+2.02E+14,54868,10,Grey,Audi,A6 Avant,USED,2010,10495,Estate,FALSE,Diesel
+2.02E+14,40000,15,White,Citroen,C1,USED,2015,4950,Convertible,FALSE,Petrol
+2.02E+14,77200,64,Blue,BMW,1 Series,USED,2014,9500,Hatchback,FALSE,Diesel
+2.02E+14,42000,67,Grey,Land Rover,Range Rover Sport,USED,2017,40495,SUV,FALSE,Diesel
+2.02E+14,28987,66,White,BMW,1 Series,USED,2017,14950,Hatchback,FALSE,Diesel
+2.02E+14,12669,17,Black,Mercedes-Benz,C Class,USED,2017,24380,Convertible,FALSE,Diesel
+2.02E+14,6427,69,Silver,MINI,Hatch,USED,2019,18980,Hatchback,FALSE,Petrol
+2.02E+14,10,70,Grey,Abarth,595,USED,2020,18995,Hatchback,FALSE,Petrol
+2.02E+14,40500,17,Silver,Mercedes-Benz,C Class,USED,2017,19372,Coupe,FALSE,Diesel
+2.02E+14,18995,67,Red,Audi,S3,USED,2017,27799,Saloon,FALSE,Petrol
+2.02E+14,4875,69,Grey,SKODA,Fabia,USED,2019,9299,Hatchback,FALSE,Petrol
+2.02E+14,80000,60,Black,Volkswagen,Golf,USED,2010,4595,Hatchback,FALSE,Petrol
+2.02E+14,10781,68,Silver,SEAT,Leon,USED,2019,14075,Hatchback,FALSE,Petrol
+2.02E+14,20429,17,White,Mercedes-Benz,A Class,USED,2017,19265,Hatchback,FALSE,Diesel
+2.02E+14,10,70,,Hyundai,i20,USED,2020,17994,Hatchback,FALSE,Petrol
+2.02E+14,35000,17,White,BMW,1 Series,USED,2017,15479,Hatchback,FALSE,Diesel
+2.02E+14,21000,16,,Alfa Romeo,4C,USED,2016,34541,Coupe,FALSE,Petrol
+2.02E+14,23470,62,Grey,Ferrari,F12berlinetta,USED,2013,149990,Coupe,FALSE,Petrol
+2.02E+14,70000,14,Black,Toyota,RAV4,USED,2014,10500,SUV,FALSE,Diesel
+2.02E+14,10,,Silver,Volkswagen,Polo,NEW,,18437,Hatchback,FALSE,Petrol
+2.02E+14,5321,18,White,Citroen,C3,USED,2018,9346,Hatchback,FALSE,Petrol
+2.02E+14,32198,12,Grey,BMW,M5,USED,2012,26052,Saloon,FALSE,Petrol
+2.02E+14,86000,13,Black,Audi,A6 Avant,USED,2013,10500,Estate,FALSE,Diesel
+2.02E+14,39000,17,White,Mercedes-Benz,C Class,USED,2017,22490,Convertible,FALSE,Diesel
+2.02E+14,50000,17,Silver,Audi,A4 Avant,USED,2017,15290,Estate,FALSE,Diesel
+2.02E+14,15793,67,Blue,Audi,SQ5,USED,2018,39995,SUV,FALSE,Petrol
+2.02E+14,74000,,Silver,Mercedes-Benz,SL Class,USED,2004,15950,Convertible,FALSE,Petrol
+2.02E+14,19250,19,Black,BMW,8 Series,USED,2019,55980,Coupe,FALSE,Diesel
+2.02E+14,23419,17,Grey,Nissan,X-Trail,USED,2017,13000,SUV,FALSE,Diesel
+2.02E+14,41984,68,Blue,Volvo,V40,USED,2018,14750,Hatchback,FALSE,Diesel
+2.02E+14,10168,17,White,Audi,TT,USED,2017,21990,Coupe,FALSE,Petrol
+2.02E+14,59000,63,Blue,Peugeot,Partner Tepee,USED,2013,6499,MPV,FALSE,Diesel
+2.02E+14,22257,18,Blue,Honda,CR-V,USED,2018,16990,SUV,FALSE,Diesel
+2.02E+14,29942,17,Brown,Land Rover,Range Rover Evoque,USED,2017,26380,SUV,FALSE,Diesel
+2.02E+14,9359,19,White,BMW,Z4,USED,2019,35950,Convertible,FALSE,Petrol
+2.02E+14,93000,61,Silver,Mercedes-Benz,S Class,USED,2011,10995,Limousine,FALSE,Diesel
+2.02E+14,16205,68,Silver,Toyota,RAV4,USED,2018,21495,SUV,FALSE,Petrol Hybrid
+2.02E+14,3039,69,White,BMW,4 Series,USED,2019,35917,Convertible,FALSE,Diesel
+2.02E+14,51355,63,Grey,BMW,1 Series,USED,2013,7933,Coupe,FALSE,Diesel
+2.02E+14,19079,67,White,Volkswagen,Polo,USED,2017,10140,Hatchback,FALSE,Petrol
+2.02E+14,19000,67,Blue,Mercedes-Benz,C Class,USED,2017,17000,Saloon,FALSE,Petrol
+2.02E+14,15153,68,Blue,Mazda,Mazda2,USED,2018,10781,Hatchback,FALSE,Petrol
+2.02E+14,5550,18,White,Toyota,AYGO,USED,2018,7995,Hatchback,FALSE,Petrol
+2.02E+14,72000,5,Silver,Mercedes-Benz,SLK,USED,2005,4777,Convertible,FALSE,Petrol
+2.02E+14,2857,20,White,BMW,M4,USED,2020,48995,Coupe,FALSE,Petrol
+2.02E+14,13849,19,Blue,Volkswagen,Passat,USED,2019,17990,Estate,FALSE,Petrol
+2.02E+14,12079,68,Red,SEAT,Leon,USED,2018,14290,Hatchback,FALSE,Petrol
+2.02E+14,5574,69,Blue,Toyota,C-HR,USED,2019,21400,SUV,FALSE,Petrol Hybrid
+2.02E+14,25350,18,Blue,Vauxhall,Corsa,USED,2018,8500,Hatchback,FALSE,Petrol
+2.02E+14,3461,69,White,Volvo,XC40,USED,2019,32000,SUV,FALSE,Diesel
+2.02E+14,100,70,Blue,Dacia,Duster,USED,2020,15995,SUV,FALSE,Diesel
+2.02E+14,57000,14,Black,Citroen,C4 Picasso,USED,2014,7495,MPV,FALSE,Diesel
+2.02E+14,42000,17,Grey,Audi,A3,USED,2017,16270,Hatchback,FALSE,Diesel
+2.02E+14,7039,69,White,Peugeot,308,USED,2019,14996,Hatchback,FALSE,Diesel
+2.02E+14,6000,20,Grey,Kia,Niro,USED,2020,23999,SUV,FALSE,Petrol Hybrid
+2.02E+14,0,,Black,Peugeot,2008,NEW,,23325,SUV,FALSE,Petrol
+2.02E+14,16000,19,Grey,Volkswagen,Touareg,USED,2019,44000,SUV,FALSE,Diesel
+2.02E+14,20805,67,Black,Vauxhall,Corsa,USED,2018,7600,Hatchback,FALSE,Petrol
+2.02E+14,17204,67,Black,Suzuki,SX4 S-Cross,USED,2017,12395,SUV,FALSE,Petrol
+2.02E+14,75822,63,White,Mercedes-Benz,A Class,USED,2013,10499,Hatchback,FALSE,Petrol
+2.02E+14,86629,64,Grey,Audi,Q5,USED,2014,14300,SUV,FALSE,Diesel
+2.02E+14,37000,65,Grey,Vauxhall,Corsa,USED,2015,5895,Hatchback,FALSE,Petrol
+2.02E+14,32687,67,White,Mercedes-Benz,GLC Class,USED,2017,24799,SUV,FALSE,Diesel
+2.02E+14,20553,67,Grey,MINI,Hatch,USED,2017,13500,Hatchback,FALSE,Petrol
+2.02E+14,26149,68,White,Vauxhall,Astra,USED,2018,10999,Hatchback,FALSE,Petrol
+2.02E+14,25900,66,Black,BMW,7 Series,USED,2016,29495,Saloon,FALSE,Diesel
+2.02E+14,25500,18,White,Volkswagen,Golf,USED,2018,18495,Hatchback,FALSE,Petrol Plug-in Hybrid
+2.02E+14,74000,61,White,Nissan,Qashqai,USED,2012,6480,SUV,FALSE,Diesel
+2.02E+14,50,,Black,Volkswagen,Tiguan Allspace,NEW,,39333,SUV,FALSE,Petrol
+2.02E+14,0,,,Jaguar,F-Type,NEW,,58712,Convertible,FALSE,Petrol
+2.02E+14,15804,69,Red,Mercedes-Benz,A Class,USED,2019,19691,Hatchback,FALSE,Diesel
+2.02E+14,61500,63,Silver,Nissan,Qashqai,USED,2014,7650,SUV,FALSE,Diesel
+2.02E+14,14421,67,Green,Volkswagen,Golf,USED,2017,14000,Hatchback,FALSE,Petrol
+2.02E+14,129000,59,Red,Toyota,Prius,USED,2009,5295,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,49000,65,Black,Audi,A3,USED,2016,13950,Hatchback,FALSE,Diesel
+2.02E+14,124460,6,Black,Volkswagen,Polo,USED,2006,1250,Hatchback,FALSE,Petrol
+2.02E+14,11442,67,Grey,BMW,1 Series,USED,2017,14480,Hatchback,FALSE,Petrol
+2.02E+14,24774,67,Black,Nissan,Qashqai,USED,2017,14000,SUV,FALSE,Diesel
+2.02E+14,70978,60,Silver,Lexus,IS 250,USED,2011,7300,Saloon,FALSE,Petrol
+2.02E+14,7900,68,Silver,BMW,3 Series,USED,2018,22490,Saloon,FALSE,Petrol
+2.02E+14,107200,66,Blue,Mercedes-Benz,C Class,USED,2016,12695,Estate,FALSE,Petrol Plug-in Hybrid
+2.02E+14,7200,68,White,Audi,S3,USED,2019,26950,Hatchback,FALSE,Petrol
+2.02E+14,60440,12,Blue,Hyundai,ix20,USED,2012,4799,Hatchback,FALSE,Diesel
+2.02E+14,0,,Orange,Renault,Clio,NEW,,21000,Hatchback,FALSE,Petrol
+2.02E+14,100,70,Grey,Volkswagen,T-Roc,USED,2020,24290,SUV,FALSE,Diesel
+2.02E+14,114079,62,Grey,Volkswagen,CC,USED,2013,5495,Saloon,FALSE,Diesel
+2.02E+14,48852,17,Black,BMW,5 Series,USED,2017,18000,Estate,FALSE,Diesel
+2.02E+14,5,,White,Vauxhall,Corsa,NEW,,29555,Hatchback,FALSE,Electric
+2.02E+14,526,20,White,Nissan,Qashqai,USED,2020,24495,SUV,FALSE,Petrol
+2.02E+14,13000,,White,Ferrari,599,USED,2017,79949,Coupe,FALSE,Petrol
+2.02E+14,67000,52,Blue,Audi,A4 Cabriolet,USED,2002,2550,Convertible,FALSE,Petrol
+2.02E+14,0,,Red,Volvo,XC40,NEW,,44105,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,32600,17,Blue,Audi,A1,USED,2017,11190,Hatchback,FALSE,Petrol
+2.02E+14,16650,67,Blue,Kia,Venga,USED,2017,9995,MPV,FALSE,Petrol
+2.02E+14,138810,53,Blue,Jaguar,X-Type,USED,2003,1395,Saloon,FALSE,Diesel
+2.02E+14,39038,7,Grey,Porsche,Cayman,USED,2007,17990,Coupe,FALSE,Petrol
+2.02E+14,87000,14,White,BMW,M3,USED,2014,27995,Saloon,FALSE,Petrol
+2.02E+14,101466,63,White,BMW,1 Series,USED,2013,6795,Hatchback,FALSE,Diesel
+2.02E+14,37204,62,Black,Kia,Venga,USED,2012,4495,Hatchback,FALSE,Petrol
+2.02E+14,10,,White,Volkswagen,Polo,NEW,,20841,Hatchback,FALSE,Petrol
+2.02E+14,37077,68,Grey,Vauxhall,Insignia,USED,2019,14995,Hatchback,FALSE,Diesel
+2.02E+14,32744,66,White,Volkswagen,Polo,USED,2016,10295,Hatchback,FALSE,Petrol
+2.02E+14,24000,64,Orange,MINI,Hatch,USED,2014,12000,Hatchback,FALSE,Petrol
+2.02E+14,12624,9,Blue,Mazda,Mazda2,USED,2009,3599,Hatchback,FALSE,Petrol
+2.02E+14,42491,65,Blue,Audi,Q5,USED,2015,19450,SUV,FALSE,Diesel
+2.02E+14,4251,20,Black,BMW,3 Series,USED,2020,31950,Saloon,FALSE,Diesel
+2.02E+14,57620,63,Black,Audi,A1,USED,2014,7600,Hatchback,FALSE,Diesel
+2.02E+14,34000,17,Black,Volvo,XC60,USED,2017,16999,SUV,FALSE,Diesel
+2.02E+14,9591,18,White,Audi,A3,USED,2018,22101,Hatchback,FALSE,Petrol
+2.02E+14,11410,68,Silver,Volvo,S90,USED,2018,22950,Saloon,FALSE,Diesel
+2.02E+14,66113,62,White,Citroen,C3,USED,2013,4000,Hatchback,FALSE,Diesel
+2.02E+14,19453,18,Orange,Nissan,Micra,USED,2018,9999,Hatchback,FALSE,Petrol
+2.02E+14,102000,51,,BMW,3 Series,USED,2001,1590,Coupe,FALSE,Petrol
+2.02E+14,24807,68,Blue,MINI,Clubman,USED,2018,17491,Estate,FALSE,Petrol
+2.02E+14,53000,15,White,Suzuki,Vitara,USED,2015,8495,SUV,FALSE,Petrol
+2.02E+14,89000,62,Blue,Audi,A4,USED,2012,5850,Saloon,FALSE,Diesel
+2.02E+14,33872,67,Blue,Hyundai,Tucson,USED,2017,15395,SUV,FALSE,Petrol
+2.02E+14,29349,17,White,Mitsubishi,ASX,USED,2017,11000,SUV,FALSE,Petrol
+2.02E+14,42553,15,Blue,BMW,4 Series,USED,2015,14995,Coupe,FALSE,Diesel
+2.02E+14,90400,64,Grey,Nissan,Qashqai,USED,2014,7500,SUV,FALSE,Petrol
+2.02E+14,27262,67,White,Dacia,Logan MCV,USED,2017,5243,Estate,FALSE,Petrol
+2.02E+14,38837,65,White,Volvo,XC90,USED,2015,28000,SUV,FALSE,Diesel
+2.02E+14,0,,Black,MG,MG ZS,NEW,,23540,SUV,FALSE,Electric
+2.02E+14,41600,64,Silver,Mercedes-Benz,CLS,USED,2014,20750,Coupe,FALSE,Diesel
+2.02E+14,9336,68,Black,Mercedes-Benz,A Class,USED,2019,22707,Hatchback,FALSE,Diesel
+2.02E+14,11900,19,Green,Fiat,500,USED,2019,8990,Hatchback,FALSE,Petrol
+2.02E+14,10,,Brown,Kia,Ceed,NEW,,15915,Hatchback,FALSE,Diesel
+2.02E+14,62720,64,White,Mercedes-Benz,A Class,USED,2014,10500,Hatchback,FALSE,Diesel
+2.02E+14,84000,59,Blue,Renault,Scenic,USED,2010,2295,MPV,FALSE,Diesel
+2.02E+14,60000,6,Silver,SKODA,Fabia,USED,2006,1595,Hatchback,FALSE,Petrol
+2.02E+14,26806,67,Grey,MINI,Hatch,USED,2018,12490,Hatchback,FALSE,Petrol
+2.02E+14,71800,8,Silver,Mercedes-Benz,B Class,USED,2008,2750,Hatchback,FALSE,Petrol
+2.02E+14,13000,68,White,Honda,Civic,USED,2018,16195,Hatchback,FALSE,Petrol
+2.02E+14,45000,63,Blue,Audi,Q3,USED,2013,13475,SUV,FALSE,Petrol
+2.02E+14,10,,Silver,Mercedes-Benz,A Class,NEW,,27820,Hatchback,FALSE,Petrol
+2.02E+14,32000,12,White,Vauxhall,Corsa,USED,2012,4495,Hatchback,FALSE,Petrol
+2.02E+14,33000,66,Blue,Audi,A3,USED,2016,18000,Saloon,FALSE,Diesel
+2.02E+14,24786,68,Red,Peugeot,3008,USED,2018,23995,SUV,FALSE,Diesel
+2.02E+14,73000,10,White,Fiat,500,USED,2010,3500,Hatchback,FALSE,Petrol
+2.02E+14,79000,63,White,Audi,A4 Allroad,USED,2013,11495,Estate,FALSE,Diesel
+2.02E+14,44217,67,Grey,Volkswagen,Passat,USED,2017,11074,Saloon,FALSE,Diesel
+2.02E+14,16909,66,Blue,Audi,A1,USED,2016,11250,Hatchback,FALSE,Petrol
+2.02E+14,104000,63,Black,BMW,X1,USED,2013,6745,SUV,FALSE,Diesel
+2.02E+14,32000,68,Grey,Mercedes-Benz,GLA Class,USED,2019,18490,SUV,FALSE,Petrol
+2.02E+14,20820,66,Red,Audi,A3,USED,2016,17495,Hatchback,FALSE,Petrol
+2.02E+14,12184,63,Blue,Audi,R8,USED,2013,49995,Convertible,FALSE,Petrol
+2.02E+14,50295,14,Red,Land Rover,Range Rover Sport,USED,2014,26950,SUV,FALSE,Diesel
+2.02E+14,16936,18,Grey,SKODA,Superb,USED,2018,22000,Estate,FALSE,Petrol
+2.02E+14,2651,20,Black,BMW,5 Series,USED,2020,31990,Saloon,FALSE,Diesel Hybrid
+2.02E+14,33157,17,Grey,Mazda,MX-5 RF,USED,2017,15990,Convertible,FALSE,Petrol
+2.02E+14,54000,9,Silver,Chevrolet,Aveo,USED,2009,1695,Hatchback,FALSE,Petrol
+2.02E+14,18715,68,White,Volvo,V40,USED,,16950,,FALSE,Petrol
+2.02E+14,42676,16,Black,Kia,Sportage,USED,2016,12949,SUV,FALSE,Diesel
+2.02E+14,134000,56,Silver,Land Rover,Freelander 2,USED,2007,2999,SUV,FALSE,Diesel
+2.02E+14,75000,8,Silver,Kia,Carens,USED,2008,1750,MPV,FALSE,Diesel
+2.02E+14,22700,17,White,Nissan,X-Trail,USED,2017,14950,SUV,FALSE,Petrol
+2.02E+14,11098,69,Red,Renault,Kadjar,USED,2019,16799,SUV,FALSE,Petrol
+2.02E+14,32259,68,Multicolour,Renault,Captur,USED,2019,10690,SUV,FALSE,Petrol
+2.02E+14,45000,65,White,SKODA,Yeti,USED,2015,9500,SUV,FALSE,Petrol
+2.02E+14,10165,69,Grey,BMW,8 Series,USED,2019,53950,Coupe,FALSE,Petrol
+2.02E+14,16635,17,Silver,MINI,Hatch,USED,2017,12685,Hatchback,FALSE,Diesel
+2.02E+14,59443,16,Black,Honda,CR-V,USED,2016,11000,SUV,FALSE,Diesel
+2.02E+14,19823,67,White,SKODA,Superb,USED,2017,18495,Hatchback,FALSE,Diesel
+2.02E+14,46512,17,Blue,Jaguar,XE,USED,2017,15495,Saloon,FALSE,Petrol
+2.02E+14,45012,66,Black,Nissan,Juke,USED,2016,8945,SUV,FALSE,Diesel
+2.02E+14,16139,19,Grey,SEAT,Leon,USED,2019,14110,Hatchback,FALSE,Petrol
+2.02E+14,82000,57,Black,Peugeot,207,USED,2007,1590,Hatchback,FALSE,Diesel
+2.02E+14,32000,14,Black,Vauxhall,Meriva,USED,2014,4999,MPV,FALSE,Petrol
+2.02E+14,10,,Black,Mercedes-Benz,A Class,NEW,,30424,Hatchback,FALSE,Petrol
+2.02E+14,14000,67,Silver,SKODA,Kodiaq,USED,2017,22998,SUV,FALSE,Petrol
+2.02E+14,1595,20,Black,Land Rover,Discovery Sport,USED,2020,37991,SUV,FALSE,Diesel
+2.02E+14,67063,62,Silver,Vauxhall,Corsa,USED,2012,2900,Hatchback,FALSE,Petrol
+2.02E+14,102633,7,Grey,Land Rover,Defender 90,USED,2007,19995,SUV,FALSE,Diesel
+2.02E+14,74423,63,White,Nissan,Juke,USED,2014,5295,SUV,FALSE,Petrol
+2.02E+14,94000,5,Gold,Land Rover,Freelander,USED,2005,2195,SUV,FALSE,Diesel
+2.02E+14,49097,61,Silver,SKODA,Fabia,USED,2011,3192,Hatchback,FALSE,Petrol
+2.02E+14,158000,7,Grey,Audi,A4,USED,2007,1999,Saloon,FALSE,Diesel
+2.02E+14,56500,61,Grey,Volkswagen,Golf,USED,2011,6749,Hatchback,FALSE,Diesel
+2.02E+14,42775,17,Black,Audi,A3,USED,2017,12300,Hatchback,FALSE,Petrol
+2.02E+14,39209,18,White,BMW,3 Series,USED,2018,17991,Saloon,FALSE,Diesel
+2.02E+14,87000,10,Silver,Audi,A5,USED,2010,6795,Coupe,FALSE,Petrol
+2.02E+14,16560,18,Black,BMW,5 Series,USED,2018,25000,Saloon,FALSE,Diesel
+2.02E+14,76500,54,Grey,Honda,CR-V,USED,2004,2250,SUV,FALSE,Petrol
+2.02E+14,10,,Grey,Audi,A3,NEW,,36142,Hatchback,FALSE,Petrol Plug-in Hybrid
+2.02E+14,0,,Grey,Audi,A6 Saloon,NEW,,53396,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,281500,6,Silver,Volkswagen,Caravelle,USED,2006,7650,MPV,TRUE,Diesel
+2.02E+14,37520,64,White,Audi,Q3,USED,2014,12000,SUV,FALSE,Diesel
+2.02E+14,40000,16,White,Citroen,C4 Cactus,USED,2016,7695,Hatchback,FALSE,Diesel
+2.02E+14,136000,60,Black,Vauxhall,Meriva,USED,2010,1895,MPV,FALSE,Petrol
+2.02E+14,30936,16,Grey,Jaguar,XF,USED,2016,14300,Saloon,FALSE,Diesel
+2.02E+14,77000,12,Silver,Mazda,Mazda6,USED,2012,3795,Hatchback,FALSE,Diesel
+2.02E+14,51500,17,Silver,Lexus,IS 300,USED,2017,18950,Saloon,FALSE,Petrol Hybrid
+2.02E+14,20849,17,White,Mitsubishi,ASX,USED,2017,13700,SUV,FALSE,Diesel
+2.02E+14,112000,60,Grey,Nissan,Micra,USED,2010,1999,Hatchback,FALSE,Petrol
+2.02E+14,27119,65,Black,Land Rover,Range Rover Evoque,USED,2015,21000,SUV,FALSE,Diesel
+2.02E+14,67292,63,Red,Audi,TT,USED,2013,11990,Coupe,FALSE,Diesel
+2.02E+14,42000,15,Blue,DS AUTOMOBILES,DS 3,USED,2015,5995,Hatchback,FALSE,Petrol
+2.02E+14,43000,14,Orange,Vauxhall,Mokka,USED,2014,7995,Hatchback,FALSE,Petrol
+2.02E+14,21650,67,Silver,SEAT,Leon,USED,2017,11078,Hatchback,FALSE,Diesel
+2.02E+14,52123,4,Silver,Toyota,Corolla,USED,2004,1795,Hatchback,FALSE,Petrol
+2.02E+14,15038,19,Grey,Citroen,C3,USED,2019,10900,Hatchback,FALSE,Petrol
+2.02E+14,39175,15,Blue,Citroen,C3,USED,2015,5200,Hatchback,FALSE,Petrol
+2.02E+14,27951,65,Red,Vauxhall,ADAM,USED,2015,5699,Hatchback,FALSE,Petrol
+2.02E+14,36800,65,White,Renault,Kadjar,USED,2016,10995,SUV,FALSE,Diesel
+2.02E+14,10,,Black,BMW,5 Series,NEW,,51395,Estate,FALSE,
+2.02E+14,71000,16,Brown,Vauxhall,Insignia,USED,2016,7995,Hatchback,FALSE,Diesel
+2.02E+14,10963,19,White,Volkswagen,Polo,USED,2019,12750,Hatchback,FALSE,Petrol
+2.02E+14,9058,69,Grey,Volkswagen,Golf,USED,2019,17890,Hatchback,FALSE,Petrol
+2.02E+14,9885,63,White,Hyundai,i10,USED,2014,4995,Hatchback,FALSE,Petrol
+2.02E+14,4998,69,Blue,Volkswagen,Tiguan Allspace,USED,2020,30989,SUV,FALSE,Diesel
+2.02E+14,21000,59,Blue,Rolls-Royce,Phantom,USED,2009,139990,Limousine,FALSE,Petrol
+2.02E+14,151000,59,Black,Volkswagen,Transporter Sportline,USED,2009,13000,Combi Van,TRUE,Diesel
+2.02E+14,24002,66,Red,Vauxhall,Corsa,USED,2016,7490,Hatchback,FALSE,Petrol
+2.02E+14,50000,11,Blue,Porsche,Panamera,USED,2011,36497,Hatchback,FALSE,Petrol
+2.02E+14,5000,69,Black,Audi,A3,USED,2019,18000,Hatchback,FALSE,Diesel
+2.02E+14,2134,69,White,Mercedes-Benz,E Class,USED,2019,46899,Convertible,FALSE,Petrol
+2.02E+14,71000,14,Blue,Citroen,C3,USED,2014,4695,Hatchback,FALSE,Diesel
+2.02E+14,5,69,Grey,Honda,CR-V,USED,2019,26490,SUV,FALSE,Petrol
+2.02E+14,200,70,Green,Subaru,Forester,USED,2020,39885,SUV,FALSE,Petrol Hybrid
+2.02E+14,24412,16,Blue,Land Rover,Range Rover Sport,USED,2016,58995,SUV,FALSE,Petrol
+2.02E+14,5,,Blue,SKODA,Kamiq,NEW,,24335,SUV,FALSE,Petrol
+2.02E+14,74000,8,Black,Audi,A5,USED,2008,4795,Coupe,FALSE,Petrol
+2.02E+14,5142,69,White,Vauxhall,Astra,USED,2020,13697,Hatchback,FALSE,Petrol
+2.02E+14,10,,Silver,Mercedes-Benz,E Class,NEW,,45591,Convertible,FALSE,Diesel
+2.02E+14,69640,12,Blue,Vauxhall,Corsa,USED,2012,5000,Hatchback,FALSE,Petrol
+2.02E+14,10165,19,White,Toyota,Prius,USED,2019,20490,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,0,,Blue,DS AUTOMOBILES,DS 3 CROSSBACK,NEW,,23995,SUV,FALSE,Diesel
+2.02E+14,42800,63,Black,Chevrolet,Trax,USED,2013,4850,Hatchback,FALSE,Diesel
+2.02E+14,0,,Grey,Fiat,500,NEW,,12345,Hatchback,FALSE,Petrol
+2.02E+14,32500,18,Yellow,Volkswagen,Golf,USED,2018,12500,Hatchback,FALSE,Petrol
+2.02E+14,76000,,White,Aston Martin,DB4,USED,2018,495000,Saloon,FALSE,Petrol
+2.02E+14,0,,Green,SKODA,Karoq,NEW,,24970,SUV,FALSE,Diesel
+2.02E+14,134000,54,Silver,Toyota,Avensis,USED,2004,998,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,SsangYong,Musso,NEW,,25631,Pickup,TRUE,Diesel
+2.02E+14,0,,Silver,Audi,S7,NEW,,93073,Hatchback,FALSE,Diesel
+2.02E+14,87000,62,Black,Audi,A3,USED,2012,5389,Hatchback,FALSE,Diesel
+2.02E+14,77000,63,White,BMW,5 Series,USED,2014,10000,Saloon,FALSE,Diesel
+2.02E+14,52000,14,Brown,Volkswagen,CC,USED,2014,9990,Saloon,FALSE,Diesel
+2.02E+14,5000,19,Red,Toyota,Yaris,USED,2019,14335,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,45000,65,White,BMW,X3,USED,2015,18499,SUV,FALSE,Diesel
+2.02E+14,5,,Grey,Vauxhall,Corsa,NEW,,20560,Hatchback,FALSE,Petrol
+2.02E+14,94046,10,White,BMW,Alpina D3 Bi-Turbo,USED,2010,9000,Saloon,FALSE,Diesel
+2.02E+14,58000,66,Blue,Dodge,RAM,USED,2016,32000,Pickup,FALSE,Petrol
+2.02E+14,20,,White,Audi,A5,NEW,,42750,Coupe,FALSE,Petrol
+2.02E+14,22897,67,Blue,Honda,Jazz,USED,2017,9395,Hatchback,FALSE,Petrol
+2.02E+14,2639,69,Silver,Citroen,C3 Aircross,USED,2019,12490,SUV,FALSE,Petrol
+2.02E+14,50000,66,Blue,Toyota,Avensis,USED,2016,8995,Estate,FALSE,Diesel
+2.02E+14,47264,65,Black,Vauxhall,Astra,USED,2015,6385,Hatchback,FALSE,Petrol
+2.02E+14,10,,Silver,Suzuki,SX4 S-Cross,NEW,,27699,SUV,FALSE,Petrol
+2.02E+14,30000,15,Yellow,Nissan,Juke,USED,2015,7489,SUV,FALSE,Petrol
+2.02E+14,37527,66,,Renault,Captur,USED,2016,7912,SUV,FALSE,Diesel
+2.02E+14,15774,17,Blue,Vauxhall,Meriva,USED,2017,8836,MPV,FALSE,Petrol
+2.02E+14,6000,69,White,Kia,Sorento,USED,2020,31290,SUV,FALSE,Diesel
+2.02E+14,10,,Blue,BMW,3 Series,NEW,,39425,Saloon,FALSE,Diesel
+2.02E+14,20,,Blue,MG,MG HS,NEW,,23244,SUV,FALSE,Petrol
+2.02E+14,154000,4,Blue,Mercedes-Benz,E Class,USED,2004,2900,Saloon,FALSE,Diesel
+2.02E+14,25500,18,Black,Mercedes-Benz,A Class,USED,2018,16100,Hatchback,FALSE,Diesel
+2.02E+14,4708,17,Red,Peugeot,3008,USED,2017,20000,SUV,FALSE,Petrol
+2.02E+14,19742,67,White,Volkswagen,Golf,USED,2017,22700,Estate,FALSE,Petrol
+2.02E+14,17008,19,Grey,Vauxhall,Astra,USED,2019,11995,Hatchback,FALSE,Petrol
+2.02E+14,45000,14,White,Volkswagen,Scirocco,USED,2014,10475,Coupe,FALSE,Diesel
+2.02E+14,64500,63,Silver,Toyota,Estima,USED,2014,11995,MPV,FALSE,Petrol
+2.02E+14,17500,19,Bronze,Peugeot,Rifter,USED,2019,13150,MPV,FALSE,Petrol
+2.02E+14,54000,10,Black,Honda,CR-V,USED,2010,8495,SUV,FALSE,Petrol
+2.02E+14,28454,17,Red,DS AUTOMOBILES,DS 3,USED,2017,9495,Hatchback,FALSE,Petrol
+2.02E+14,3621,69,Blue,Toyota,C-HR,USED,2019,23907,SUV,FALSE,Petrol Hybrid
+2.02E+14,31216,67,Black,BMW,1 Series,USED,2017,13000,Hatchback,FALSE,Petrol
+2.02E+14,43000,58,Black,Aston Martin,DB9,USED,2008,36395,Coupe,FALSE,Petrol
+2.02E+14,7,20,Blue,Renault,Zoe,USED,2020,25500,Hatchback,FALSE,Electric
+2.02E+14,132522,,Blue,Porsche,911,USED,1990,34950,Convertible,FALSE,Petrol
+2.02E+14,10,,Black,Audi,Q2,NEW,,27820,SUV,FALSE,Petrol
+2.02E+14,53562,16,Grey,Audi,A4 Avant,USED,2016,16000,Estate,FALSE,Diesel
+2.02E+14,17508,19,Grey,Vauxhall,Mokka X,USED,2019,11790,SUV,FALSE,Petrol
+2.02E+14,3048,19,Blue,Volkswagen,Sharan,USED,2019,21625,MPV,FALSE,Diesel
+2.02E+14,17407,68,Yellow,Volkswagen,T-Roc,USED,2019,18900,SUV,FALSE,Diesel
+2.02E+14,9557,69,Blue,Volvo,V90,USED,2019,41990,Estate,FALSE,Petrol Plug-in Hybrid
+2.02E+14,33927,65,Black,Volvo,XC60,USED,2015,17283,SUV,FALSE,Diesel
+2.02E+14,3826,20,Black,Hyundai,Ioniq,USED,2020,21985,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,20945,16,Black,SEAT,Mii,USED,2016,7000,Hatchback,FALSE,Petrol
+2.02E+14,58000,14,Grey,Mercedes-Benz,M Class,USED,2014,16340,SUV,FALSE,Diesel
+2.02E+14,48678,16,Red,Mercedes-Benz,GLA Class,USED,2016,16800,SUV,FALSE,Diesel
+2.02E+14,12719,67,Red,MINI,Hatch,USED,2017,16950,Hatchback,FALSE,Petrol
+2.02E+14,15026,68,Red,Vauxhall,Corsa,USED,2018,9000,Hatchback,FALSE,Petrol
+2.02E+14,40629,17,Grey,Volvo,XC90,USED,2017,36500,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,11000,19,Blue,Renault,Megane,USED,2019,11999,Hatchback,FALSE,Petrol
+2.02E+14,2878,20,White,Land Rover,Discovery Sport,USED,2020,36995,SUV,FALSE,Diesel
+2.02E+14,34100,16,Black,BMW,4 Series,USED,2016,16995,Convertible,FALSE,Diesel
+2.02E+14,32594,65,White,Vauxhall,Corsa,USED,2015,7495,Hatchback,FALSE,Petrol
+2.02E+14,20706,14,Blue,MINI,Coupe,USED,2014,9000,Coupe,FALSE,Petrol
+2.02E+14,16850,63,Black,Mercedes-Benz,SL Class,USED,2013,24995,Convertible,FALSE,Petrol
+2.02E+14,28500,17,Black,Nissan,X-Trail,USED,2017,15490,SUV,FALSE,Diesel
+2.02E+14,4874,20,Silver,Mitsubishi,Outlander,USED,2020,24990,SUV,FALSE,Petrol
+2.02E+14,3634,20,Black,Volkswagen,Passat,USED,2020,26250,Estate,FALSE,Petrol
+2.02E+14,34650,63,White,Vauxhall,Antara,USED,2014,6999,SUV,FALSE,Diesel
+2.02E+14,80000,16,Silver,BMW,3 Series Gran Turismo,USED,2016,11445,Hatchback,FALSE,Petrol
+2.02E+14,29870,66,Red,Renault,Clio,USED,2016,7007,Hatchback,FALSE,Petrol
+2.02E+14,6966,17,Blue,Nissan,GT-R,USED,2017,71975,Coupe,FALSE,Petrol
+2.02E+14,23230,17,Red,Toyota,Auris,USED,2017,13490,Estate,FALSE,Petrol Hybrid
+2.02E+14,95000,,,Mercedes-Benz,SL Class,USED,1993,26995,Convertible,FALSE,Petrol
+2.02E+14,12199,19,White,Hyundai,Kona,USED,2019,14470,SUV,FALSE,Petrol
+2.02E+14,19824,67,White,Audi,Q2,USED,2017,20553,SUV,FALSE,Petrol
+2.02E+14,7299,67,Red,Dacia,Sandero,USED,2017,5981,Hatchback,FALSE,Petrol
+2.02E+14,40949,11,Grey,Vauxhall,Corsa,USED,2011,3480,Hatchback,FALSE,Petrol
+2.02E+14,20000,18,Black,Vauxhall,Corsa,USED,2018,8190,Hatchback,FALSE,Petrol
+2.02E+14,112000,5,Silver,Honda,FR-V,USED,2005,1290,MPV,FALSE,Petrol
+2.02E+14,16500,18,Black,Citroen,C3,USED,2018,8700,Hatchback,FALSE,Petrol
+2.02E+14,99508,59,Grey,Nissan,Qashqai+2,USED,2009,3889,SUV,FALSE,Petrol
+2.02E+14,110890,9,Grey,BMW,3 Series,USED,2009,4475,Saloon,FALSE,Diesel
+2.02E+14,7425,69,Blue,SEAT,Leon,USED,2020,16290,Hatchback,FALSE,Diesel
+2.02E+14,21321,17,Brown,Land Rover,Range Rover Evoque,USED,2017,19450,SUV,FALSE,Diesel
+2.02E+14,14566,67,White,SKODA,Fabia,USED,2017,9200,Hatchback,FALSE,Petrol
+2.02E+14,112000,64,Red,Nissan,Qashqai,USED,2015,6995,SUV,FALSE,Diesel
+2.02E+14,17770,66,White,Vauxhall,Mokka,USED,2016,9995,Hatchback,FALSE,Petrol
+2.02E+14,30200,66,White,Vauxhall,Corsa,USED,2017,6897,Hatchback,FALSE,Petrol
+2.02E+14,56275,64,White,Audi,Q5,USED,2015,17650,SUV,FALSE,Diesel
+2.02E+14,18000,66,Grey,Jaguar,F-Type,USED,2016,35990,Convertible,FALSE,Petrol
+2.02E+14,35000,61,Grey,Fiat,500,USED,2011,4595,Hatchback,FALSE,Petrol
+2.02E+14,29526,66,White,Volkswagen,Polo,USED,2016,9200,Hatchback,FALSE,Petrol
+2.02E+14,10459,19,White,Vauxhall,Corsa,USED,2019,9500,Hatchback,FALSE,Petrol
+2.02E+14,30172,17,White,Citroen,C4 Cactus,USED,2017,8448,Hatchback,FALSE,Diesel
+2.02E+14,49954,63,Red,SEAT,Ibiza,USED,2013,5125,Hatchback,FALSE,Petrol
+2.02E+14,17088,67,Black,Mitsubishi,Outlander,USED,2017,18313,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,45000,60,Blue,MINI,Hatch,USED,2010,4200,Hatchback,FALSE,Petrol
+2.02E+14,20000,68,Blue,Mercedes-Benz,C Class,USED,2018,17995,Saloon,FALSE,Petrol
+2.02E+14,66398,61,White,Volkswagen,Golf,USED,2011,6295,Hatchback,FALSE,Diesel
+2.02E+14,4355,68,Silver,Nissan,Qashqai,USED,2018,16699,SUV,FALSE,Petrol
+2.02E+14,24473,17,Blue,SEAT,Leon,USED,2017,17495,Hatchback,FALSE,Petrol
+2.02E+14,33000,65,Blue,Jaguar,XE,USED,2015,14599,Saloon,FALSE,Diesel
+2.02E+14,1766,20,Black,Mercedes-Benz,GLA Class,USED,2020,27539,SUV,FALSE,Petrol
+2.02E+14,10509,68,Red,Peugeot,3008,USED,2018,18195,SUV,FALSE,Petrol
+2.02E+14,70000,13,Black,Vauxhall,Corsa,USED,2013,3475,Hatchback,FALSE,Petrol
+2.02E+14,13000,17,White,BMW,4 Series,USED,2017,19695,Convertible,FALSE,Diesel
+2.02E+14,31338,66,Black,Mercedes-Benz,CLA Class,USED,2016,18695,Estate,FALSE,Diesel
+2.02E+14,130000,63,Grey,BMW,3 Series,USED,2013,6495,Estate,FALSE,Diesel
+2.02E+14,29234,15,Red,Vauxhall,Astra,USED,2015,6490,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,Fiat,500,NEW,,15300,Hatchback,FALSE,Petrol
+2.02E+14,0,,Black,Land Rover,Defender 110,NEW,,61990,SUV,FALSE,Diesel
+2.02E+14,0,,Grey,Land Rover,Range Rover Velar,NEW,,88545,SUV,FALSE,Petrol
+2.02E+14,10000,67,White,Citroen,C3,USED,2017,9490,Hatchback,FALSE,Petrol
+2.02E+14,18276,19,Black,Nissan,Qashqai,USED,2019,17216,SUV,FALSE,Diesel
+2.02E+14,25453,17,Bronze,Fiat,Tipo,USED,2017,6650,Hatchback,FALSE,Petrol
+2.02E+14,12957,66,Silver,Mercedes-Benz,GLE Class,USED,2016,35999,Coupe,FALSE,Diesel
+2.02E+14,18998,18,Silver,Volkswagen,Polo,USED,2018,11950,Hatchback,FALSE,Petrol
+2.02E+14,27423,14,Red,SEAT,Ibiza,USED,2014,5990,Hatchback,FALSE,Petrol
+2.02E+14,68959,9,Red,Volkswagen,Polo,USED,2009,3750,Hatchback,FALSE,Diesel
+2.02E+14,64454,17,Black,Audi,Q3,USED,2017,15000,SUV,FALSE,Diesel
+2.02E+14,27271,65,Blue,BMW,M4,USED,2015,27500,Coupe,FALSE,Petrol
+2.02E+14,25945,67,Silver,BMW,X3,USED,2017,28500,SUV,FALSE,Diesel
+2.02E+14,50000,14,White,Dacia,Sandero Stepway,USED,2014,5490,Hatchback,FALSE,Petrol
+2.02E+14,84000,59,Black,Kia,Rio,USED,2010,1880,Hatchback,FALSE,Diesel
+2.02E+14,20699,66,White,Audi,A1,USED,2016,12990,Hatchback,FALSE,Diesel
+2.02E+14,172000,61,Silver,SsangYong,Rodius,USED,2011,1995,MPV,FALSE,Diesel
+2.02E+14,18082,19,Grey,Vauxhall,Corsa,USED,2019,10239,Hatchback,FALSE,Petrol
+2.02E+14,18310,67,Green,SKODA,Fabia,USED,2018,9250,Hatchback,FALSE,Petrol
+2.02E+14,19869,67,Grey,Hyundai,Tucson,USED,2017,13985,SUV,FALSE,Diesel
+2.02E+14,125035,11,Blue,Peugeot,308,USED,2011,2500,Hatchback,FALSE,Diesel
+2.02E+14,115723,57,Black,Mazda,Mazda3,USED,2008,1595,Hatchback,FALSE,Petrol
+2.02E+14,21000,68,Grey,MINI,Hatch,USED,2018,14490,Hatchback,FALSE,Petrol
+2.02E+14,21373,66,Blue,Vauxhall,Meriva,USED,2016,6995,MPV,FALSE,Petrol
+2.02E+14,85976,13,Black,Audi,A3,USED,2013,7995,Hatchback,FALSE,Diesel
+2.02E+14,85554,66,Blue,Vauxhall,Astra,USED,2017,6720,Hatchback,FALSE,Diesel
+2.02E+14,13861,17,Black,Volkswagen,Polo,USED,2017,9900,Hatchback,FALSE,Petrol
+2.02E+14,9430,69,Blue,Mercedes-Benz,GLC Class,USED,2020,35490,SUV,FALSE,Diesel
+2.02E+14,4003,19,White,Peugeot,208,USED,2019,11994,Hatchback,FALSE,Petrol
+2.02E+14,102410,10,Black,BMW,1 Series,USED,2010,5000,Convertible,FALSE,Diesel
+2.02E+14,15082,17,White,Volkswagen,Polo,USED,2017,15500,Hatchback,FALSE,Petrol
+2.02E+14,31018,66,Grey,Hyundai,Tucson,USED,2017,17900,SUV,FALSE,Diesel
+2.02E+14,60000,65,Silver,Mercedes-Benz,C Class,USED,2015,14740,Saloon,FALSE,Diesel Hybrid
+2.02E+14,66000,13,Black,Land Rover,Discovery 4,USED,2013,22495,SUV,FALSE,Diesel
+2.02E+14,10834,67,Grey,Audi,R8,USED,2017,84950,Coupe,FALSE,Petrol
+2.02E+14,13355,19,Black,SKODA,Octavia,USED,2019,14990,Estate,FALSE,Petrol
+2.02E+14,25975,18,Blue,SEAT,Ateca,USED,2018,14599,SUV,FALSE,Diesel
+2.02E+14,38420,63,White,Audi,A1,USED,2013,11590,Hatchback,FALSE,Petrol
+2.02E+14,74234,64,Black,Citroen,C4 Picasso,USED,2014,6500,MPV,FALSE,Diesel
+2.02E+14,26740,64,Black,BMW,4 Series,USED,2014,15830,Convertible,FALSE,Diesel
+2.02E+14,105889,8,Red,Fiat,500,USED,2008,2495,Hatchback,FALSE,Petrol
+2.02E+14,84000,61,Silver,Land Rover,Freelander 2,USED,2011,8995,SUV,FALSE,Diesel
+2.02E+14,46000,14,White,Mercedes-Benz,E Class,USED,2014,16450,Estate,FALSE,Diesel
+2.02E+14,14397,67,Black,Kia,Rio,USED,2017,10999,Hatchback,FALSE,Petrol
+2.02E+14,16600,17,White,Honda,CR-V,USED,2017,17490,SUV,FALSE,Petrol
+2.02E+14,65000,61,Red,Audi,RS5,USED,2011,20990,Coupe,FALSE,Petrol
+2.02E+14,8865,18,Red,Citroen,C1,USED,2018,7990,Hatchback,FALSE,Petrol
+2.02E+14,89806,14,Black,Jaguar,XF,USED,2014,10246,Saloon,FALSE,Diesel
+2.02E+14,7044,66,Blue,Bentley,Continental,USED,2016,104950,Convertible,FALSE,Petrol
+2.02E+14,6031,69,White,Audi,Q3,USED,2019,37799,SUV,FALSE,Petrol
+2.02E+14,26437,18,Grey,Nissan,Juke,USED,2018,11395,SUV,FALSE,Petrol
+2.02E+14,25597,17,Silver,Nissan,Juke,USED,2017,11025,SUV,FALSE,Petrol
+2.02E+14,65990,10,White,Land Rover,Range Rover,USED,2010,18495,SUV,FALSE,Petrol
+2.02E+14,29000,65,Black,Smart,forfour,USED,2015,6799,Hatchback,FALSE,Petrol
+2.02E+14,2700,67,Black,Land Rover,Range Rover Sport,USED,2017,45750,SUV,FALSE,Petrol
+2.02E+14,16601,67,Blue,Volkswagen,Golf SV,USED,2017,14991,MPV,FALSE,Petrol
+2.02E+14,31500,59,Red,Citroen,C1,USED,2009,2800,Hatchback,FALSE,Petrol
+2.02E+14,32539,17,Blue,Renault,Clio,USED,2017,9429,Hatchback,FALSE,Petrol
+2.02E+14,27349,66,Black,BMW,1 Series,USED,2016,13955,Hatchback,FALSE,Petrol
+2.02E+14,53000,64,Grey,Audi,A5,USED,2014,17295,Hatchback,FALSE,Diesel
+2.02E+14,26000,13,Black,Aston Martin,Vantage,USED,2013,49995,Coupe,FALSE,Petrol
+2.02E+14,19185,67,Red,Dacia,Sandero Stepway,USED,2017,8000,Hatchback,FALSE,Petrol
+2.02E+14,26842,66,White,Renault,Clio,USED,2016,8000,Hatchback,FALSE,Petrol
+2.02E+14,32310,17,White,Nissan,Leaf,USED,2017,12995,Hatchback,FALSE,Electric
+2.02E+14,100000,16,Blue,Mercedes-Benz,C Class,USED,2016,10990,Estate,FALSE,Petrol
+2.02E+14,22565,68,Silver,Renault,Koleos,USED,2019,17975,SUV,FALSE,Diesel
+2.02E+14,9420,69,Red,Hyundai,Tucson,USED,2020,19995,SUV,FALSE,Petrol
+2.02E+14,95011,10,Grey,Jaguar,XF,USED,2010,6495,Saloon,FALSE,Diesel
+2.02E+14,33720,66,Black,Peugeot,208,USED,2016,7995,Hatchback,FALSE,Petrol
+2.02E+14,25853,65,Blue,Porsche,Cayman,USED,2015,46490,Coupe,FALSE,Petrol
+2.02E+14,13406,,White,Land Rover,Range Rover Evoque,USED,,26000,Coupe,FALSE,Diesel
+2.02E+14,45000,67,Black,Volvo,XC60,USED,2017,22495,SUV,FALSE,Diesel
+2.02E+14,35285,66,White,Kia,Picanto,USED,2016,5491,Hatchback,FALSE,Petrol
+2.02E+14,8100,18,Blue,BMW,3 Series,USED,2018,20790,Saloon,FALSE,Petrol
+2.02E+14,8532,19,Silver,Hyundai,Ioniq,USED,2019,16599,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,36380,65,Grey,Nissan,X-Trail,USED,2016,15100,SUV,FALSE,Diesel
+2.02E+14,13000,67,Blue,Renault,Zoe,USED,2018,12995,Hatchback,FALSE,Electric
+2.02E+14,19569,17,Blue,Audi,Q2,USED,2017,19499,SUV,FALSE,Petrol
+2.02E+14,33663,17,Black,BMW,4 Series,USED,2017,21299,Convertible,FALSE,Petrol
+2.02E+14,70000,13,Blue,Volkswagen,Golf,USED,2013,7995,Hatchback,FALSE,Diesel
+2.02E+14,127000,61,Silver,Mercedes-Benz,E Class,USED,2011,6250,Coupe,FALSE,Diesel
+2.02E+14,108000,6,Silver,Isuzu,Rodeo,USED,2006,7500,Pickup,TRUE,Diesel
+2.02E+14,25,,Grey,Vauxhall,Crossland X,NEW,,19462,SUV,FALSE,Petrol
+2.02E+14,73000,61,Red,Nissan,Qashqai,USED,2011,6474,SUV,FALSE,Petrol
+2.02E+14,20609,67,White,Volkswagen,Tiguan,USED,2017,17800,SUV,FALSE,Diesel
+2.02E+14,2173,18,Red,Vauxhall,Mokka X,USED,2018,12000,SUV,FALSE,Petrol
+2.02E+14,27446,16,Grey,Vauxhall,Corsa,USED,2016,7811,Hatchback,FALSE,Petrol
+2.02E+14,61500,13,Silver,Volkswagen,Passat,USED,2013,5699,Estate,FALSE,Diesel
+2.02E+14,10,,,Nissan,X-Trail,NEW,,26999,SUV,FALSE,Petrol
+2.02E+14,77136,15,Silver,Mercedes-Benz,C Class,USED,2015,14000,Saloon,FALSE,Diesel
+2.02E+14,29000,15,Black,Nissan,Juke,USED,2015,8890,SUV,FALSE,Diesel
+2.02E+14,31274,17,Black,Honda,Civic,USED,2017,13995,Hatchback,FALSE,Petrol
+2.02E+14,31000,17,Black,Mercedes-Benz,C Class,USED,2017,16695,Saloon,FALSE,Diesel
+2.02E+14,39373,55,Black,Jaguar,XKR,USED,2005,21995,Coupe,FALSE,Petrol
+2.02E+14,25853,16,White,BMW,4 Series,USED,2016,14800,Coupe,FALSE,Petrol
+2.02E+14,102420,16,Silver,Vauxhall,Insignia,USED,2016,5495,Estate,FALSE,Diesel
+2.02E+14,13000,17,Black,Kia,Niro,USED,2017,14750,SUV,FALSE,Petrol Hybrid
+2.02E+14,0,,White,Jaguar,I-PACE,NEW,,70935,SUV,FALSE,Electric
+2.02E+14,5,,Blue,Suzuki,Ignis,NEW,,17991,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,43711,65,Black,Audi,SQ5,USED,2015,25000,SUV,FALSE,Diesel
+2.02E+14,59450,63,Purple,Peugeot,107,USED,2013,3574,Hatchback,FALSE,Petrol
+2.02E+14,37591,67,Black,Audi,Q7,USED,2017,33751,SUV,FALSE,Diesel
+2.02E+14,9,70,Red,Volkswagen,Polo,USED,2020,16795,Hatchback,FALSE,Petrol
+2.02E+14,7679,19,Black,Dacia,Duster,USED,2019,14500,SUV,FALSE,Diesel
+2.02E+14,34599,67,Grey,Vauxhall,Mokka X,USED,2017,10900,SUV,FALSE,Petrol
+2.02E+14,44416,67,Grey,Nissan,X-Trail,USED,2017,15992,SUV,FALSE,Diesel
+2.02E+14,11201,67,White,Toyota,AYGO,USED,2017,9657,Hatchback,FALSE,Petrol
+2.02E+14,24000,67,Grey,Peugeot,2008,USED,2017,9495,SUV,FALSE,Petrol
+2.02E+14,70000,5,Silver,Honda,Civic,USED,2005,2000,Hatchback,FALSE,Petrol
+2.02E+14,40000,16,White,Hyundai,Tucson,USED,2016,10989,SUV,FALSE,Diesel
+2.02E+14,94637,65,White,Renault,Kadjar,USED,2015,8991,SUV,FALSE,Diesel
+2.02E+14,18255,17,Black,Kia,Sportage,USED,2017,15249,SUV,FALSE,Diesel
+2.02E+14,55000,63,Black,SKODA,Fabia,USED,2014,4695,Hatchback,FALSE,Petrol
+2.02E+14,25000,68,Red,MINI,Countryman,USED,2019,22893,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,23174,15,Silver,Vauxhall,Zafira Tourer,USED,2015,8000,MPV,FALSE,Petrol
+2.02E+14,72000,8,Red,Kia,Rio,USED,2008,1500,Hatchback,FALSE,Diesel
+2.02E+14,15,70,Blue,Volvo,V90 Cross Country,USED,2020,35000,Estate,FALSE,Diesel
+2.02E+14,66000,63,White,Peugeot,208,USED,2014,6499,Hatchback,FALSE,Petrol
+2.02E+14,58000,10,Red,Vauxhall,Corsa,USED,2010,2695,Hatchback,FALSE,Diesel
+2.02E+14,17605,19,Blue,Mercedes-Benz,C Class,USED,2019,24825,Saloon,FALSE,Diesel
+2.02E+14,37237,17,Beige,SKODA,Octavia,USED,2017,10995,Hatchback,FALSE,Petrol
+2.02E+14,12236,67,White,Suzuki,Vitara,USED,2017,12000,SUV,FALSE,Petrol
+2.02E+14,50894,16,Silver,Audi,A3,USED,2016,14000,Saloon,FALSE,Diesel
+2.02E+14,10,,White,Suzuki,Vitara,NEW,,26549,SUV,FALSE,Petrol Hybrid
+2.02E+14,11936,65,Blue,Suzuki,Swift,USED,2015,5500,Hatchback,FALSE,Petrol
+2.02E+14,10,,Silver,Suzuki,Vitara,NEW,,23249,SUV,FALSE,Petrol Hybrid
+2.02E+14,17000,16,Green,MINI,Hatch,USED,2016,11490,Hatchback,FALSE,Petrol
+2.02E+14,53310,16,Grey,Audi,A6 Saloon,USED,2016,17995,Saloon,FALSE,Diesel
+2.02E+14,13436,19,White,Jaguar,XF,USED,2019,22999,Estate,FALSE,Petrol
+2.02E+14,9213,69,Blue,Jaguar,F-Type,USED,2019,75900,Convertible,FALSE,Petrol
+2.02E+14,8387,17,Black,Vauxhall,Astra,USED,2017,10970,Hatchback,FALSE,Petrol
+2.02E+14,0,,White,Nissan,Micra,NEW,,13801,Hatchback,FALSE,Petrol
+2.02E+14,9548,19,Blue,Jaguar,F-PACE,USED,2019,44430,SUV,FALSE,Diesel
+2.02E+14,69000,64,Blue,Audi,A4 Avant,USED,2014,9975,Estate,FALSE,Diesel
+2.02E+14,41447,16,Black,Peugeot,308,USED,2016,7635,Hatchback,FALSE,Petrol
+2.02E+14,18558,19,Grey,Peugeot,308,USED,2019,11852,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Land Rover,Discovery Sport,NEW,,46470,SUV,FALSE,Diesel
+2.02E+14,71000,11,Grey,BMW,3 Series,USED,2011,5990,Estate,FALSE,Petrol
+2.02E+14,10926,68,Blue,BMW,1 Series,USED,,22290,Hatchback,FALSE,Diesel
+2.02E+14,71649,54,Blue,BMW,3 Series,USED,2004,5750,Convertible,FALSE,Petrol
+2.02E+14,48475,16,Multicolour,Renault,Captur,USED,2016,7995,SUV,FALSE,Diesel
+2.02E+14,7500,14,Black,Vauxhall,Zafira,USED,2014,6450,MPV,FALSE,Petrol
+2.02E+14,143000,52,Silver,Toyota,Celica,USED,2002,1500,Coupe,FALSE,Petrol
+2.02E+14,47169,17,Grey,Audi,Q3,USED,2017,19500,SUV,FALSE,Diesel
+2.02E+14,69098,56,Black,Aston Martin,Vantage,USED,2006,27650,Coupe,FALSE,Petrol
+2.02E+14,17100,16,Blue,Vauxhall,Mokka,USED,2016,7695,Hatchback,FALSE,Petrol
+2.02E+14,30023,16,Black,Volkswagen,Golf,USED,2016,15800,Hatchback,FALSE,Diesel
+2.02E+14,55000,14,Red,Volkswagen,Touran,USED,2014,9995,MPV,FALSE,Diesel
+2.02E+14,18198,67,Grey,Nissan,Qashqai,USED,2017,12495,SUV,FALSE,Diesel
+2.02E+14,37664,17,Red,Lexus,IS 300,USED,2017,18250,Saloon,FALSE,Petrol Hybrid
+2.02E+14,19750,67,Grey,Volvo,V40,USED,2017,13500,Hatchback,FALSE,Diesel
+2.02E+14,58497,15,Green,SEAT,Ibiza,USED,2015,6250,Hatchback,FALSE,Petrol
+2.02E+14,30000,66,Red,Peugeot,108,USED,2016,5990,Hatchback,FALSE,Petrol
+2.02E+14,30484,68,Black,Vauxhall,Astra,USED,2018,11799,Hatchback,FALSE,Petrol
+2.02E+14,8866,19,White,Fiat,500X,USED,2019,14500,SUV,FALSE,Petrol
+2.02E+14,49000,13,Black,Honda,Jazz,USED,2013,5490,Hatchback,FALSE,Petrol
+2.02E+14,32635,64,Red,SEAT,Leon,USED,2014,7639,Hatchback,FALSE,Petrol
+2.02E+14,81000,52,Silver,Toyota,Camry,USED,2002,1490,Saloon,FALSE,Petrol
+2.02E+14,71360,8,Grey,Renault,Kangoo,USED,2008,2250,MPV,FALSE,Petrol
+2.02E+14,68425,17,Silver,Toyota,Avensis,USED,2017,8600,Saloon,FALSE,Diesel
+2.02E+14,15777,16,Black,Audi,Q5,USED,2016,21700,SUV,FALSE,Diesel
+2.02E+14,27392,67,Black,Kia,Sportage,USED,2017,12500,SUV,FALSE,Petrol
+2.02E+14,33851,67,Red,Kia,Sportage,USED,2017,15300,SUV,FALSE,Petrol
+2.02E+14,40432,18,Grey,SKODA,Superb,USED,2018,15800,Hatchback,FALSE,Diesel
+2.02E+14,30660,68,Black,Nissan,Qashqai,USED,2018,15099,SUV,FALSE,Diesel
+2.02E+14,11500,18,White,SKODA,Kodiaq,USED,2018,23395,SUV,FALSE,Diesel
+2.02E+14,72560,13,White,SKODA,Fabia,USED,2013,5250,Hatchback,FALSE,Petrol
+2.02E+14,90000,60,,Audi,A4,USED,2011,5495,Saloon,FALSE,Petrol
+2.02E+14,28003,67,Grey,BMW,2 Series,USED,2017,17998,Coupe,FALSE,Diesel
+2.02E+14,60000,11,Silver,MINI,Hatch,USED,2011,4990,Hatchback,FALSE,Petrol
+2.02E+14,109000,11,Silver,SKODA,Yeti,USED,2011,4995,SUV,FALSE,Diesel
+2.02E+14,0,,White,SEAT,Arona,NEW,,18944,SUV,FALSE,Petrol
+2.02E+14,12251,17,Blue,Vauxhall,Corsa,USED,2017,7190,Hatchback,FALSE,Petrol
+2.02E+14,43000,14,Red,Citroen,C1,USED,2014,4150,Hatchback,FALSE,Petrol
+2.02E+14,85000,9,White,MINI,Hatch,USED,2009,3495,Hatchback,FALSE,Petrol
+2.02E+14,50100,65,White,Audi,A3,USED,2015,14500,Saloon,FALSE,Diesel
+2.02E+14,114000,59,Grey,Mazda,Mazda3,USED,2009,2795,Hatchback,FALSE,Petrol
+2.02E+14,65478,14,Silver,Nissan,Note,USED,2014,4740,Hatchback,FALSE,Petrol
+2.02E+14,113907,64,Black,Mercedes-Benz,A Class,USED,2014,7950,Hatchback,FALSE,Diesel
+2.02E+14,11800,69,Blue,Nissan,Qashqai,USED,2019,19850,SUV,FALSE,Petrol
+2.02E+14,19260,17,Red,Vauxhall,Astra,USED,2017,10250,Hatchback,FALSE,Petrol
+2.02E+14,9843,69,Black,Audi,A5,USED,2019,26291,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Renault,Kadjar,NEW,,27400,SUV,FALSE,Petrol
+2.02E+14,54000,19,Red,Honda,Civic,USED,2019,13780,Hatchback,FALSE,Diesel
+2.02E+14,80000,63,Silver,Kia,Ceed,USED,2013,4690,Hatchback,FALSE,Diesel
+2.02E+14,76000,16,White,BMW,4 Series Gran Coupe,USED,2016,14120,Saloon,FALSE,Petrol
+2.02E+14,26483,18,Grey,Citroen,Grand C4 SpaceTourer,USED,2018,13990,MPV,FALSE,Petrol
+2.02E+14,8020,19,Grey,Toyota,Yaris,USED,2019,12495,Hatchback,FALSE,Petrol
+2.02E+14,10049,19,Black,Hyundai,Tucson,USED,2019,15290,SUV,FALSE,Petrol
+2.02E+14,86000,61,Silver,Jaguar,XF,USED,2011,9950,Saloon,FALSE,Diesel
+2.02E+14,12611,66,Gold,Peugeot,3008,USED,2017,12995,SUV,FALSE,Diesel
+2.02E+14,57824,16,Grey,MINI,Countryman,USED,2016,12500,SUV,FALSE,Petrol
+2.02E+14,100000,7,Silver,Mercedes-Benz,C Class,USED,2007,3590,Saloon,FALSE,Diesel
+2.02E+14,29429,17,Grey,BMW,X1,USED,2017,14600,SUV,FALSE,Diesel
+2.02E+14,34000,13,Silver,Volkswagen,up!,USED,2013,5995,Hatchback,FALSE,Petrol
+2.02E+14,56303,62,White,BMW,3 Series,USED,2012,9996,Saloon,FALSE,Diesel
+2.02E+14,34600,16,White,Volvo,XC90,USED,2016,31495,SUV,FALSE,Diesel
+2.02E+14,12023,66,Blue,Toyota,Yaris,USED,2017,8595,Hatchback,FALSE,Petrol
+2.02E+14,73121,55,Silver,Vauxhall,Corsa,USED,2005,1295,Hatchback,FALSE,Petrol
+2.02E+14,0,,White,Jeep,Compass,NEW,,34850,SUV,FALSE,Petrol
+2.02E+14,0,,Black,Dacia,Duster,NEW,,17029,SUV,FALSE,Petrol
+2.02E+14,26735,67,Blue,Hyundai,Tucson,USED,2017,12838,SUV,FALSE,Petrol
+2.02E+14,70664,17,Grey,Volvo,V90,USED,2017,16990,Estate,FALSE,Diesel
+2.02E+14,24920,17,Blue,BMW,4 Series,USED,2017,21980,,FALSE,Diesel
+2.02E+14,34019,17,Silver,Mercedes-Benz,E Class,USED,2017,19394,Saloon,FALSE,Diesel
+2.02E+14,40000,13,Black,Land Rover,Range Rover Sport,USED,2013,19100,SUV,FALSE,Diesel
+2.02E+14,10,,Grey,Nissan,Leaf,NEW,,24490,Hatchback,FALSE,Electric
+2.02E+14,129000,56,Grey,Hyundai,Santa Fe,USED,2006,3000,SUV,FALSE,Diesel
+2.02E+14,68000,63,Blue,SKODA,Rapid,USED,2013,4940,Hatchback,FALSE,Petrol
+2.02E+14,36764,66,Black,Vauxhall,Insignia,USED,2016,8000,Hatchback,FALSE,Diesel
+2.02E+14,15902,18,Grey,Mercedes-Benz,C Class,USED,2018,19280,Saloon,FALSE,Diesel
+2.02E+14,27000,65,White,Volkswagen,Polo,USED,2015,8245,Hatchback,FALSE,Petrol
+2.02E+14,70000,11,,Jaguar,XF,USED,2011,13489,Saloon,FALSE,Petrol
+2.02E+14,57288,12,White,SKODA,Citigo,USED,2012,3120,Hatchback,FALSE,Petrol
+2.02E+14,28367,67,White,Vauxhall,Astra GTC,USED,2017,8891,Coupe,FALSE,Petrol
+2.02E+14,6611,18,Black,Renault,Captur,USED,2018,13995,SUV,FALSE,Petrol
+2.02E+14,0,13,Silver,Vauxhall,Insignia,USED,2013,2975,Hatchback,FALSE,Diesel
+2.02E+14,193143,54,Black,Volkswagen,Passat,USED,2004,1000,Saloon,FALSE,Diesel
+2.02E+14,150080,6,Purple,Volvo,V50,USED,2006,500,Estate,FALSE,Petrol
+2.02E+14,30045,66,White,Mercedes-Benz,GLC Class,USED,2016,35660,SUV,FALSE,Petrol
+2.02E+14,8444,16,Silver,Porsche,Cayman,USED,2016,68810,Coupe,FALSE,Petrol
+2.02E+14,10,,White,Hyundai,Tucson,NEW,,23195,SUV,FALSE,Diesel
+2.02E+14,5,,White,Lexus,UX 250h,NEW,,41975,SUV,FALSE,Petrol Hybrid
+2.02E+14,1700,19,Silver,Nissan,Leaf,USED,2019,24695,Hatchback,FALSE,Electric
+2.02E+14,20540,19,Blue,Vauxhall,Corsa,USED,2019,9249,Hatchback,FALSE,Petrol
+2.02E+14,50,70,Black,Audi,A5,USED,2020,37990,Hatchback,FALSE,Diesel
+2.02E+14,20709,15,Grey,Vauxhall,Corsa,USED,2015,6871,Hatchback,FALSE,Petrol
+2.02E+14,17,69,Grey,SsangYong,Korando,USED,2020,18495,SUV,FALSE,Diesel
+2.02E+14,18,70,Grey,Dacia,Sandero Stepway,USED,2020,9600,Hatchback,FALSE,Petrol
+2.02E+14,38770,66,Black,Audi,A3,USED,2017,11999,Hatchback,FALSE,Diesel
+2.02E+14,1559,69,Blue,Nissan,Qashqai,USED,2019,16847,SUV,FALSE,Petrol
+2.02E+14,4500,69,Green,Peugeot,5008,USED,2019,24490,SUV,FALSE,Petrol
+2.02E+14,38240,16,Silver,Vauxhall,Corsa,USED,2016,7325,Hatchback,FALSE,Diesel
+2.02E+14,10,,Black,SEAT,Ibiza,NEW,,19065,Hatchback,FALSE,Petrol
+2.02E+14,0,,Grey,Volvo,S60,NEW,,47961,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,10,,Multicolour,SEAT,Arona,NEW,,18735,SUV,FALSE,Petrol
+2.02E+14,1300,19,Blue,MINI,Convertible,USED,2019,21000,Convertible,FALSE,Petrol
+2.02E+14,10774,19,White,BMW,4 Series,USED,2019,25000,Coupe,FALSE,Petrol
+2.02E+14,10,,Black,Mercedes-Benz,A Class,NEW,,27430,Hatchback,FALSE,Petrol
+2.02E+14,26000,17,Blue,Vauxhall,Mokka,USED,2017,6300,Hatchback,FALSE,Diesel
+2.02E+14,72880,66,Black,Volkswagen,Golf,USED,2016,11695,Hatchback,FALSE,Petrol
+2.02E+14,18000,,Silver,Vauxhall,Vectra,USED,2000,3995,Estate,FALSE,Petrol
+2.02E+14,47656,13,White,Vauxhall,Corsa,USED,2013,4795,Hatchback,FALSE,Petrol
+2.02E+14,18697,14,Red,Volkswagen,Polo,USED,2014,7795,Hatchback,FALSE,Petrol
+2.02E+14,90000,62,Red,Renault,Clio,USED,2013,4250,Hatchback,FALSE,Diesel
+2.02E+14,33000,17,Silver,Honda,CR-V,USED,2017,13495,SUV,FALSE,Petrol
+2.02E+14,1750,20,Orange,BMW,M2,USED,2020,46880,Coupe,FALSE,Petrol
+2.02E+14,29000,67,White,Hyundai,i10,USED,2017,6500,Hatchback,FALSE,Petrol
+2.02E+14,650,20,Green,Land Rover,Defender 110,USED,2020,59990,SUV,FALSE,Diesel
+2.02E+14,36000,18,Red,Toyota,AYGO,USED,2018,5950,Hatchback,FALSE,Petrol
+2.02E+14,71000,62,Black,Vauxhall,Astra,USED,2013,4995,Hatchback,FALSE,Petrol
+2.02E+14,2445,20,Black,Lexus,CT 200h,USED,2020,26990,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,108000,7,Black,Vauxhall,Corsa,USED,2007,1995,Hatchback,FALSE,Petrol
+2.02E+14,788,70,Black,Mercedes-Benz,GLB Class,USED,2020,43875,SUV,FALSE,Diesel
+2.02E+14,2900,17,Blue,Ferrari,488,USED,2017,174995,Convertible,FALSE,Petrol
+2.02E+14,53583,11,White,Fiat,500,USED,2011,4295,Hatchback,FALSE,Petrol
+2.02E+14,17657,16,White,SKODA,Yeti,USED,2016,11000,SUV,FALSE,Petrol
+2.02E+14,25611,17,Silver,SKODA,Fabia,USED,2017,10997,Hatchback,FALSE,Petrol
+2.02E+14,104750,13,Grey,BMW,5 Series,USED,2013,7250,Saloon,FALSE,Diesel
+2.02E+14,40840,66,Silver,Kia,Soul,USED,2017,9779,SUV,FALSE,Diesel
+2.02E+14,25000,15,Silver,Rolls-Royce,Wraith,USED,2015,119990,Coupe,FALSE,Petrol
+2.02E+14,63106,9,Silver,Renault,Megane,USED,2009,2790,Hatchback,FALSE,Petrol
+2.02E+14,41000,17,White,Mercedes-Benz,GLC Class,USED,2017,25950,SUV,FALSE,Diesel
+2.02E+14,20950,17,White,Vauxhall,Astra,USED,2017,9995,Hatchback,FALSE,Petrol
+2.02E+14,39749,66,Silver,Mercedes-Benz,C Class,USED,2016,20650,Saloon,FALSE,Diesel Hybrid
+2.02E+14,93000,56,Silver,Honda,Accord,USED,2006,2495,Saloon,FALSE,Petrol
+2.02E+14,5437,69,White,Volkswagen,T-Cross,USED,2019,16157,SUV,FALSE,Petrol
+2.02E+14,8000,16,Black,Volkswagen,Golf,USED,2016,14495,Hatchback,FALSE,Petrol
+2.02E+14,104787,9,Red,Nissan,Micra,USED,2009,1250,Hatchback,FALSE,Petrol
+2.02E+14,39481,64,Black,BMW,5 Series,USED,2014,15000,Saloon,FALSE,Diesel
+2.02E+14,12234,19,White,Kia,Niro,USED,2019,31495,SUV,FALSE,Electric
+2.02E+14,5,,Silver,SKODA,Octavia,NEW,,25735,Estate,FALSE,Diesel
+2.02E+14,1228,69,Black,Jeep,Renegade,USED,2020,16999,SUV,FALSE,Petrol
+2.02E+14,75000,63,Red,Mazda,Mazda3,USED,2013,5999,Hatchback,FALSE,Diesel
+2.02E+14,19000,68,White,Volvo,V40,USED,2018,13499,Hatchback,FALSE,Petrol
+2.02E+14,18937,68,Red,Vauxhall,Corsa,USED,2018,8521,Hatchback,FALSE,Petrol
+2.02E+14,51757,65,Red,Volvo,V40 Cross Country,USED,2015,8800,Hatchback,FALSE,Diesel
+2.02E+14,5300,19,White,SEAT,Ibiza,USED,2019,10985,Hatchback,FALSE,Petrol
+2.02E+14,72252,55,Green,Isuzu,Rodeo,USED,2005,3750,Pickup,TRUE,Diesel
+2.02E+14,12954,63,Blue,Peugeot,107,USED,2013,5000,Hatchback,FALSE,Petrol
+2.02E+14,0,,Blue,Toyota,Yaris,NEW,,20370,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,5273,18,Grey,Jaguar,XF,USED,2018,26993,Saloon,FALSE,Petrol
+2.02E+14,68000,14,Silver,Toyota,Yaris,USED,2014,5695,Hatchback,FALSE,Petrol
+2.02E+14,50000,10,White,Alfa Romeo,GT,USED,2010,7999,Coupe,FALSE,Diesel
+2.02E+14,19000,67,Green,Fiat,500,USED,2017,7250,Hatchback,FALSE,Petrol
+2.02E+14,0,,Black,BMW,3 Series,NEW,,37633,Estate,FALSE,Diesel
+2.02E+14,8755,68,Black,Renault,Captur,USED,2018,10995,SUV,FALSE,Petrol
+2.02E+14,2022,68,Black,BMW,5 Series,USED,2018,28940,Saloon,FALSE,Petrol Plug-in Hybrid
+2.02E+14,15471,16,Black,Kia,Ceed,USED,2016,8402,Hatchback,FALSE,Diesel
+2.02E+14,24639,16,White,Vauxhall,Mokka,USED,2016,8500,Hatchback,FALSE,Petrol
+2.02E+14,34102,17,Black,Volkswagen,Golf,USED,2017,19055,Estate,FALSE,Petrol
+2.02E+14,5648,69,Blue,MG,MG ZS,USED,2019,20490,SUV,FALSE,Electric
+2.02E+14,69224,67,Silver,Vauxhall,Insignia,USED,2017,10250,Estate,FALSE,Diesel
+2.02E+14,165000,,Blue,Land Rover,90,USED,1987,10489,SUV,TRUE,Diesel
+2.02E+14,112950,65,Black,Lexus,IS 300,USED,2016,10995,Saloon,FALSE,Petrol Hybrid
+2.02E+14,59028,62,White,Hyundai,i30,USED,2013,5287,Hatchback,FALSE,Petrol
+2.02E+14,40851,16,White,Audi,TT,USED,2016,18179,Convertible,FALSE,Petrol
+2.02E+14,47724,65,White,Audi,Q7,USED,2015,30990,SUV,FALSE,Diesel
+2.02E+14,19209,17,Black,Vauxhall,Zafira Tourer,USED,2017,13200,MPV,FALSE,Petrol
+2.02E+14,10314,19,Black,Mercedes-Benz,C Class,USED,2019,25490,Saloon,FALSE,Diesel
+2.02E+14,12000,19,Blue,Peugeot,508,USED,2019,16990,Hatchback,FALSE,Diesel
+2.02E+14,52429,12,Silver,Honda,CR-V,USED,2012,8750,SUV,FALSE,Diesel
+2.02E+14,2199,69,Grey,Citroen,C5 Aircross,USED,2020,23495,SUV,FALSE,Petrol
+2.02E+14,52403,9,Blue,Volkswagen,Golf,USED,2009,4250,Hatchback,FALSE,Petrol
+2.02E+14,4347,69,Black,Nissan,Qashqai,USED,2020,17895,SUV,FALSE,Petrol
+2.02E+14,76000,14,Silver,Land Rover,Range Rover,USED,2014,29490,SUV,FALSE,Diesel
+2.02E+14,5,,Red,Peugeot,208,NEW,,27995,Hatchback,FALSE,Electric
+2.02E+14,2,,White,SEAT,Tarraco,NEW,,33040,SUV,FALSE,Petrol
+2.02E+14,18018,68,Blue,Volkswagen,Polo,USED,2018,12510,Hatchback,FALSE,Petrol
+2.02E+14,16004,69,Black,Vauxhall,Mokka X,USED,2019,12800,SUV,FALSE,Petrol
+2.02E+14,18519,17,Red,Nissan,Qashqai,USED,2017,13672,SUV,FALSE,Diesel
+2.02E+14,45000,65,Silver,Vauxhall,Corsa,USED,2015,6250,Hatchback,FALSE,Petrol
+2.02E+14,40029,17,White,Peugeot,2008,USED,2017,10400,SUV,FALSE,Petrol
+2.02E+14,18500,8,Blue,Honda,Jazz,USED,2008,4790,Hatchback,FALSE,Petrol
+2.02E+14,21360,67,White,Peugeot,208,USED,2017,7795,Hatchback,FALSE,Petrol
+2.02E+14,22988,18,White,Toyota,AYGO,USED,2018,8995,Hatchback,FALSE,Petrol
+2.02E+14,10,,Grey,Volvo,XC40,NEW,,39364,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,23605,66,Yellow,Smart,fortwo,USED,2017,8645,Coupe,FALSE,Petrol
+2.02E+14,24532,17,Black,BMW,2 Series,USED,2017,16850,Convertible,FALSE,Diesel
+2.02E+14,10445,69,Yellow,Hyundai,Kona,USED,2019,12799,SUV,FALSE,Petrol
+2.02E+14,62647,66,Black,SKODA,Octavia,USED,2016,12995,Estate,FALSE,Diesel
+2.02E+14,25125,64,Black,Porsche,Boxster,USED,2014,29790,Convertible,FALSE,Petrol
+2.02E+14,12909,18,Black,Audi,A6 Saloon,USED,2018,20750,Saloon,FALSE,Petrol
+2.02E+14,43343,65,Blue,Audi,A1,USED,2015,9990,Hatchback,FALSE,Diesel
+2.02E+14,2904,20,Black,MINI,Hatch,USED,2020,19980,Hatchback,FALSE,Petrol
+2.02E+14,16861,67,Grey,Lexus,IS 300,USED,2018,21400,Saloon,FALSE,Petrol Hybrid
+2.02E+14,51550,17,Grey,Audi,A6 Avant,USED,2017,21500,Estate,FALSE,Diesel
+2.02E+14,94660,66,Black,Kia,Sportage,USED,2016,11000,SUV,FALSE,Diesel
+2.02E+14,61470,13,Blue,Vauxhall,Astra,USED,2013,5495,Estate,FALSE,Diesel
+2.02E+14,65000,59,Black,Citroen,C3,USED,2009,2495,Hatchback,FALSE,Petrol
+2.02E+14,38159,67,Orange,BMW,M3,USED,2017,35500,Saloon,FALSE,Petrol
+2.02E+14,15995,18,Red,Mazda,CX-5,USED,2018,21495,SUV,FALSE,Diesel
+2.02E+14,5255,69,Blue,Toyota,Yaris,USED,2020,14990,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,16199,17,White,Abarth,595,USED,2017,12495,Hatchback,FALSE,Petrol
+2.02E+14,31240,16,Beige,Renault,Grand Scenic,USED,2016,8500,MPV,FALSE,Diesel
+2.02E+14,14222,67,Grey,Vauxhall,Astra,USED,2017,9989,Hatchback,FALSE,Petrol
+2.02E+14,14750,69,Blue,Audi,RS3,USED,2019,44990,Hatchback,FALSE,Petrol
+2.02E+14,71200,11,White,BMW,1 Series,USED,2011,5500,Convertible,FALSE,Petrol
+2.02E+14,50000,64,Silver,Volkswagen,Beetle,USED,2015,9495,Hatchback,FALSE,Diesel
+2.02E+14,29704,16,Pink,Fiat,500,USED,2016,6600,Hatchback,FALSE,Petrol
+2.02E+14,32000,6,Blue,Maserati,Gransport,USED,2006,24995,Coupe,FALSE,Petrol
+2.02E+14,10638,68,Black,Land Rover,Discovery Sport,USED,2018,29780,SUV,FALSE,Diesel
+2.02E+14,99185,6,Silver,Volkswagen,Golf,USED,2006,1695,Hatchback,FALSE,Petrol
+2.02E+14,1355,20,Grey,Renault,Zoe,USED,2020,24740,Hatchback,FALSE,Electric
+2.02E+14,58000,11,Blue,BMW,3 Series,USED,2011,13495,Convertible,FALSE,Petrol
+2.02E+14,49639,66,Silver,Hyundai,Santa Fe,USED,2016,19000,SUV,FALSE,Diesel
+2.02E+14,40547,66,Black,Mercedes-Benz,E Class,USED,2016,17000,Saloon,FALSE,Diesel
+2.02E+14,5,70,Black,Renault,Kadjar,USED,2020,20500,SUV,FALSE,Petrol
+2.02E+14,8682,67,Red,Citroen,C1,USED,2018,7490,Hatchback,FALSE,Petrol
+2.02E+14,21611,18,Black,Audi,A6 Avant,USED,2018,18600,Estate,FALSE,Petrol
+2.02E+14,8,70,Red,Renault,Clio,USED,2020,12700,Hatchback,FALSE,Petrol
+2.02E+14,39000,66,Red,Jaguar,F-PACE,USED,2016,25000,SUV,FALSE,Diesel
+2.02E+14,0,,Black,Volkswagen,Polo,NEW,,19430,Hatchback,FALSE,Petrol
+2.02E+14,12733,68,Blue,SKODA,Citigo,USED,2018,7299,Hatchback,FALSE,Petrol
+2.02E+14,16957,68,White,BMW,1 Series,USED,2018,14575,Hatchback,FALSE,Petrol
+2.02E+14,21502,67,White,Audi,Q2,USED,2018,16999,SUV,FALSE,Petrol
+2.02E+14,44426,14,White,BMW,5 Series,USED,2014,15180,Saloon,FALSE,Diesel
+2.02E+14,9400,19,White,Audi,A1,USED,2019,21495,Hatchback,FALSE,Petrol
+2.02E+14,32803,66,Black,Renault,Captur,USED,2016,8995,SUV,FALSE,Diesel
+2.02E+14,75515,17,Blue,Renault,Captur,USED,2017,8700,SUV,FALSE,Diesel
+2.02E+14,65189,64,Silver,Audi,Q3,USED,2014,12000,SUV,FALSE,Petrol
+2.02E+14,159087,,Beige,BMW,6 Series,USED,1987,28500,Coupe,FALSE,Petrol
+2.02E+14,10457,18,Blue,Suzuki,Celerio,USED,2018,5850,Hatchback,FALSE,Petrol
+2.02E+14,36926,66,White,BMW,4 Series,USED,2016,17200,Coupe,FALSE,Petrol
+2.02E+14,11900,67,Blue,BMW,4 Series,USED,2017,20495,Coupe,FALSE,Diesel
+2.02E+14,55007,16,Grey,BMW,M4,USED,2016,30000,Convertible,FALSE,Petrol
+2.02E+14,20545,66,White,Hyundai,i20,USED,2017,8295,Hatchback,FALSE,Petrol
+2.02E+14,89600,11,Black,Mercedes-Benz,B Class,USED,2011,2890,Hatchback,FALSE,Petrol
+2.02E+14,39486,14,Blue,Toyota,Auris,USED,2014,8695,Hatchback,FALSE,Petrol
+2.02E+14,151356,8,Black,Audi,A3,USED,2008,2949,Hatchback,FALSE,Diesel
+2.02E+14,31785,67,White,Volkswagen,Tiguan,USED,2017,22020,SUV,FALSE,Diesel
+2.02E+14,1250,20,White,Hyundai,i20,USED,2020,12580,Hatchback,FALSE,Petrol
+2.02E+14,8701,19,Black,Mercedes-Benz,SLC,USED,2019,22999,Convertible,FALSE,Petrol
+2.02E+14,29834,66,Black,Audi,A3,USED,2016,14500,Hatchback,FALSE,Diesel
+2.02E+14,42054,16,Black,Jaguar,XF,USED,2016,18500,Saloon,FALSE,Diesel
+2.02E+14,130464,14,Black,Kia,Sportage,USED,2014,6199,SUV,FALSE,Diesel
+2.02E+14,4838,69,Blue,Nissan,Qashqai,USED,2020,17338,SUV,FALSE,Petrol
+2.02E+14,4649,20,White,Kia,Picanto,USED,2020,11250,Hatchback,FALSE,Petrol
+2.02E+14,8082,66,Grey,Vauxhall,Zafira Tourer,USED,2017,10880,MPV,FALSE,Petrol
+2.02E+14,50090,58,Silver,Peugeot,107,USED,2008,2999,Hatchback,FALSE,Petrol
+2.02E+14,33510,63,White,Audi,Q3,USED,2013,12998,SUV,FALSE,Diesel
+2.02E+14,43000,17,Brown,Vauxhall,Mokka X,USED,2017,10250,SUV,FALSE,Petrol
+2.02E+14,15098,18,White,SKODA,Fabia,USED,2018,10965,Hatchback,FALSE,Petrol
+2.02E+14,10911,67,Beige,Hyundai,Tucson,USED,2017,13000,SUV,FALSE,Diesel
+2.02E+14,3000,70,Black,Mercedes-Benz,E Class,USED,2020,44900,Saloon,FALSE,Diesel Plug-in Hybrid
+2.02E+14,5317,69,Blue,BMW,2 Series,USED,2020,24910,Coupe,FALSE,Petrol
+2.02E+14,19100,17,Black,Audi,A1,USED,2017,14799,Hatchback,FALSE,Petrol
+2.02E+14,7018,69,Black,MINI,Hatch,USED,2019,16100,Hatchback,FALSE,Petrol
+2.02E+14,28355,68,Black,Vauxhall,Mokka X,USED,2018,11487,SUV,FALSE,Petrol
+2.02E+14,9300,67,White,Nissan,Juke,USED,2017,11495,SUV,FALSE,Petrol
+2.02E+14,11956,69,Blue,SEAT,Leon,USED,2019,15795,Hatchback,FALSE,Petrol
+2.02E+14,35050,58,Black,Renault,Clio,USED,2008,2289,Hatchback,FALSE,Petrol
+2.02E+14,21498,15,Black,Porsche,911,USED,2015,67000,Convertible,FALSE,Petrol
+2.02E+14,7842,67,Grey,MINI,Countryman,USED,2017,17498,SUV,FALSE,Petrol
+2.02E+14,714,20,Grey,Porsche,Taycan,USED,2020,99950,Saloon,FALSE,Electric
+2.02E+14,94000,14,Silver,Mercedes-Benz,E Class,USED,2014,9500,Saloon,FALSE,Diesel
+2.02E+14,44000,16,Black,BMW,X5,USED,2016,23950,SUV,FALSE,Diesel
+2.02E+14,35000,52,Black,MINI,Hatch,USED,2003,3195,Hatchback,FALSE,Petrol
+2.02E+14,14612,17,Black,Mercedes-Benz,A Class,USED,2017,18500,Hatchback,FALSE,Diesel
+2.02E+14,752,68,White,Jeep,Renegade,USED,2019,14230,SUV,FALSE,Petrol
+2.02E+14,61125,67,White,Land Rover,Discovery,USED,2017,36000,SUV,FALSE,Diesel
+2.02E+14,23015,14,Pink,Kia,Picanto,USED,2014,5250,Hatchback,FALSE,Petrol
+2.02E+14,46630,67,Grey,Mercedes-Benz,E Class,USED,2017,22490,Saloon,FALSE,Diesel
+2.02E+14,17402,18,White,Citroen,C3,USED,2018,9995,Hatchback,FALSE,Petrol
+2.02E+14,6909,67,White,Peugeot,208,USED,2017,9999,Hatchback,FALSE,Petrol
+2.02E+14,32674,17,White,Volkswagen,Tiguan,USED,2017,25995,SUV,FALSE,Diesel
+2.02E+14,64795,14,Black,Mercedes-Benz,S Class,USED,2014,19985,Saloon,FALSE,Diesel
+2.02E+14,15264,68,Red,Renault,Captur,USED,2019,11991,SUV,FALSE,Diesel
+2.02E+14,9300,66,White,BMW,2 Series,USED,2016,17999,Convertible,FALSE,Petrol
+2.02E+14,10038,18,Grey,Mercedes-Benz,CLA Class,USED,2018,19800,Coupe,FALSE,Petrol
+2.02E+14,29004,14,Silver,Mercedes-Benz,SLK,USED,2014,13499,Convertible,FALSE,Diesel
+2.02E+14,16988,66,Grey,SKODA,Octavia,USED,2016,12950,Estate,FALSE,Petrol
+2.02E+14,8490,68,Red,MINI,Hatch,USED,2019,15295,Hatchback,FALSE,Petrol
+2.02E+14,77999,62,Blue,Peugeot,208,USED,2012,3245,Hatchback,FALSE,Petrol
+2.02E+14,4052,69,Grey,Volvo,XC90,USED,2019,52950,SUV,FALSE,Petrol Plug-in Hybrid
+2.02E+14,0,70,Grey,Mercedes-Benz,CLA Class,USED,2020,34995,Estate,FALSE,Petrol
+2.02E+14,21522,17,Blue,BMW,5 Series,USED,2017,21850,Saloon,FALSE,Diesel
+2.02E+14,47000,15,Blue,Jeep,Cherokee,USED,2015,12930,SUV,FALSE,Diesel
+2.02E+14,43847,65,Silver,Honda,Jazz,USED,2015,8850,Hatchback,FALSE,Petrol
+2.02E+14,4141,19,Grey,Mercedes-Benz,C Class,USED,2019,36799,Saloon,FALSE,Petrol
+2.02E+14,17,69,Black,Volkswagen,Golf,USED,2019,18495,Estate,FALSE,Petrol
+2.02E+14,49619,16,Grey,Audi,A1,USED,2016,12500,Hatchback,FALSE,Diesel
+2.02E+14,19292,19,Grey,Citroen,C3 Aircross,USED,2019,11551,SUV,FALSE,Petrol
+2.02E+14,45014,65,White,Citroen,C3 Picasso,USED,2015,5973,MPV,FALSE,Diesel
+2.02E+14,51966,63,Black,Kia,Sportage,USED,2013,7400,SUV,FALSE,Diesel
+2.02E+14,82000,17,Black,Land Rover,Range Rover Evoque,USED,2017,17985,SUV,FALSE,Diesel
+2.02E+14,22000,16,White,Volkswagen,Tiguan,USED,2016,16720,SUV,FALSE,Diesel
+2.02E+14,1000,70,Black,SEAT,Leon,USED,2020,17990,Hatchback,FALSE,Petrol
+2.02E+14,0,,White,Renault,Clio,NEW,,15495,Hatchback,FALSE,Petrol
+2.02E+14,29000,16,Grey,Volkswagen,Tiguan,USED,2016,16490,SUV,FALSE,Diesel
+2.02E+14,31000,16,Silver,Nissan,Juke,USED,2016,10050,SUV,FALSE,Petrol
+2.02E+14,500,70,White,Lexus,UX 250h,USED,2020,33000,SUV,FALSE,Petrol Hybrid
+2.02E+14,36622,68,Black,Toyota,Yaris,USED,2018,11999,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,0,,Grey,Volvo,XC60,NEW,,43540,SUV,FALSE,Diesel Hybrid
+2.02E+14,10256,19,Red,Suzuki,Ignis,USED,2019,9995,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,26680,67,Blue,SKODA,Octavia,USED,2017,11799,Hatchback,FALSE,Petrol
+2.02E+14,40000,15,White,MINI,Convertible,USED,2015,8949,Convertible,FALSE,Petrol
+2.02E+14,71067,64,Black,Volvo,V40,USED,2014,7280,Hatchback,FALSE,Diesel
+2.02E+14,52577,64,Silver,Mercedes-Benz,A Class,USED,2014,10000,Hatchback,FALSE,Diesel
+2.02E+14,90580,66,Silver,Audi,Q3,USED,2016,11500,SUV,FALSE,Diesel
+2.02E+14,79333,62,Silver,Vauxhall,Astra,USED,2013,3995,Hatchback,FALSE,Petrol
+2.02E+14,15995,18,Silver,Dacia,Sandero Stepway,USED,2018,7750,Hatchback,FALSE,Petrol
+2.02E+14,30631,15,White,Volkswagen,Golf,USED,2015,18795,Hatchback,FALSE,Petrol
+2.02E+14,52000,15,Red,Mazda,CX-5,USED,2015,10495,SUV,FALSE,Diesel
+2.02E+14,7000,19,Black,Lexus,UX 250h,USED,2019,26975,SUV,FALSE,Petrol Hybrid
+2.02E+14,55463,12,Yellow,Citroen,DS3,USED,2012,4299,Hatchback,FALSE,Petrol
+2.02E+14,14746,67,Grey,BMW,X1,USED,2017,16600,SUV,FALSE,Diesel
+2.02E+14,10,,Black,Vauxhall,Corsa,NEW,,14514,Hatchback,FALSE,Petrol
+2.02E+14,1145,20,Red,MINI,Hatch,USED,2020,18790,Hatchback,FALSE,Petrol
+2.02E+14,19660,17,White,Fiat,500,USED,2017,7400,Hatchback,FALSE,Petrol
+2.02E+14,91000,8,Blue,Vauxhall,Astra,USED,2008,2299,Hatchback,FALSE,Petrol
+2.02E+14,95000,16,Blue,BMW,3 Series,USED,2016,16795,Estate,FALSE,Diesel
+2.02E+14,116000,16,Black,SKODA,Octavia,USED,2016,6792,Estate,FALSE,Diesel
+2.02E+14,53000,16,Blue,Mercedes-Benz,E Class,USED,2016,14250,Saloon,FALSE,Diesel
+2.02E+14,86000,3,Green,Honda,Jazz,USED,2003,1775,Hatchback,FALSE,Petrol
+2.02E+14,47500,16,White,MINI,Hatch,USED,2016,10109,Hatchback,FALSE,Petrol
+2.02E+14,53107,66,Silver,Jaguar,XE,USED,2016,13750,Saloon,FALSE,Diesel
+2.02E+14,139000,54,Black,BMW,1 Series,USED,2004,1699,Hatchback,FALSE,Petrol
+2.02E+14,92000,58,Silver,Jaguar,XF,USED,2009,5290,Saloon,FALSE,Diesel
+2.02E+14,10412,17,Black,Hyundai,ix20,USED,2017,9250,MPV,FALSE,Petrol
+2.02E+14,20800,16,Red,Fiat,Doblo,USED,2016,9000,MPV,FALSE,Petrol
+2.02E+14,40000,12,Blue,BMW,3 Series,USED,2012,10445,Saloon,FALSE,Petrol
+2.02E+14,3465,20,Grey,Mercedes-Benz,A Class,USED,2020,47995,Hatchback,FALSE,Petrol
+2.02E+14,63271,14,Red,MINI,Hatch,USED,2014,6800,Hatchback,FALSE,Petrol
+2.02E+14,73800,65,Blue,BMW,3 Series Gran Turismo,USED,2015,16990,Hatchback,FALSE,Diesel
+2.02E+14,50000,14,White,Nissan,Qashqai,USED,2014,8295,SUV,FALSE,Petrol
+2.02E+14,16500,67,Black,Kia,Sportage,USED,2017,18950,SUV,FALSE,Diesel
+2.02E+14,31000,15,White,Volkswagen,Golf,USED,2015,14999,Hatchback,FALSE,Diesel
+2.02E+14,10,,Blue,Volkswagen,Polo,NEW,,17864,Hatchback,FALSE,Petrol
+2.02E+14,10,,Grey,Land Rover,Discovery,NEW,,69499,SUV,FALSE,Diesel
+2.02E+14,111000,56,Silver,Nissan,X-Trail,USED,2006,2490,SUV,FALSE,Diesel
+2.02E+14,35746,67,Red,Toyota,Yaris,USED,2017,11290,Hatchback,FALSE,Petrol Hybrid
+2.02E+14,85350,8,Black,Audi,A6 Saloon,USED,2008,2795,Saloon,FALSE,Diesel
+2.02E+14,42000,15,,BMW,3 Series,USED,2015,17500,Estate,FALSE,Diesel
+2.02E+14,15991,66,White,MINI,Hatch,USED,2016,10000,Hatchback,FALSE,Petrol
+2.02E+14,10,,Multicolour,Volkswagen,ID.3,NEW,,35270,Hatchback,FALSE,Electric
+2.02E+14,23933,18,White,Peugeot,3008,USED,2018,19000,SUV,FALSE,Petrol
+2.02E+14,22165,16,Green,Nissan,X-Trail,USED,2016,14495,SUV,FALSE,Diesel
+2.02E+14,5,,,SKODA,Fabia,NEW,,23320,Hatchback,FALSE,Petrol
+2.02E+14,75000,16,Black,BMW,3 Series,USED,2016,13495,Saloon,FALSE,Diesel
+2.02E+14,4670,18,Black,Smart,forfour,USED,2018,7290,Hatchback,FALSE,Petrol
+2.02E+14,115000,12,Silver,Mercedes-Benz,C Class,USED,2012,5050,Saloon,FALSE,Diesel
+2.02E+14,63620,12,Red,Kia,Picanto,USED,2012,5299,Hatchback,FALSE,Petrol
+2.02E+14,40361,56,Silver,Saab,3-Sep,USED,2007,4995,Saloon,FALSE,Petrol
+2.02E+14,103000,11,Black,Volkswagen,Touareg,USED,2011,11995,SUV,FALSE,Diesel
+2.02E+14,54419,15,White,MINI,Hatch,USED,2015,10700,Hatchback,FALSE,Petrol
+2.02E+14,7022,69,Black,Audi,Q2,USED,2020,25950,SUV,FALSE,Petrol
+2.02E+14,46000,62,Black,BMW,3 Series,USED,2012,10995,Convertible,FALSE,Petrol
+2.02E+14,32679,15,White,Renault,Megane,USED,2015,6989,Hatchback,FALSE,Diesel
+2.02E+14,10,70,Blue,Lotus,Elise,USED,2020,47775,,FALSE,Petrol
+2.02E+14,0,,Black,Volkswagen,Arteon,NEW,,28744,Saloon,FALSE,Petrol
+2.02E+14,69835,66,Blue,SEAT,Ateca,USED,2017,11450,SUV,FALSE,Diesel
+2.02E+14,1367,69,Black,Mercedes-Benz,C Class,USED,2019,29199,Saloon,FALSE,Diesel
+2.02E+14,7632,19,Silver,Vauxhall,Astra,USED,2019,12999,Hatchback,FALSE,Petrol
+2.02E+14,38000,14,White,Mercedes-Benz,CLA Class,USED,2014,15995,Coupe,FALSE,Diesel
+2.02E+14,48000,64,Blue,Nissan,Juke,USED,2014,8495,SUV,FALSE,Petrol
+2.02E+14,36250,66,Black,Audi,A6 Allroad,USED,2016,25990,Estate,FALSE,Diesel
+2.02E+14,25000,67,Green,Fiat,500,USED,2017,9000,Hatchback,FALSE,Petrol
+2.02E+14,78000,8,,Vauxhall,Astra,USED,2008,1398,Hatchback,FALSE,Petrol
+2.02E+14,69000,9,Black,Vauxhall,Corsa,USED,2009,2100,Hatchback,FALSE,Petrol
+2.02E+14,29938,17,Grey,Kia,Sportage,USED,2017,19750,SUV,FALSE,Petrol
+2.02E+14,120000,60,Silver,SKODA,Octavia,USED,2011,2895,Estate,FALSE,Diesel
+2.02E+14,48000,65,White,Mercedes-Benz,C Class,USED,2015,32995,Saloon,FALSE,Petrol
+2.02E+14,91150,4,Silver,BMW,3 Series,USED,2004,4500,Convertible,FALSE,Petrol
+2.02E+14,7049,69,White,Nissan,Qashqai,USED,2020,16999,SUV,FALSE,Petrol
+2.02E+14,104781,3,Blue,BMW,3 Series,USED,2003,1500,Coupe,FALSE,Petrol
+2.02E+14,19486,68,Grey,Fiat,500,USED,2018,10399,Hatchback,FALSE,Petrol
+2.02E+14,32447,67,Red,SEAT,Mii,USED,2017,6300,Hatchback,FALSE,Petrol
+2.02E+14,31704,66,White,Audi,Q3,USED,2016,18150,SUV,FALSE,Diesel
+2.02E+14,40717,12,Silver,Land Rover,Range Rover Sport,USED,2012,15500,SUV,FALSE,Diesel
+2.02E+14,57846,65,White,Mercedes-Benz,GLA Class,USED,2015,16480,SUV,FALSE,Diesel
+2.02E+14,250,20,Grey,Mercedes-Benz,GLA Class,USED,2020,23995,SUV,FALSE,Petrol
+2.02E+14,36350,14,White,Volkswagen,Polo,USED,2014,7790,Hatchback,FALSE,Petrol
+2.02E+14,15,,Red,Vauxhall,Corsa,NEW,,18795,Hatchback,FALSE,Diesel
+2.02E+14,34216,66,Silver,Mercedes-Benz,C Class,USED,2017,15495,Saloon,FALSE,Petrol
+2.02E+14,50000,12,Silver,MINI,Hatch,USED,2012,6975,Hatchback,FALSE,Diesel
+2.02E+14,57496,63,Black,MINI,Countryman,USED,2013,8100,SUV,FALSE,Diesel
+2.02E+14,76000,13,White,Mercedes-Benz,C Class,USED,2013,25000,Saloon,FALSE,Petrol
+2.02E+14,37286,16,Blue,Audi,A6 Avant,USED,2016,20000,Estate,FALSE,Diesel
+2.02E+14,26483,66,Red,Kia,Sportage,USED,2016,15299,SUV,FALSE,Diesel
+2.02E+14,38700,62,Black,Fiat,500,USED,2012,3995,Hatchback,FALSE,Petrol
+2.02E+14,28113,65,Grey,Fiat,500,USED,2015,5995,Hatchback,FALSE,Petrol
+2.02E+14,10900,19,White,Audi,Q2,USED,2019,22290,SUV,FALSE,Diesel
+2.02E+14,80230,6,Silver,Citroen,C5,USED,2006,1195,Hatchback,FALSE,Diesel
+2.02E+14,36000,64,Black,Audi,A3,USED,2014,9495,Hatchback,FALSE,Diesel
+2.02E+14,11567,18,Black,BMW,6 Series Gran Coupe,USED,2018,31521,Saloon,FALSE,Diesel
+2.02E+14,32000,17,White,Vauxhall,Mokka X,USED,2017,8995,SUV,FALSE,Petrol
+2.02E+14,99000,8,Blue,Toyota,AYGO,USED,2008,2490,Hatchback,FALSE,Petrol
+2.02E+14,140000,58,Silver,Volkswagen,Golf,USED,2008,999,Hatchback,FALSE,Diesel
+2.02E+14,22900,65,White,Mazda,Mazda3,USED,2015,8800,Hatchback,FALSE,Petrol
+2.02E+14,96000,14,Red,Vauxhall,Insignia,USED,2014,4750,Hatchback,FALSE,Diesel
+2.02E+14,95050,60,Black,Nissan,Note,USED,2010,2475,Hatchback,FALSE,Petrol
+2.02E+14,21931,67,Black,BMW,4 Series Gran Coupe,USED,2017,21350,Saloon,FALSE,Diesel
+2.02E+14,23032,17,Grey,Subaru,Outback,USED,2017,19495,Estate,FALSE,Petrol
+2.02E+14,25432,11,White,MINI,Countryman,USED,2011,6995,SUV,FALSE,Petrol
+2.02E+14,91401,62,Black,BMW,X5,USED,2012,13750,SUV,FALSE,Diesel
+2.02E+14,9186,69,Silver,Volvo,XC40,USED,2020,29950,SUV,FALSE,Petrol
+2.02E+14,96000,7,Blue,Audi,A4 Avant,USED,2007,3250,Estate,FALSE,Diesel
+2.02E+14,8835,68,Grey,SEAT,Leon,USED,2018,12795,Hatchback,FALSE,Petrol
+2.02E+14,30174,18,White,Nissan,Qashqai,USED,2018,15495,SUV,FALSE,Diesel
+2.02E+14,22212,16,White,Mercedes-Benz,E Class,USED,2016,18490,Convertible,FALSE,Diesel
+2.02E+14,58270,15,White,Kia,Sportage,USED,2015,9500,SUV,FALSE,Diesel
+2.02E+14,83000,59,White,MINI,Hatch,USED,2009,3250,Hatchback,FALSE,Petrol
+2.02E+14,26982,67,Black,Suzuki,Vitara,USED,2018,13450,SUV,FALSE,Petrol
+2.02E+14,18077,68,Grey,Nissan,Juke,USED,2018,11995,SUV,FALSE,Diesel
+2.02E+14,16148,69,Black,Hyundai,Tucson,USED,2019,16350,SUV,FALSE,Petrol
+2.02E+14,68000,13,Grey,BMW,1 Series,USED,2013,6495,Hatchback,FALSE,Diesel
+2.02E+14,50962,14,Blue,Volkswagen,Scirocco,USED,2014,8990,Coupe,FALSE,Petrol
+2.02E+14,32227,67,White,Jeep,Grand Cherokee,USED,2017,25950,SUV,FALSE,Diesel
+2.02E+14,110000,6,Grey,Renault,Grand Scenic,USED,2006,500,MPV,FALSE,Petrol
+2.02E+14,43000,14,White,Mercedes-Benz,CLA Class,USED,2014,18500,Coupe,FALSE,Petrol
+2.02E+14,44235,15,Black,Volkswagen,Polo,USED,2015,6980,Hatchback,FALSE,Petrol
+2.02E+14,44689,17,Silver,Vauxhall,Zafira Tourer,USED,2017,9000,MPV,FALSE,Petrol
+2.02E+14,27471,17,Blue,BMW,3 Series Gran Turismo,USED,2017,17300,Hatchback,FALSE,Diesel
+2.02E+14,26291,17,Black,Mercedes-Benz,C Class,USED,2017,17300,Saloon,FALSE,Diesel
+2.02E+14,122675,15,Grey,Mercedes-Benz,C Class,USED,2015,13200,Saloon,FALSE,Diesel Hybrid
+2.02E+14,70000,17,Black,Vauxhall,Insignia,USED,2017,10989,Hatchback,FALSE,Diesel
+2.02E+14,65303,53,Silver,Porsche,Boxster,USED,2003,8750,Convertible,FALSE,Petrol
+2.02E+14,72178,64,Brown,Vauxhall,Zafira Tourer,USED,2014,6600,MPV,FALSE,Diesel
+2.02E+14,81000,63,White,Dacia,Sandero,USED,2013,2499,Hatchback,FALSE,Petrol
